@@ -1,18 +1,23 @@
+# wikipedia page scraper and table extractor
+# by David Unland
+# March 2020
+
 import requests
-# import bs4
 import pandas as pd
 import lxml.html as lh
 
 source = requests.get('https://de.wikipedia.org/wiki/Liste_fossil-thermischer_Kraftwerke_in_Deutschland')
 
-# content = bs4.BeautifulSoup(source.text, 'lxml')
 doc = lh.fromstring(source.content)
 tr_elements = doc.xpath('//tr')
+
+for x in range(1,len(tr_elements)):
+    print(tr_elements[x].text)
 
 i = 0
 col = []
 
-for t in tr_elements[0]:
+for t in (tr_elements[0]):
     i += 1
     name=t.text_content()
     print('%d: %s'%(i, name))
@@ -36,6 +41,29 @@ for j in range(1,len(tr_elements)):
         #Increment i for the next column
         i+=1
 
-dict={title:column for (title,column) in col}
-df=pd.DataFrame(dict)
+# col  # Tabelle
+# col[0]  # Spalte
+# col[0][0]  # Zeile
+# col[0][0][0]  # Buchstabe
+#
+# col[:][0]  # Spalte 0 mit allen Zeilen
+# col[0][0]  # KW-Name
+# col[1][0]  # Bruttoleistung
+
+dict={title:pd.Series(column) for (title,column) in col}
+dict
+
+df=pd.DataFrame.from_dict(dict)
 df
+
+# remove line breaks from table headers
+for oldName in (df.columns):
+    if str(oldName)[-1:] == '\n':
+        newName = (str(oldName)[:-1])
+        print(newName)
+        df = df.rename(columns={oldName:newName})
+
+# remove line breaks from rows
+df = df.replace('\n', '', regex=True)
+df = df.replace(r'\s', '', regex=True)  # removes all white spaces
+df.to_csv('liste-thermisch-fossiler-kraftwerke.csv')
