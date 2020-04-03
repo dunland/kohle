@@ -1,294 +1,5319 @@
 ,KW-Name,Brutto­leistungin MWel,Wärmeaus­kopplungin MWth,Energie­träger,Standort,Bun­des­land,Inbetrieb­nahme/Ertüchtigung,(geplante)Still­legung,Bemerkungen,Betreiber,Koordinaten
-0,GasturbinenkraftwerkAhrensfelde[3],152,0,Erdgas,Ahrensfelde,BrandenburgBrandenburg,GTA:1990GTB:1990GTC:1990GTD:1990,0!GTA:2016KaltreserveGTB:2016KaltreserveGTC:2016KaltreserveGTD:2016Kaltreserve,GTA:38MW(Netto)GTB:38MW(Netto)GTC:38MW(Netto)GTD:38MW(Netto)sollalsKapazitätsreservegenutztwerden[4],LEAG,"!552.5896115513.558611552°35′22,6″N,013°33′31,0″O52.58961111111113.558611111111"
-1,HeizkraftwerkAltbach/Deizisau[5],"1350(davon855Steinkohle,305Erdgasund190Erdgas/Öl)",280,"Steinkohle:HKW1,HKW2Öl:GTA,GTB,GTC,Block4Erdgas:GTA,GTB,GTC,GTE,Block4",AltbachDeizisau,Baden-WürttembergBaden-Württemberg,Block1:1950Block2:1982Block3:1960Block4:1972mitGTA:1972HKW1:1985/2006HKW2:1997/2012mitGTE:1997GTB:1974GTC:1976,"Block1:1982Block2:1993Block3:1993Block4:2000?(Kaltreserve)2019!HKW1:2017(Netzreserve)(HKW2mitGTE,GTA,GTBundGTC:untersagtbis1JahrnachBeginnderEngpassbewirtschaftungDeutschland/Österreich(1.Oktober2018)[6],längstensbis31.März2020[1])",Block1:?MW(Netto)Block2:?MW(Netto)Block3:?MW(Netto)Block4:ca.175MW(Netto)mitGTA:50MW(Netto)HKW1:433MW(Netto)HKW2:336MW(Netto)mitGTE:65MW(Netto)GTB:57MW(Netto)GTC:81MW(Netto),EnBWEnergieBaden-WürttembergAG,"!548.7170615509.367475548°43′01,4″N,009°22′02,9″O48.7170611111119.367475"
-2,IndustriekraftwerkAmsdorf[7](Grubenheizkraftwerk),55,189,Braunkohle,Amsdorf,Sachsen-AnhaltSachsen-Anhalt,1979,,45MW(Netto)Eigenstrom-undDampfversorgungderörtlichenMontanwachsfabrikunddesangeschlossenenTagebausAmsdorf,ROMONTAGmbH,
-3,IndustriekraftwerkAnnweiler[3],ca.30,?,Erdgas,Annweiler,Rheinland-PfalzRheinland-Pfalz,1976,,28MW(Netto)Eigenstrom-undDampfversorgungderörtlichenKartonfabrik,KartonfabrikBuchmann,
-4,IndustriekraftwerkAschaffenburg[3],ca.50,?,"Erdgas:HKW,GuDHeizöl:NotstromdieselBiomasse:BHKW1undBHKW2",Aschaffenburg,BayernBayern,HKW:?Notstromdiesel:1991BHKW1:2005BHKW2:2010GuD:2013,HKW:2012,HKW:27MW(Netto)Notstromdiesel:1MW(Netto)BHKW1:1MW(Netto)BHKW2:1MW(Netto)GuD:47MW(Netto)Eigenstrom-undDampfversorgungderörtlichenPapierfabrik,DSSmithPaperDeutschlandGmbH,
-5,KraftwerkAudorf[8],87,0,Mineralölprodukte,Osterrönfeld,Schleswig-HolsteinSchleswig-Holstein,1973,,87MW(Netto),UniperKraftwerkeGmbH,
-6,Gasturbinen-HeizkraftwerkAugsburg-Ost[9],ca.31,41(320MWhWärmespeicher),Erdgas,Augsburg,BayernBayern,2004,,31MW(Netto),StadtwerkeAugsburgEnergieGmbH,
-7,HeizkraftwerkAugsburg[3],ca.20,?,"Erdgas,Heizöl",Augsburg,BayernBayern,1976,,20MW(Netto),StadtwerkeAugsburgEnergieGmbH,
-8,IndustriekraftwerkAugsburg[3],ca.30,?,Erdgas,Augsburg,BayernBayern,1976,2015?(Kaltreserve),29MW(Netto)Eigenstrom-undDampfversorgungderörtlichenPapierfabrik,UPMGmbHWerkAugsburg,
-9,IndustriekraftwerkBadKreuznach[3],ca.12,?,Erdgas,BadKreuznach,Rheinland-PfalzRheinland-Pfalz,2006,,11MW(Netto)Eigenstrom-undDampfversorgungderörtlichenReifenfabrik,MichelinReifenwerkeAG&Co.KGaA,
-10,HeizkraftwerkBadSalzungen[10][11],21,67(davon20ausKWK;ca.300MWhWärmespeicher),Erdgas,BadSalzungen,ThüringenThüringen,HKW:1994GM:2018,,HKW:10MW(Netto)GM:10MW(Netto),TEAGThüringerEnergieAG,
-11,Kraftwärme-KopplungsanlageBarby[3],ca.20,?,Erdgas,Barby,Sachsen-AnhaltSachsen-Anhalt,1994,,18MW(Netto)Eigenstrom-undDampfversorgungderörtlichenStärke-undAlkoholfabrik,CargillDeutschlandGmbH,
-12,GuDBaunatal[12],ca.80,312,Erdgas,Baunatal,HessenHessen,GuD:2011HKWKassel:1961,HKWKassel:2013,GuD:78MW(Netto)HKWKassel:12MW(Netto)Eigenstrom-undDampfversorgungderörtlichenAutomobilfabrik,VolkswagenAG,
-13,HeizkraftwerkBautzen[13],7,33(davon8ausKWK;130MWhWärmespeicher),Erdgas,Bautzen,SachsenSachsen,2017,,6MW(Netto),Energie-undWasserwerkeBautzenGmbH,
-14,KraftwerkBergkamen[14][15],780,20,Steinkohle,Bergkamen,Nordrhein-WestfalenNordrhein-Westfalen,BlockA:1981,0!BlockA:?,BlockA:717MW(Netto),SteagGmbH,"!551.6367115507.620569551°38′12,2″N,007°37′14,0″O51.6367111111117.6205694444444"
-15,HeizkraftwerkBerlin-Adlershof[16],13,96,Erdgas,Berlin-Adlershof,BerlinBerlin,1966/92/2015,0!,13MW(Netto),Blockheizkraftwerks-TrägerundBetriebsgesellschaftmbHBerlin,
-16,HeizkraftwerkBerlin-Buch[17],13,137,Öl(Heizöl)Erdgas,Berlin-Buch,BerlinBerlin,Altanlage:1974Neuanlage:2014,Altanlage:2014,13MW(Netto),VattenfallEuropeWärmeAG,"!552.6350005513.510325552°38′06,0″N,013°30′37,2″O52.63513.510325"
-17,HeizkraftwerkBerlin-Charlottenburg[18],144,295,Öl(Heizöl)Erdgas,Berlin-Charlottenburg,BerlinBerlin,GT4:1976!1976/2000GT5:1976!1976/2000GT6:1976!1976/2000,GT4:?GT5:?GT6:2018,GT4:72MW(Netto)GT5:72MW(Netto)GT6:67MW(Netto),VattenfallEuropeWärmeAG,"!552.5221565513.308661552°31′19,8″N,013°18′31,2″O52.52215555555613.308661111111"
-18,HeizkraftwerkB11[19],2,2,Erdgas,Berlin-Marienfelde,BerlinBerlin,?/2017,,2MW(Netto),DaimlerAGMercedesBenzWerkBerlin,
-19,HeizkraftwerkBerlin-Klingenberg[20],188,1010(davon760ausKWK),Erdgas,Berlin-Rummelsburg,BerlinBerlin,19822017UmrüstungvonBraunkohleaufErdgas,2025!(2025:UmrüstungvonErdgasaufPowertoHeatgeplant),164MW(Netto),VattenfallEuropeWärmeAG,"!552.4900255513.495942552°29′24,1″N,013°29′45,4″O52.49002513.495941666667"
-20,BlockheizkraftwerkBerlin-Köpenick[21],10,50,ÖlErdgas,Berlin-Köpenick,BerlinBerlin,1994,0!,,VattenfallEuropeWärmeAG,"!552.4352785513.581667552°26′07,0″N,013°34′54,0″O52.43527777777813.581666666667"
-21,HeizkraftwerkBerlin-Lichterfelde[22],ca.480,613,Erdgas,Berlin-Lichterfelde,BerlinBerlin,Block1:1972/98Block2:1973/98Block3:1974/98GuDA:2019,2019!(Block1:2019/20)Block2:2016Block3:2018GuDA:?,Block1:144MW(Netto)Block2:144MW(Netto)Block3:144MW(Netto)GuDA:300MW(Netto),VattenfallEuropeWärmeAG,"!552.4256255513.310267552°25′32,3″N,013°18′37,0″O52.42562513.310266666667"
-22,HeizkraftwerkBerlin-Marzahn[23],260!(260)imBau,230!(230)imBau+?,Erdgas,Berlin-Marzahn,BerlinBerlin,(GuD:2019/20),0!,GuD:254MW(Netto),VattenfallEuropeWärmeAG,"!552.5234035513.522211552°31′24,3″N,013°31′20,0″O52.52340277777813.522211111111"
-23,HeizkraftwerkBerlin-Mitte[24],468,1210(davon680ausKWK),Erdgas,Berlin-Mitte,BerlinBerlin,1997,0!,444MW(Netto)GuD-KraftwerkmitzweiGTundeinerDT,VattenfallEuropeWärmeAG,"!552.5115925513.420992552°30′41,7″N,013°25′15,6″O52.51159166666713.420991666667"
-24,HeizkraftwerkBerlin-Moabit[25],140(davonca.105Steinkohleundca.35Mineralölprodukte),240,SteinkohleBiomasseMineralölprodukte,Berlin-Moabit,BerlinBerlin,BlockA:1969/1990GT7:1971,2030!(BlockA:spätestens2030Steinkohle-Verfeuerung[26])GT7:?,BlockA:89MW(Netto)GT7:34MW(Netto),VattenfallEuropeWärmeAG,"!552.5375005513.345833552°32′15,0″N,013°20′45,0″O52.537513.345833333333"
-25,FernheizwerkBerlin-Neukölln[27],ca.10,ca.60(incl.10PtH;ca.300MWhWärmespeicher),Erdgas/Heizöl,Berlin-Neukölln,BerlinBerlin,2001/11/13/14,,ca.10MW(Netto)verteiltaufmehrereBHKWs,FernheizwerkNeuköllnAG(Hauptaktionär:VattenfallEurpeWärmeAG),
-26,HeizkraftwerkBerlin-Neukölln[16],20,98,ErdgasEBS(Altholz),Berlin-Neukölln,BerlinBerlin,2006,0!,20MW(Netto),Blockheizkraftwerks-TrägerundBetriebsgesellschaftmbHBerlin,
-27,HeizkraftwerkBerlin-Schöneweide[16],10,36,Steinkohle,Berlin-Schöneweide,BerlinBerlin,Altanlage:1963Neuanlage:1992/2004,0!,10MW(Netto),Blockheizkraftwerks-TrägerundBetriebsgesellschaftmbHBerlin,
-28,HeizkraftwerkBerlin-ReuterWest[28],600,758(zuzüglich120(PtHundErdgas)vombenachbartenehemaligenKraftwerkReuter[29];Wärmespeichergeplant[30]),Steinkohle,Berlin-Siemensstadt,BerlinBerlin,BlockD:1987BlockE:1988,2030!(BlockDundE:spätestens2030Steinkohle-Verfeuerung[26]),BlockD:282MW(Netto)BlockE:282MW(Netto),VattenfallEuropeWärmeAG,"!552.5345695513.244533552°32′04,4″N,013°14′40,3″O52.53456944444413.244533333333"
-29,HeizkraftwerkBerlin-Scharnhorststraße[31],12,200,Erdgas,Berlin-Mitte,BerlinBerlin,2018,0!,12MW(Netto),VattenfallEuropeWärmeAG,
-30,EnergieversorgungBerlin-Wedding[3],ca.16,?,Erdgas,Berlin-Wedding,BerlinBerlin,1972,,15MW(Netto),BayerAG,
-31,HeizkraftwerkBerlin-Wilmersdorf[32],184,285,Öl(Heizöl),Berlin-Wilmersdorf,BerlinBerlin,GT1:1977GT2:1977GT3:1977,2019!GT1:?GT2:?GT3:2019,GT1:92MW(Netto)GT2:92MW(Netto)GT3:92MW(Netto),VattenfallEuropeWärmeAG,"!552.4816365513.307867552°28′53,9″N,013°18′28,3″O52.48163611111113.307866666667"
-32,KraftwerkBernburg[3],155,232,Erdgas,Bernburg,Sachsen-AnhaltSachsen-Anhalt,1994,0!,141MW(Netto)Eigenstrom-undDampfversorgungdesörtlichenChemieparksKraftwerkwird2020modernisiert[33],SolvayChemicalsGmbH,
-33,IndustriekraftwerkVille/Berrenrath[34],107,40,BraunkohleBiomasseKlärschlamm,Hürth-Knapsack/Berrenrath,Nordrhein-WestfalenNordrhein-Westfalen,1917/91,0!,98MW(Netto)EingestromversorgungundDampfversorgungdesKohleveredlungsbetriebesVille/Berrenrath,RWEPowerAG,"!550.8653335506.824111550°51′55,2″N,006°49′26,8″O50.8653333333336.8241111111111"
-34,KraftwerkBexbach[35],780,0,Steinkohle,Bexbach,SaarlandSaarland,1983,2020!(untersagtbis30.04.2020[1]),726MW(Netto),SteagGmbH,"!549.3634755507.237050549°21′48,5″N,007°14′13,4″O49.3634757.23705"
-35,KraftwerkChemieparkBitterfeld[36],108,110,Erdgas,Bitterfeld,Sachsen-AnhaltSachsen-Anhalt,1976/2000,0!,106MW(Netto)Eigenstrom-undDampfversorgungdesörtlichenChemieparks;Turbinewird2020modernisiert[36],enviaTHERMGmbH,
-36,HeizkraftwerkBohrhügel[3],ca.15,?,ErdgasHeizöl,Suhl,ThüringenThüringen,1995,,14MW(Netto),StadtwerkeSuhl/Zella-Mehlis,
-37,HeizkraftwerkBomlitz[3],ca.15,?,Erdgas,Bomlitz,NiedersachsenNiedersachsen,GuD:1969BHKW:2019,GuD:2019[37]BHKW:?,GuD:16MW(Netto)BHKW:13MW(Netto)Eigenstrom-undDampfversorgungdesIndustrieparksWalsrode,EnBWEnergieBaden-WürttembergAG,
-38,KraftwerkBoxberg[38],2582,125,Braunkohle,Boxberg,SachsenSachsen,BlockN:1979/1993BlockP:1980/1994BlockQ:2000BlockR:2012,0!BlockN:2029spätestens[39]BlockP:2029spätestens[39]BlockQ:2038spätestensBlockR:2038spätestens,BlockN:465MW(Netto)BlockP:465MW(Netto)BlockQ:857MW(Netto)BlockR:640MW(Netto),LEAG,"!551.4149865514.561600551°24′54,0″N,014°33′41,8″O51.41498611111114.5616"
-39,HeizkraftwerkBrandenburganderHavel[40],ca.40,130(davon50ausKWK;64MWhWärmespeicher),Erdgas,BrandenburganderHavel,BrandenburgBrandenburg,1997,,37MW(Netto),StadtwerkeBrandenburganderHavelGmbH&Co.KG,
-40,"Blockheizkraftwerk""Braunschweig""[3]",ca.11,?,Erdgas,Wolfsburg,NiedersachsenNiedersachsen,2014,,10MW(Netto),VolkswagenKraftwerkGmbH,
-41,HeizkraftwerkBraunschweig-Mitte[41],155(davonca.55Steinkohleundca.100Erdgas),386(500MWhWärmespeicher),"Steinkohle:Block1Schweröl:Block1,Block12Heizöl:GuDErdgas:Block1,Block12,GuD",Braunschweig,NiedersachsenNiedersachsen,Block12:1971Block1:1984GuD:2010,2022!(Block1:2022spätestens[42]),Block12:20MW(Netto)Block1:43MW(Netto)GuD:74MW(Netto)(Block1solldurcheinGasturbinen-HKWmitca.20MWelundca.60MWthsowiedurcheinBiomasse-HKWmitca.20MWelundca.70MWthersetztwerden.[42]),BraunschweigerVersorgungs-AG&Co.KG,"!552.2787695510.514989552°16′43,6″N,010°30′54,0″O52.27876944444410.514988888889"
-42,HeizkraftwerkBraunschweig-Nord[41],27,80,Erdgas,Braunschweig,NiedersachsenNiedersachsen,GT:1965,,GT:25MW(Netto),BraunschweigerVersorgungs-AG&Co.KG,
-43,KWK-AnlageBremen[3],ca.16,?,Erdgas,BremenIndustriehäfen,BremenBremen,1993/2002,,15MW(Netto)Eigenstrom-undDampfversorgungfürKaffeeverarbeitung,CR3-KaffeeveredelungM.HermsenGmbH,
-44,KraftwerkBremen-Farge[43],397,26,SteinkohleKlärschlamm,Bremen-Farge,BremenBremen,Altwerk:1924/26Block1:1969/2007,2024!Altwerk:1980(Block1:2024[44]),Altwerk:ca.12MW(Netto)Block1:350MW(Netto),OnyxPowerAssetsGmbH,"!553.2021255508.516100553°12′07,7″N,008°30′58,0″O53.2021258.5161"
-45,KraftwerkBremen-Hafen[45],337,39,Steinkohle,BremenIndustriehäfen,BremenBremen,Block1:1957Block2:1957Block3:1962Block4:1964Block5:1968Block6:1979/2013,2026!Block1:stillgelegtBlock2:stillgelegtBlock3:stillgelegtBlock4:stillgelegtBlock5:2016Block6:2020,Block1:?Block2:?Block3:?Block4:?Block5:127MW(Netto)Block6:303MW(Netto)NutztauchDampfvombenachbartenMittelkalorik-KraftwerkBremen,swbErzeugungAG&Co.KG,"!553.1248725508.728642553°07′29,5″N,008°43′43,1″O53.1248722222228.7286416666667"
-46,KraftwerkBremen-Hastedt[45],130,150(230MWhWärmespeicher),Erdgas:Block14Steinkohle:Block15,Bremen-Hastedt,BremenBremen,Block14:1972Block15:1989,0!Block14:2016Block15:?,Block14:155MW(Netto)Block15:119MW(Netto),swbErzeugungAG&Co.KG,"!553.0597785508.873167553°03′35,2″N,008°52′23,4″O53.0597777777788.8731666666667"
-47,KraftwerkBremen-Mittelsbüren[45],248,0,"Schweröl:Blöcke1,2,4bis2002Heizöl:GT3Erdgas:Blöcke3,4Gichtgas,Konvertergas:Blöcke1,2,3,sowie4ab2002",Bremen-Werderland,BremenBremen,Block1:1964Block2:1965Block3:1975GT3:1975Block4:1975/2002,0!Block1:2002Block2:2004Block3:2013GT3:?Block4:?,Block1:ca.50MW(Netto)Block2:ca.50MW(Netto)Block3:110MW(Netto)GT3:86MW(Netto)Block4:150MW(Netto),swbErzeugungAG&Co.KG,"!553.1289815508.683394553°07′44,3″N,008°41′00,2″O53.1289805555568.6833944444444"
-48,GemeinschaftskraftwerkBremen(GKB)[46],460,0,Erdgas,Bremen-Werderland,BremenBremen,GuD:2016,0!,GuD:445MW(Netto)(davon165MWBahnstrom),swbErzeugungAG&Co.KG,"!553.1293815508.681978553°07′45,8″N,008°40′55,1″O53.1293805555568.6819777777778"
-49,IndustriekraftwerkBremerhaven[3],ca.20,?,Erdgas,Bremerhaven,BremenBremen,2014,,17MW(Netto)Eigenstrom-undDampfversorgungfürTitandioxid-Produktion,KronosTitanGmbH,
-50,IndustriekraftwerkBreuberg[47],12,20,Erdgas,Breuberg,HessenHessen,1999,,11MW(Netto)Eigenstrom-undDampfversorgungdesörtlichenPirelli-Werkes,IndustriekraftwerkBreubergGmbH,
-51,KraftwerkBurghausen[3],178,350,"Erdgas,Heizöl",Burghausen,BayernBayern,GT:2001DT:1979,0!,GT:120MW(Netto)DT:50MW(Netto)Eigenstrom-undDampfversorgungdesörtlichenChemieparks,WackerChemieAG,"48°11'14.719""N,012°50'6.958""O"
-52,KraftwerkBuschhaus[48],405,0,Braunkohle,Schöningen,NiedersachsenNiedersachsen,BlockD:1985,2020!(BlockD:01.10.2020[49];seitdem01.10.2016inderSicherheitsbereitschaft),BlockD:352MW(Netto),HelmstedterRevierGmbH(MitteldeutscheBraunkohlengesellschaftmbH),"!552.1717645510.977192552°10′18,4″N,010°58′37,9″O52.17176388888910.977191666667"
-53,IndustriekraftwerkMarl[3],ca.550,1213,"Steinkohle:KWI,KWIIErdgas:KWIII,KWIVRückständederChemieproduktion:KWI,KWII",Marl,Nordrhein-WestfalenNordrhein-Westfalen,KWIDampfwirt-schaft:1939KWIBlock4:1971KWIBlock5:1983KWIIBlock3:1966KWIIIBlock311:1973/2003/2005KWIIIBlock312:1974/2003/2005KraftwerkIV:2016(Block?:2022)(Block?:2022),0!(KWIBlock4:2022[50])(KWIBlock5:2022[50])KWIIBlock3:2017,KWIDampfwirtschaft:169MW(Netto)KWIBlock4:56MW(Netto)KWIBlock5:68MW(Netto)KWIIBlock3:60MW(Netto)KraftwerkIIIBlock311:61MW(Netto)KraftwerkIIIBlock312:78MW(Netto)KraftwerkIV(GuD):61MW(Netto)(GuDmitzweiBlöckenzuje90MWelgeplant[50])Eigenstrom-undDampfversorgungdesChemieparksMarl,EvonikDegussaGmbH,"!551.6927785507.109167551°41′34,0″N,007°06′33,0″O51.6927777777787.1091666666667"
-54,HeizkraftwerkChemnitz-Nord[51],167,390(davon305ausKWK;ca.700MWhWärmespeicher),"Braunkohle:BlockB,BlockCHeizöl/Erdgas:BlockA",Chemnitz,SachsenSachsen,BlockA:1986BlockB:1988BlockC:1990/2010,2028!BlockA:2016nachHavarie(BlockB:2022/29[52])(BlockC:2022/29),"DerzeithöchsterSchornsteinDeutschlandsBlockA:57MW(Netto)BlockB:57MW(Netto)BlockC:91MW(Netto)(Gasmotorenkraftwerkmit80MWelund80MWthinPlanung,weiterhinwirdeinGasmotorenkraftwerkmit50MWelund50MWthamStandortAltchemnitzgeplant,Inbetriebnahmefür2022vorgesehen[53])",StadtwerkeChemnitz,"!550.8577815512.923831550°51′28,0″N,012°55′25,8″O50.85778055555612.923830555556"
-55,KraftwerkClauen[3],ca.20,?,"Erdgas,Biogas",Hohenhameln,NiedersachsenNiedersachsen,2003,,16MW(Netto)Eigenstrom-undDampfversorgungderörtlichenZuckerfabrik,"NordzuckerAG,WerkClauen",
-56,HeizkraftwerkCottbus[54],80,120(davon90ausKWK;300MWhWärmespeicherimBau),Braunkohle,Cottbus,BrandenburgBrandenburg,1999,2022!(2022),"74MW(Netto)weltweiterstesBraunkohlekraftwerkmitDruckwirbelschichtverbrennung(UmstellungaufErdgasimBau,dazuErweiterungumeinGasmotorenkraftwerkmit50MWelund50MWth[55])",HKWHeizkraftwerksgesellschaftCottbusmbH,"!551.7609125514.370271551°45′39,3″N,014°22′13,0″O51.76091214.370271"
-57,GTKWDarmstadt[56],95,0,Erdgas,Darmstadt,HessenHessen,2012,0!2012(Netzreserve),95MW(Netto)zweiGT,EntegaAG,"49°53'8.502""N,008°38'57.383""O"
-58,HeizkraftwerkDarmstadt[3],11,?,Erdgas,Darmstadt,HessenHessen,1999,,10MW(Netto),MerckKGaA,
-59,KraftwerkDatteln[57],1100!(1100)imBau,380!(380)imBau,Steinkohle,Datteln,Nordrhein-WestfalenNordrhein-Westfalen,Block1:1964Block2:1965Block3:1969Block4:2020?[58],0!Block1:2014Block2:2014Block3:2014(Block4:2038spätestens),"Block1:95MW(Netto)Block2:95MW(Netto)Block3:113MW(Netto)(Block4:1052MW(Netto),davon413MWBahnstrom,seit2007imBau,Bauzwischenzeitlichgerichtlichunterbrochen,BlockläuftmittlerweileinTeillast)",UniperKraftwerkeGmbH,"!551.6300445507.331314551°37′48,2″N,007°19′52,7″O51.6300444444447.3313138888889"
-60,KraftwerkDessau[59],51,ca.200(600MWhWärmespeicher),Erdgas,Dessau-Roßlau,Sachsen-AnhaltSachsen-Anhalt,Braunkohleblock:1996Erdgasblock:1996GT:2019,Braunkohleblock:2019,Braunkohleblock:12MW(Netto)Erdgasblock:37MW(Netto)GT:ca.12MW(Netto),DessauerVersorgungs-undVerkehrsgesellschaftmbH-DVV-Stadtwerke,
-61,IndustriekraftwerkDeuben[60],86,100,Braunkohle,Deuben,Sachsen-AnhaltSachsen-Anhalt,1936/1993,0!,67MW(Netto)KWK-AnlageimVerbundmiteinerStaub-undBrikettfabrik,MitteldeutscheBraunkohlengesellschaftmbH,"51°6'42.271""N,012°4'35.702""O"
-62,GichtgaskraftwerkDillingen[61],90,ca.25(1000MWhWärmespeicher),Gichtgas,Dillingen,SaarlandSaarland,2010,,85MW(Netto)Eigenstrom-undDampfversorgungfürdasörtlicheStahlwerk;Wärme-auskopplungzurFernwärme-versorgungderStadt,"Aktien-GesellschaftderDillingerHüttenwerke,ROGESARoheisengesellschaftSaarmbHundZentralkokereiSaarGmbH",
-63,Kraft-Wärme-KopplungsanlageDingolfing[3],ca.20,?,Erdgas,Dingolfing,BayernBayern,GT1:1997GT2:1997BA1:2017,GT1:2017GT2:2017,GT1:7MW(Netto)GT2:7MW(Netto)BA1:16MW(Netto)Eigenstrom-undDampfversorgungderörtlichenPKW-Fabrik,BMWAG,
-64,KraftwerkDormagen[62],597,480,"Erdgas,Heizöl",Dormagen,Nordrhein-WestfalenNordrhein-Westfalen,GuD:2000,0!,GuD:586MW(Netto)Eigenstrom-undDampfversorgungfürdenChemparkDormagen,RWEGenerationSE,"!551.0666675506.833333551°04′00,0″N,006°50′00,0″O51.0666666666676.8333333333333"
-65,HeizkraftwerkDortmund[63],27,170,Erdgas,Dortmund,Nordrhein-WestfalenNordrhein-Westfalen,2004/14,0!2022,26MW(Netto),RWEGenerationSE,"!551.5701065507.528050551°34′12,4″N,007°31′41,0″O51.5701055555567.52805"
-66,IndustriekraftwerkDotternhausen[3],ca.12,0,Ölschiefer,Dotternhausen,Baden-WürttembergBaden-Württemberg,2007,,"10MW(Netto)EigenstromversorgungfürdasörtlicheZementwerk,VerbrennungsrückstandwirdalsAusgangsstofffürZementverwendet",Holcim(Süddeutschland)GmbH,
-67,HeizkraftwerkDresdenNord[64],12,70,ErdgasHeizöl,Dresden,SachsenSachsen,1918/93/95/2018,,10MW(Netto),StadtwerkeDresdenGmbH,
-68,HeizkraftwerkDresdenNossenerBrücke[64],270,480,ErdgasHeizöl,Dresden,SachsenSachsen,1995,0!,260MW(Netto)GuD-Kraftwerk,StadtwerkeDresdenGmbH,"!551.0417975513.708222551°02′30,5″N,013°42′29,6″O51.04179722222213.708222222222"
-69,HeizkraftwerkDresden-Reick[64],2,266(460MWhWärmespeicher),ErdgasHeizöl,Dresden,SachsenSachsen,1976/92/96/2005,0!,2MW(Netto)BaueinesGasmotorenkraftwerkesmit90MWelund80MWthgeplant[65],StadtwerkeDresdenGmbH,
-70,GuD-AnlageDrewsen[66],17,?,Erdgas,Lachendorf,NiedersachsenNiedersachsen,2000,,13MW(Netto)Eigenstrom-undDampfversorgungderörtlichenPapierfabrik,DrewsenSpezialpapiereGmbH&Co.KG,
-71,HeizkraftwerkDuisburg-Hamborn[67],412,150,KuppelgaseausderStahlerzeugung,Duisburg-Hamborn,Nordrhein-WestfalenNordrhein-Westfalen,Block1:1952Block2:1952Block3:1958Block4:1976Block5:2003,Block1:2003?Block2:2003?0!,Block1:ca.27MW(Netto)Block2:ca.27MW(Netto)Block3:59MW(Netto)Block4:101MW(Netto)Block5:225MW(Netto)Eigenstrom-undDampfversorgungfürdasThyssenKrupp-StahlwerkSchwelgern,ThyssenKruppSteelEuropeAG,
-72,HeizkraftwerkSachtleben[3](HeizkraftwerkDuisburg-Homberg),ca.30,?,Braunkohle,Duisburg-Homberg,Nordrhein-WestfalenNordrhein-Westfalen,1964,0!,28MW(Netto)Eigenstrom-undDampfversorgungderörtlichenPigmentfabrik,VenatorGermanyGmbH,"51°26'18,4""N,006°41'53,2""O"
-73,KraftwerkDuisburg-Walsum[68],1200,150(295möglich),Steinkohle,Duisburg-Walsum,Nordrhein-WestfalenNordrhein-Westfalen,Block6:1957Block7:1959Block8:1960Block9:1988Block10:2013,0!Block6:1988Block7:2014Block8:1988Block9:?Block10:?,Block6:60MW(Netto)Block7:129MW(Netto)Block8:129MW(Netto)Block9:370MW(Netto)Block10:725MW(Netto),Block9:SteagGmbHBlock19:STEAG-EVNWalsumKraftwerksgesellschaftmbH,"!551.5285585506.714594551°31′42,8″N,006°42′52,5″O51.5285583333336.7145944444444"
-74,HeizkraftwerkDuisburg-Wanheim[69],286,255(1450MWhWärmespeicher),"Erdgas,Heizöl",Duisburg-Wanheim,Nordrhein-WestfalenNordrhein-Westfalen,BlockIIIA:2002BlockIIIB:2005,0!,BlockIIIA:40MW(Netto)BlockIIIB:234MW(Netto),StadtwerkeDuisburgAG,
-75,DürenKANZANSpezialpapiereGmbH/GetecAG,"1,0",,Braunkohle,Düren,Nordrhein-WestfalenNordrhein-Westfalen,2010,,0!,Getec-Gruppe,
-76,KombinationskraftwerkEilenburg[3],ca.50,?,ErdgasEBS(ResteausPapierherstellung),Eilenburg,SachsenSachsen,1993,,47MW(Netto)Eigenstrom-undDampfversorgungderörtlichenPapierfabrik,StoraEnsoSachsenGmbH,
-77,KraftwerkEisenhüttenstadt[70],116,80,EBS(Konvertergas),Eisenhüttenstadt,BrandenburgBrandenburg,Block?:1954/1998Block7:2013(Block8:2021[71]),0!,Block?:45MW(Netto)Block7:56MW(Netto)Block8:?Eigenstrom-undDampfversorgungfürdasörtlicheStahlwerk;Wärme-auskopplungzurFernwärme-versorgungderStadt,ArcelorMittalEisenhüttenstadtGmbH,
-78,Elsdorf,13,,Braunkohle,Elsdorf(Rheinland),Nordrhein-WestfalenNordrhein-Westfalen,2000,0!,,Pfeifer&LangenGmbH&Co.KG,"50°55'54.7""N,006°33'49.0""O"
-79,HeizkraftwerkEltmann[3],ca.60,?,Erdgas,Eltmann,BayernBayern,2007,0!,57MW(Netto)Eigenstrom-undDampfversorgungderörtlichenPapierfabrik,PalmPowerGmbH&Co.KG,"49°59'5.071""N,010°39'6.916""O"
-80,KraftwerkEmden[72],472(davon450Erdgasund22Biomasse),30,Erdgas:GTundDTBiomasse:Block5,Emden,NiedersachsenNiedersachsen,GT:1973DT:1973Block5:2005,0!GT:?DT:von2001bis2006undseit2012[73](Kaltreserve)Block5:?,GT:50(52)MW(Netto)DT:380(433)MW(Netto)Block5:20(22)MW(Netto)jenachQuelleunterschiedlicheLeistungsangaben,StatkraftMarketsGmbH,"!553.3414725507.206306553°20′29,3″N,007°12′22,7″O53.3414722222227.2063055555556"
-81,HeizkraftwerkErfurt-Iderhoffstraße[3],ca.12,?(250MWhWärmespeicher),Erdgas,Erfurt,ThüringenThüringen,1996,,11MW(Netto),StadtwerkeErfurtEnergieGmbH,
-82,KraftwerkErfurt-Ost[74][75],115,283(davon173ausKWK),Erdgas,Erfurt,ThüringenThüringen,GuD1:1999GuD2:2014,0!,GuD1:77MW(Netto)GuD2:33MW(Netto),StadtwerkeErfurtEnergieGmbH,
-83,HeizkraftwerkErlangen[76],ca.50(davonca.30Steinkohleundca.30Erdgas),208,"Steinkohle:K6DT2Erdgas:GuD1,GuD2Heizöl:K6DT2",Erlangen,BayernBayern,K6DT2:1982GuD1:2005GuD2:2014,2021!(K6GT2:2021[77]),K6GT2:17MW(Netto)GuD1:22MW(Netto)GuD2:7MW(Netto),ErlangerStadtwerkeAG,"!549.5937505510.999972549°35′37,5″N,010°59′59,9″O49.5937510.999972222222"
-84,IndustriekraftwerkEuskirchen[3],ca.18,?,Braunkohle,Euskirchen,Nordrhein-WestfalenNordrhein-Westfalen,1998,0!,15MW(Netto)Eigenstrom-undDampfversorgungderörtlichenZuckerfabrik,Pfeifer&LangenGmbH&Co.KG,"50°39'26.9""N,006°48'36.9""O"
-85,HeizkraftwerkFlensburg[78],206,291(1100MWhWärmespeicher),"Steinkohle:K9,K10,K11Erdgas:K5/T7,K12,K13EBS(Müll):K9,K10,K11Biomasse:K9,K10,K11",Flensburg,Schleswig-HolsteinSchleswig-Holstein,K5/T7:1974/2016K7:1978K8:1982K9:1985K10:1988K11:1992K12:2016(K13:2022),2022!K5/T7:?K7:2016K8:2016(K9:2022)(K10:2022[79])K11:?K12:?K13:?,"K5/T7:29MW(Netto)K7:23MW(Netto)K8:35MW(Netto)K9:33MW(Netto)K10:33MW(Netto)K11:33MW(Netto)K12(GuD):78MW(Netto)K13:bis2022NeubaueineserdgasbetriebenenGuDsmit70MWelund70MWth,danachStilllegungvonzweiKohlekesseln[79]",StadtwerkeFlensburgGmbH,"!554.8038065509.433167554°48′13,7″N,009°25′59,4″O54.8038055555569.4331666666667"
-86,KraftwerkFrankenI[80],843,30,HeizölErdgas,Nürnberg,BayernBayern,Block1:1973Block2:1976,0!,Block1:383MW(Netto)Block2:440MW(Netto)(davoninsgesamt60MWBahnstrom),UniperKraftwerkeGmbH,"!549.4208005511.007678549°25′14,9″N,011°00′27,6″O49.420811.007677777778"
-87,HeizkraftwerkFrankfurt(Oder)[81],50,80(ca.300MWhWärmespeicherimBau),Braunkohle,Frankfurt(Oder),BrandenburgBrandenburg,1997,2022!(2022),45MW(Netto)(Gasmotorenkraftwerkmit50MWelundca.50MWthimBau[82]),StadtwerkeFrankfurt(Oder)GmbH,"52°19'6.222""N,014°31'52.928""O"
-88,HeizkraftwerkFrankfurt-Allerheiligenstraße[83],4,58(davon4ausKWK),Erdgas,FrankfurtamMain,HessenHessen,1953,,4MW(Netto),MainovaAG,
-89,HeizkraftwerkFrankfurt-Messe[83],5,112(davon5ausKWK),Erdgas,FrankfurtamMain,HessenHessen,1987,,5MW(Netto),MainovaAG,
-90,HeizkraftwerkFrankfurt-Niederrad[83],ca.75,235,Erdgas,FrankfurtamMain,HessenHessen,Block1:2004Block2:1973,Block1:?Block2:2017,Block1:70MW(Netto)Block2:56MW(Netto),MainovaAG,"50°5'55.028""N,008°39'17.95""O"
-91,HeizkraftwerkFrankfurt-West[83],273(davon139Steinkohleundca.144Erdgas),430,"Steinkohle:Blöcke2,3Erdgas:Blöcke4,M4,M5",FrankfurtamMain,HessenHessen,Block2:1988Block3:1989Block4:1994BlockM4:1994?BlockM5:2018,2030!(Block2:um2025)(Block3:um2025)[84]Block4:?BlockM4:2016BlockM5:?,Block2:62MW(Netto)Block3:62MW(Netto)Block4:99MW(Netto)BlockM4:20MW(Netto)BlockM5:39MW(Netto),MainovaAG,"!550.0983335508.653361550°05′54,0″N,008°39′12,1″O50.0983333333338.6533611111111"
-92,HeizkraftwerkFrankfurt-Fechenheim1+2,20,?,Braunkohle,FrankfurtamMain,HessenHessen,2011,0!,Eigenstrom-undDampfversorgungfürdenörtlichenChemiepark,AlessaChemieGmbHGetecAG,
-93,HeizkraftwerkFrankfurt-Griesheim,ca.20,?,Braunkohle,FrankfurtamMain,HessenHessen,2016,0!2019?(dieörtlichenChemiebetriebehaben2019dieProduktioneingestellt[85]),Eigenstrom-undDampfversorgungfürdenörtlichenChemiepark,WeylChemGriesheimGmbHGetecHeat&PowerAG,
-94,IndustriekraftwerkFrechen/Wachtberg[86],201,251,Braunkohle,Frechen,Nordrhein-WestfalenNordrhein-Westfalen,1959/1988,0!,176MW(Netto)Eigenstrom-undDampfversorgungfürdenKohleveredlungsbetriebFrechen,RWEPowerAG,
-95,HeizkraftwerkFreiberg[87],14,ca.75(davon18ausKWK;140MWhWärmespeicher),Erdgas,Freiberg,SachsenSachsen,2013,,13MW(Netto),StadtwerkeFreibergAG,
-96,WärmeverbundkraftwerkFreiburg[3],60,?,Erdgas,FreiburgimBreisgau,Baden-WürttembergBaden-Württemberg,1998,0!,40MW(Netto),RhodiaAcetowGmbH,"48°1'14.887""N,007°50'45.823""O"
-97,HeizkraftwerkUnitversitätsklinikFreiburg[88],30,?(ca.50MWhWärmespeicher),ErdgasBiomasse(Holzpellets),FreiburgimBreisgau,Baden-WürttembergBaden-Württemberg,2001,0!,27MW(Netto),UniversitätsklinikumFreibergAdöR,
-98,KraftwerkFrimmersdorf[89],635,30,"Braunkohle,Papierschlamm",Grevenbroich-Frimmersdorf,Nordrhein-WestfalenNordrhein-Westfalen,BlockA:1955BlockB:1955BlockC:1957BlockD:1957BlockE:1959BlockF:1960BlockG:1960BlockH:1961BlockI:1960BlockK:1962BlockL:1962BlockM:1962BlockN:1964BlockO:1964BlockP:1966/90BlockQ:1970/90,2021!BlockA:1988BlockB:1988BlockC:2011BlockD:2011BlockE:2012BlockF:2012BlockG:2011BlockH:2005BlockI:2012BlockK:2012BlockL:2012BlockM:2012BlockN:2012BlockO:2012(BlockP:01.10.2021[49];seit01.10.2017inderSicherheitsbereitschaft)(BlockQ:wieBlockP),BlockA:90MW(Netto)BlockB:90MW(Netto)BlockC:129MW(Netto)BlockD:130MW(Netto)BlockE:130MW(Netto)BlockF:132MW(Netto)BlockG:124MW(Netto)BlockH:130MW(Netto)BlockI:128MW(Netto)BlockK:136MW(Netto)BlockL:131MW(Netto)BlockM:138MW(Netto)BlockN:135MW(Netto)BlockO:133MW(Netto)BlockP:284MW(Netto)BlockQ:278MW(Netto),RWEPowerAG,"!551.0544975506.575919551°03′16,2″N,006°34′33,3″O51.0544972222226.5759194444444"
-99,KraftwerkFulda[3],ca.27,0,Mineralölprodukte,Fulda,HessenHessen,2011,,25MW(Netto),RhönEnergieFuldaGmbH,
-100,IndustriekraftwerkFulda[3],ca.35,?,Erdgas,Fulda,HessenHessen,Block2:1982Block3:2012,,Block2:8MW(Netto)Block3:26MW(Netto)Eigenstrom-undDampfversorgungfürPapierfabrik,PapierfabrikAdolfJassGmbH&Co.KG,
-101,IndustriekraftwerkGendorf[3],ca.75,?,Erdgas,Burgkirchen,BayernBayern,2002/17,,73MW(Netto)Eigenstrom-undDampfversorgungfürChemieparkGendorf,InfaServGmbH&Co.GendorfKG,
-102,HeizkraftwerkGera-Lusan(ehemalsHeizkraftwerkGera-Nord)[90],18,63(davon18ausKWK),Erdgas,Gera,ThüringenThüringen,GuD1:1996GuD2:1996HKWLusan:2018,GuD1:2018GuD2:2018HKWLusan:,GuD1:37MW(Netto)GuD2:37MW(Netto)HKWLusan:17MW(Netto),KraftwerkeGeraGmbH,"!550.9069445512.061111550°54′25,0″N,012°03′40,0″O50.90694444444412.061111111111"
-103,HeizkraftwerkGera-Titz[90],23,83(davon23ausKWK),Erdgas,Gera,ThüringenThüringen,HKWTinz:2018,HKWTinz:,HKWTinz:22MW(Netto),KraftwerkeGeraGmbH,
-104,HeizkraftwerkGöttingen[91][92],22(65),?,Öl(Heizöl)Erdgas,Göttingen,NiedersachsenNiedersachsen,1967/1998,0!,19(60)MW(Netto)jenachQuelleunterschiedlicheLeistungsangaben;z.T.imInselbetrieb,Georg-August-UniversitätGöttingenStiftungdesöffentlichenRechts,"!551.5536945509.934250551°33′13,3″N,009°56′03,3″O51.5536944444449.93425"
-105,BlockheizkraftwerkUniversitätsklinikGöttingen[93],5,5,Erdgas,Göttingen,NiedersachsenNiedersachsen,2018,,5MW(Netto),Georg-August-UniversitätGöttingenStiftungdesöffentlichenRechts,
-106,IndustriekraftwerkGreifswald[94],39,47,Erdgas,Lubmin,Mecklenburg-VorpommernMecklenburg-Vorpommern,2013,,38MW(Netto)AbwärmenutzungzumAufheizenvonErdgasausderNorthstream-Pipeline,IndustriekraftwerkGreifswaldGmbH,
-107,KraftwerkGrenzach-Wyhlen[3],ca.30,?,Erdgas,Grenzach-Wyhlen,Baden-WürttembergBaden-Württemberg,2017,,30MW(Netto)Eigenstrom-undDampfversorgungfürdieörtlichePharmaproduktion,KGW-KraftwerkGrenzach-WyhlenGmbH,
-108,IndustriekraftwerkGroßenkneten[95],ca.33,ca.30,Erdgas,Großenkneten,NiedersachsenNiedersachsen,2014,,30MW(Netto)Eigenstrom-undDampfversorgungfürErdgasaufbereitung,ExxonMobilProductionDeutschlandGmbH,
-109,SpitzenlastkraftwerkGroßkayna[3],129,0,Öl(Heizöl),Großkayna,Sachsen-AnhaltSachsen-Anhalt,1994,0!,120MW(Netto),enviaTHERMGmbH,
-110,KraftwerkStaudinger[96],1191(davon553Kohleund638Erdgas),300,"Steinkohle:Blöcke1,2,3,5Erdgas:Block4",Großkrotzenburg,HessenHessen,Block1:1965Block2:1965Block3:1970Block4:1977Block5:1992,"2019!Block1:2012/2013Block2:2012Block3:2012(Block4:untersagtbis1JahrnachBeginnderEngpassbewirtschaftungDeutschland/Österreich(1.Oktober2018),längstensbis4.Mai2020[1])Block5:?",Block1:249MW(Netto)Block2:249MW(Netto)Block3:293MW(Netto)Block4:572MW(Netto)Block5:510MW(Netto),UniperKraftwerkeGmbH,"!550.0882675508.951658550°05′17,8″N,008°57′06,0″O50.0882666666678.9516583333333"
-111,HeizkraftwerkHagen-Kabel[97],ca.275(davon251Erdgasundca.24Biomasse),108,BlockH4/5:ErdgasBVA:Biomasse,Hagen,Nordrhein-WestfalenNordrhein-Westfalen,H4/5:1981/2004BVa:2004,H4/5:2016(Kaltreserve),H4/5:230MW(Netto)BVA:20MW(Netto)Eigenstrom-undDampfversorgungderörtlichenPapierfabrik,Mark-EAG,
-112,HainsbergGetecAG/PapierfabrikHainsbergGmbH,"1,0","5,0",Braunkohle,Hainsberg(Freital),SachsenSachsen,2011,0!,,Getec-Gruppe,
-113,HeizkraftwerkHalleDieselstraße[98],100,120(davon68ausKWK;280MWhWärmespeicherundca.2000MWhWärmespeicher),Erdgas,Halle,Sachsen-AnhaltSachsen-Anhalt,GuDA:2005GuDB:2005,,GuDA:47MW(Netto)GuDB:47MW(Netto)(GTCinPlanung[99]),EnergieversorgungHalleGmbH(EVH),
-114,HeizkraftwerkHalleTrotha[100],58,40,Erdgas,Halle,Sachsen-AnhaltSachsen-Anhalt,GuD:2012/2013,,GuD:56MW(Netto),EnergieversorgungHalleGmbH(EVH),
-115,HeizkraftwerkHamburg[3],ca.25,?,ErdgasBiogas,Hamburg-Mitte,HamburgHamburg,1993,,23MW(Netto)Eigenstrom-undDampfversorgungfürÖlmühleundBiodieselproduktion,ADMHamburgAG,
-116,KohlekraftwerkHamburg-Moorburg[101],1654,240(650möglich),Steinkohle,Hamburg-Moorburg,HamburgHamburg,BlockA:2015BlockB:2015,0!BlockA:?BlockB:?,BlockA:800MW(Netto)BlockB:800MW(Netto)UmrüstungaufGasgeplant[102],VattenfallHeizkraftwerkMoorburgGmbH,"!553.4881945509.949361553°29′17,5″N,009°56′57,7″O53.4881944444449.9493611111111"
-117,KraftwerkWestfalen[103],820,0,Steinkohle,Hamm-Schmehausen,Nordrhein-WestfalenNordrhein-Westfalen,BlockA:1963BlockB:1963BlockC:1969BlockD:nichtfertiggestelltBlockE:2014,0!BlockA:2014BlockB:2014BlockC:2016BlockD:2015BlockE:?,BlockA:152MW(Netto)BlockB:152MW(Netto)BlockC:284MW(Netto)BlockD:765MW(Netto)BlockE:764MW(Netto),RWEGenerationSE,"!551.6803065507.970194551°40′49,1″N,007°58′12,7″O51.6803055555567.9701944444444"
-118,TrianelGuD-KraftwerkHamm-Uentrop[104],850,0,Erdgas,Hamm-Schmehausen,Nordrhein-WestfalenNordrhein-Westfalen,GuD10:2008GuD20:2008,0!,GuD10:417MW(Netto)GuD20:421MW(Netto),TrianelGaskraftwerkHammGmbH&Co.KG,"!551.6738895507.929167551°40′26,0″N,007°55′45,0″O51.6738888888897.9291666666667"
-119,KraftwerkHürth-Knapsack[105],1262,0,Erdgas,Hürth-Knapsack,Nordrhein-WestfalenNordrhein-Westfalen,GuDI:2006GuDII:2013,0!,GuDI:800MW(Netto)GuDII:430MW(Netto),StatkraftMarketsGmbH,"N50°51'38.617N,E6°50'13.736"""
-120,KraftwerkHannover-Herrenhausen[106],120,280(davon140ausKWK),Erdgas,Hannover-Herrenhausen,NiedersachsenNiedersachsen,1975,0!2016(Kaltreserve),102MW(Netto)imMomentnurnochFernwärmeerzeugungundSteuerungdiverserdezentralerAnlagenalsvirtuellesKraftwerk,enercityAG,"!552.3986115509.680556552°23′55,0″N,009°40′50,0″O52.3986111111119.6805555555556"
-121,GasturbinenkraftwerkHannover-Linden[107],255,185,Erdgas,Hannover-Linden-Nord,NiedersachsenNiedersachsen,1962/1998/2013,0!,230MW(Netto),enercityAG,"!552.3729175509.714194552°22′22,5″N,009°42′51,1″O52.3729166666679.7141944444444"
-122,KohlekraftwerkHannover-Stöcken[108](GemeinschaftskraftwerkHannover),300,425,Steinkohle,Hannover-Stöcken,NiedersachsenNiedersachsen,Block1:1989Block2:1989,0!,Block1:136MW(Netto)Block2:136MW(Netto),enercityAG/VolkswagenKraftwerkeGmbH,"!552.4202785509.647508552°25′13,0″N,009°38′51,0″O52.4202777777789.6475083333333"
-123,KraftwerkHattorf[3],ca.55,?,Erdgas,Philippsthal,HessenHessen,Block1:2013Block2:2013,,Block1:35MW(Netto)Block2:17MW(Netto)Eigenstrom-undDampfversorgungfürdemörtlichenKalibergbau,K+SAG,
-124,KraftwerkHausham[109],112,25,"Steinkohle:KohleblockHeizöl:GT1,GT2,GT3,GT4,Motor-HKW1,Motor-HKW2",Hausham,BayernBayern,Kohleblock:1963GT1:1982GT2:1982GT3:1982GT4:1982Motor-HKW1:1987Motor-HKW2:1990,0!Kohleblock:1983,Kohleblock:37MW(Netto)GT1:32MW(Netto)GT2:32MW(Netto)GT3:32MW(Netto)GT4:32MW(Netto)Motor-HKW1:6MW(Netto)Motor-HKW2:6MW(Netto),PeißenbergerKraftwerksgesellschaftmbH,
-125,RaffineriekraftwerkHeide[110],47,?,"ErdgasEBS(Mineralölprodukte,Raffineriegas)",Hemmingstedt,Schleswig-HolsteinSchleswig-Holstein,1962,,45MW(Netto)Eigenstrom-undDampfversorgungderRaffinerieHeide,RaffinerieHeideGmbH,
-126,HeizkraftwerkHeidelberg[3],ca.15,?,Erdgas,Heidelberg,Baden-WürttembergBaden-Württemberg,2001,,14MW(Netto),innogySE,
-127,IndustriekraftwerkHeidenheim[3],ca.20,?,"Erdgas,Heizöl",Heidenheim,Baden-WürttembergBaden-Württemberg,2014,,19MW(Netto),Sales&SolutionsGmbH,
-128,HeizkraftwerkHeilbronn[111],1050,390,SteinkohleKlärschlamm,Heilbronn,Baden-WürttembergBaden-Württemberg,Block1:1950-60Block2:1950-60Block3:1950-60Block4:1950-60Block5:1965/2010Block6:1966/2010Block7:1985/2009,"2019!Block1:1988Block2:1988Block3:2006Block4:2006Block5:2015(Netzreserve)Block6:2015(Netzreserve)(Block7:untersagtbis1JahrnachBeginnderEngpassbewirtschaftungDeutschland/Österreich(1.Oktober2018)[6],längstensbis31.März2020[1])",Block1:ca.50MW(Netto)Block2:ca.50MW(Netto)Block3:ca.100MW(Netto)Block4:ca.100MW(Netto)Block5:125MW(Netto)Block6:125MW(Netto)Block7:778MW(Netto),EnBWEnergieBaden-WürttembergAG,"!549.1755315509.207553549°10′31,9″N,009°12′27,2″O49.1755305555569.2075527777778"
-129,IndustriekraftwerkHerzberg[3],ca.25,?,Erdgas,Herzberg,NiedersachsenNiedersachsen,1978,,20MW(Netto)Eigenstrom-undDampfversorgungderörtlichenPapierfabrik,SmurfitKappaHerzbergerPapierfabrikGmbH,
-130,HeizkraftwerkHelmshängerBerg[112],15,125(davon28KWK;ca.90MWhWärmespeicher),Erdgas,Greifswald,Mecklenburg-VorpommernMecklenburg-Vorpommern,1996,,14MW(Netto),StadtwerkeGreifswaldGmbH,
-131,KraftwerkDuisburg-Ruhrort[67](KraftwerkHermannWenzel),244,?,KuppelprodukteausderStahlerzeugungKokereigasGichtgas,Duisburg-Laar,Nordrhein-WestfalenNordrhein-Westfalen,Block1:1955Block2:1955Block3:1963Block4:1969,0!Block1:2001,Block1:ca.55MW(Netto)Block2:60MW(Netto)Block3:95MW(Netto)Block4:170MW(Netto)Eigenstrom-undDampfversorgungfürdasThyssenKrupp-StahlwerkSchwelgern,ThyssenKruppSteelEuropeAG,"!551.4596675506.730583551°27′34,8″N,006°43′50,1″O51.4596666666676.7305833333333"
-132,CunoHeizkraftwerkHerdecke(Cuno-Kraftwerk)[3],424,0,Erdgas,Herdecke,Nordrhein-WestfalenNordrhein-Westfalen,H6:2007,0!,H6:417MW(Netto),Mark-EAGStatkraftMarketsGmbH,
-133,KraftwerkWintershall[3],110,299,Erdgas,Heringen,HessenHessen,1970/2009,0!,69MW(Netto)NutztauchDampfvonbenachbarterMüllverbrennungsanlage,K+SAG,
-134,HeizkraftwerkHerne[113],511,550,"Steinkohle:Blöcke1,2,3,4,5Erdgas:Block6",Herne,Nordrhein-WestfalenNordrhein-Westfalen,Block1:1962/63Block2:1962/63Block3:1966Block4:1989/2013Block5:nichtrealisiert(Block6:2022),Block1:2000Block2:2013Block3:2017,Block1:133MW(Netto)Block2:133MW(Netto)Block3:280MW(Netto)Block4:449MW(Netto)Block5:800MW(Netto)Block6:GuD-Blockmitca.600MWelund400MWthimBau[114],SteagGmbH,"!551.5506565507.187575551°33′02,4″N,007°11′15,3″O51.5506555555567.187575"
-135,KraftwerkHeyden[115],923,0,Steinkohle,Petershagen,Nordrhein-WestfalenNordrhein-Westfalen,Block1:1951Block2:1960Block3:1961Block4:1987,0!Block1:1979Block2:1982Block3:1982Block4:?,Block1:ca.120MW(Netto)Block2:ca.100MW(Netto)Block3:ca.100MW(Netto)Block4:875MW(Netto),UniperKraftwerkeGmbH,"!552.3816085508.998667552°22′53,8″N,008°59′55,2″O52.3816083333338.9986666666667"
-136,HeizkraftwerkBochum-Hiltrop[116],ca.45,?(ca.150MWhWärmespeicher),Erdgas,Bochum-Hiltrop,Nordrhein-WestfalenNordrhein-Westfalen,GT:1975GuD:2013,0!GT:2013,GT:31MW(Netto)GuD:44MW(Netto),StadtwerkeBochumHoldingGmbH,"!551.5072225507.249722551°30′26,0″N,007°14′59,0″O51.5072222222227.2497222222222"
-137,HeizkraftwerkIndustrieparkHöchst[3],268(davon71Steinkohleund197Erdgas),614,"Steinkohle:BlockBErdgas:BlockA,ADS-Anlage",FrankfurtamMain,HessenHessen,BlockA:2003BlockB:1989ADS-Anlage:2011/2012,0!,BlockA(GT):86MW(Netto)BlockB:66MW(Netto)ADS-Anlage(2GT):97MW(Netto)AbwärmederGasturbinenwirdzurDampferzeugungfürdieDampfturbinedesBlocksBgenutzt,InfraservGmbH&Co.HöchstKG,"!550.0922225508.533333550°05′32,0″N,008°32′00,0″O50.0922222222228.5333333333333"
-138,KraftwerkDuisburg-Huckingen[117],640,68,ErdgasGichtgasHochofengas,Duisburg-Huckingen,Nordrhein-WestfalenNordrhein-Westfalen,BlockA:1975/2009BlockB:1976/2011,0!,BlockA:303MW(Netto)BlockB:303MW(Netto)Eigenstrom-undDampfversorgungfürdasörtlicheStahlwerk,HüttenwerkeKrupp-MannesmannGmbH,"!551.3761395506.723861551°22′34,1″N,006°43′25,9″O51.3761388888896.7238611111111"
-139,KraftwerkHuntorf[8],321,0,Erdgas,Elsfleth,NiedersachsenNiedersachsen,1978/2006,0!,"321MW(Netto),Druckluftspeicher,ErdgasnurzurKompensationderExpansionskälte",UniperKraftwerkeGmbH,
-140,KraftwerkIbbenbüren[118],838,20,SteinkohleTiermehlKlärschlamm,Ibbenbüren,Nordrhein-WestfalenNordrhein-Westfalen,BlockA:1967BlockB:1985/2009,0!BlockA:1987BlockB:?,BlockA:ca.130MW(Netto)BlockB:794MW(Netto)größterSchmelzkammerkesselderWelt,RWEGenerationSE,"!552.2858645507.745897552°17′09,1″N,007°44′45,2″O52.2858638888897.7458972222222"
-141,KraftwerkIngolstadt[119],840,0,Schweröl,Großmehring,BayernBayern,Block1:1965Block2:1965Block3:1973Block4:1974,2019!Block1:1990Block2:1990Block3:2015(Netzreserve)Block4:2015(Netzreserve),Block1:150MW(Netto)Block2:150MW(Netto)Block3:386MW(Netto)Block4:386MW(Netto),UniperKraftwerkeGmbH,"!548.7620085511.503258548°45′43,2″N,011°30′11,7″O48.76200833333311.503258333333"
-142,IndustriekraftwerkIngolstadt[3],ca.25,?,"Erdgas,Raffineriegas",Kösching,BayernBayern,2012,,23MW(Netto)Eigenstrom-undDampfversorungderErdölraffinerieIngolstadt,GunvorRaffinerieIngolstadtGmbH,
-143,KraftwerkIrsching[120],1894(davon440Heizölund1454Erdgas),25,"Schweröl:Block1,Block2Heizöl:Block3Erdgas:Block4,Block5",Vohburg,BayernBayern,"Block1:1969Block2:1972Block3:1974Block4(""UlrichHartmann""):2011Block5(""Gemein-schaftskraftwerkIrsching""):2010",0!Block1:2006Block2:2012Block3:2012(Netzreserve)Block4:2013(Netzreserve)Block5:2013(Netzreserve),"Block1:ca.150MW(Netto)Block2:ca.300MW(Netto)Block3:415MW(Netto)Block4:561MW(Netto)Block5:846MW(Netto)(Block6:300MWGasturbineals""besonderesnetztechnischesBetriebsmittel""mitInbetriebnahmefür2022geplant[121])",UniperKraftwerkeGmbH,"!548.7670335511.579219548°46′01,3″N,011°34′45,2″O48.76703333333311.579219444444"
-144,KraftwerkItzehoe[8],87,0,Mineralölprodukte,Oldendorf,Schleswig-HolsteinSchleswig-Holstein,1972,,87MW(Netto),UniperKraftwerkeGmbH,
-145,KraftwerkJänschwalde[122],3000,349(458möglich),Braunkohle,Teichland-Neuendorf,BrandenburgBrandenburg,BlockA:1981/1996BlockB:1982/1996BlockC:1984/1996BlockD:1985/1996BlockE:1987/1996BlockF:1989/1996,2019!BlockA:2025(Sicherheitsbereitschaft)[39]BlockB:2027(Sicherheitsbereitschaft)[39]BlockC:2028spätestens[39]BlockD:2028spätestens[39]BlockE:2018BlockF:2019,"BlockA:465MW(Netto)BlockB:465MW(Netto)BlockC:465MW(Netto)BlockD:465MW(Netto)BlockE:465MW(Netto)BlockF:465MW(Netto)Platz4–mit~24,2Mio.JahrestonnenCO2–aufderListederKraftwerkemitdemhöchstenCO2-AusstoßinderEU.[2]",LEAG,"!551.8322425514.453025551°49′56,1″N,014°27′10,9″O51.83224166666714.453025"
-146,HeizkraftwerkJena[123],204,"225(ca.400MWhWärmespeicher,600MWhWärmespeicherimBau)",ErdgasHeizöl,Jena,ThüringenThüringen,HKW:1969/1996(GM:2022[124]),0!,182MW(Netto)(ErweiterungumGasmotorenkraftwerkmit60MWelund60MWthimBau[125]),TEAGThüringerEnergieAG,"!550.8976475511.586806550°53′51,5″N,011°35′12,5″O50.89764722222211.586805555556"
-147,IndustriekraftwerkJülich[3],ca.25,120,Braunkohle,Jülich,Nordrhein-WestfalenNordrhein-Westfalen,2013,0!,23MW(Netto)Eigenstrom-undDampfversorgungderörtlichenZuckerfabrik,Pfeifer&LangenGmbH&Co.KG,"50°54'53.8""N,006°22'19.9""O"
-148,HeizkraftwerkKaiserslautern-Karcherstraße[3],ca.28(davon15Steinkohleund13Erdgas),81(ca.90MWhWärmespeicher),Erdgas:Block10Steinkohle:Block20,Kaiserslautern,Rheinland-PfalzRheinland-Pfalz,Block10:1989Block20:1996,(Block20:2022[126]),Block10:12MW(Netto)Block20:13MW(Netto)SteinkohleblockwirddurchGuDsersetzt[126],StadtwerkeKaiserslauternVersorgungsAG(SWK),
-149,IndustriekraftwerkKarlsruhe[3],ca.75,>90,"Erdgas,Mineralölprodukte",Karlsruhe,Baden-WürttembergBaden-Württemberg,Werk1:1995Werk2:1995,,Werk1:45MW(Netto)Werk2:25MW(Netto)Eigenstrom-undDampfversorungderMiRO-Raffinerie,MiROMineralölraffinerieOberrheinGmbH&Co.KG,
-150,HeizkraftwerkKarlsruhe-West[127],37,350(davon108ausKWK),ErdgasHeizöl,Karlsruhe-Mühlburg,Baden-WürttembergBaden-Württemberg,BlockT3:1984,0!,BlockT3:33MW(Netto),StadtwerkeKarlsruheGmbH,"!549.0141615508.347656549°00′51,0″N,008°20′51,6″O49.0141611111118.3476555555556"
-151,Rheinhafen-DampfkraftwerkKarlsruhe[128],2175(davon713Erdgasund1462Steinkohle),440,"Steinkohle:Blöcke1,2,3,4,7,8Erdgas:Blöcke4S,5,6",Karlsruhe,Baden-WürttembergBaden-Württemberg,Block1:1955Block2:nach1955Block3:nach1955Block4:nach1955Block4S:1998Block5:nach1955Block6:nach1955Block7:1985/2005Block8:2014,"0!Block1:1985Block2:1985Block3:1985Block4:1985Block4S:untersagtbis1JahrnachBeginnderEngpassbewirtschaftungDeutschland/Österreich(1.Oktober2018)[6],längstensbis31.März2020[1]Block5:1993(Kaltreserve)Block6:1993(Kaltreserve)Block7:?Block8:?",Block1:?MW(Netto)Block2:?MW(Netto)Block3:?MW(Netto)Block4:?MW(Netto)Block4S:353MW(Netto)Block5:ca.160MW(Netto)Block6:ca.160MW(Netto)Block7:517MW(Netto)Block8:834MW(Netto),EnBWEnergieBaden-WürttembergAG,"!549.0114535508.303961549°00′41,2″N,008°18′14,3″O49.0114527777788.3039611111111"
-152,KraftwerkKassel[129],91(davon38Braunkohleund53Erdgas),155(davon135ausKWK),"FKK:Braunkohle,SteinkohleEBS(PetrolkoksundEBSbiogenenUrsprungs)Kombi-HKW:Erdgas",Kassel,HessenHessen,FKK:1989Kombi-HKW:GuD1:1988GuD2:2005,0!FKK:2030[130],FKK:34MW(Netto)Kombi-HKWGuD1:14MW(Netto)GuD2:36MW(Netto),StädtischeWerkeEnergie+WärmeGmbH,"!551.2791115509.484000551°16′44,8″N,009°29′02,4″O51.2791111111119.484"
-153,KüstenkraftwerkK.I.E.L.[131],200!200,192!192(1500MWhWärmespeicher),Erdgas,Kiel,Schleswig-HolsteinSchleswig-Holstein,2019,0!,"190MW(Netto),Gasmotorenkraftwerk,ErsatzfürdasehemaligeGemeinschaftskraftwerkKielmit354MWel(Brutto)und295MWth[132]",StadtwerkeKielAG,"!554.3412505510.178028554°20′28,5″N,010°10′40,9″O54.3412510.178027777778"
-154,HeizkraftwerkKiel-Humboldstraße[133],ca.25,140,Erdgas,Kiel,Schleswig-HolsteinSchleswig-Holstein,2005,,22MW(Netto),StadtwerkeKielAG,
-155,KraftwerkKirchlengern[3],185,0,ErdgasHeizöl,Kirchlengern,Nordrhein-WestfalenNordrhein-Westfalen,1981,0!,147MW(Netto),EnergieserviceWestfalenWeserGmbH,"!552.1962225508.647444552°11′46,4″N,008°38′50,8″O52.1962222222228.6474444444444"
-156,KraftwerkKirchmöser[134],207,0,Erdgas,BrandenburganderHavel,BrandenburgBrandenburg,1994,0!,"160MW(Netto),nurBahnstromerzeugung",UniperKraftwerkeGmbH,"!552.3945975512.418047552°23′40,5″N,012°25′05,0″O52.39459722222212.418047222222"
-157,KraftwerkKleinWanzleben[3],ca.25,0,ErdgasundBiogas,KleinWanzleben,Sachsen-AnhaltSachsen-Anhalt,1994,,23MW(Netto)EigenstromversorgungderörtlichenZuckerfabrik,"NordzuckerAG,WerkKleinWanzleben",
-158,RaffineriekraftwerkKöln-Godorf[3],215,235,ErdgasMineralölprodukteRaffineriegasSchweröl,Köln,Nordrhein-WestfalenNordrhein-Westfalen,1988/2004,0!(bis2021UmstellungderSchwerölkesselaufErdgas[135]),114MW(Netto)Eigenstrom-undDampfversorgungderRheinlandRaffinerie,ShellDeutschlandOilGmbH,
-159,IndustriekraftwerkINEOS-KölnO10[3],107,?,HeizölCrackölProduktions­rückstände,Köln-Worringen,Nordrhein-WestfalenNordrhein-Westfalen,BlockT21:1964BlockT22:1964BlockT23:1963BlockT24:1966BlockT31:1967(Kessel7:2020),2020!(BlockT31:2020[136]),"BlockT21:16MW(Netto)BlockT22:19MW(Netto)BlockT23:16MW(Netto)BlockT24:10MW(Netto)BlockT31:34MW(Netto)Eigenstrom-undDampfversorgungdesörtlichenChemieparks(Kessel7:GuD-Anlagemit63MWelimBau,Inbetriebnahmewar2019geplant[137])",INEOSManufacturingDeutschlandGmbH,
-160,HeizkraftwerkKöln-Merheim[138],33,30,Erdgas,Köln-Merheim,Nordrhein-WestfalenNordrhein-Westfalen,GuD:2001BHKW:2020,GuD:2020BHKW:2020,GuD:16MW(Netto)BHKW:33MW(Netto),RheinEnergieAG,
-161,HeizkraftwerkKöln-Merkenich[3],213(davonca.83Braunkohleundca.130Erdgas),248,"Schweröl:Blöcke1,2,3,4(bis1989),5(bis1989)Braunkohle:Block6Erdgas:Blöcke4(seit1989),5(seit1989),GuD",Köln-Merkenich,Nordrhein-WestfalenNordrhein-Westfalen,Block1:1959Block2:1962Block3:1965Block4:1964/89Block5:1969/89GuD:2004Block6:2010,0!Block1:1986Block2:1986Block3:1986Block4:?Block5:2004GuD:?(Block6:2025[139]),Block1:ca.5MW(Netto)Block2:ca.20MW(Netto)Block3:ca.55MW(Netto)Block4:16MW(Netto)Block5:ca.95MW(Netto)GuD:108MW(Netto)Block6:75MW(Netto),RheinEnergieAG,"!551.0180645506.964483551°01′05,0″N,006°57′52,1″O51.0180638888896.9644833333333"
-162,HeizkraftwerkKöln-Niehl[140],881,635(750MWhWärmespeicher),Erdgas,Köln-Niehl,Nordrhein-WestfalenNordrhein-Westfalen,Block1:1977Block2:2005Block3:2016,Block1:2008,Block1:ca.300MW(Netto)Block2:413(400)MW(Netto)Block3:460(450)MW(Netto)jenachQuelleunterschiedlicheLeistungsangaben,RheinEnergieAG,
-163,HeizkraftwerkKönnern[3],29,150,Braunkohle,Könnern,Sachsen-AnhaltSachsen-Anhalt,1993/2014,0!,20MW(Netto)Eigenstrom-undDampfversorgungderörtlichenZuckerfabrik,Pfeifer&LangenGmbH&Co.KG,"51°40'34.2""N,011°46'06.7""O"
-164,IndustriekraftwerkKrefeld-Uerdingen[3],ca.145,460,SteinkohleErdgasProduktions­rückstände,Krefeld,Nordrhein-WestfalenNordrhein-Westfalen,L57:1957N230:1971,0!,L57:26MW(Netto)N230:110MW(Netto)Eigenstrom-undDampfversorgungfürdenChemparkKrefeld-UerdingenGuD-Kraftwerkmitmax.1200MWelgeplant[141],CurrentaGmbH&Co.OHG,
-165,IndustriekraftwerkKriebstein[142],14,ca.35,ErdgasHeizöl,Kriebstein,SachsenSachsen,1993,,13MW(Netto)Eigenstrom-undDampfversorgungderörtlichenPapierfabrik,Kübler&NiethammerPapierfabrikKriebsteinAG,
-166,KraftwerkRobertFrank[143](KraftwerkLandesbergen),532(davon510Erdgasund22Biomasse),30,Erdgas:GTundDTBiomasse:Block5,Landesbergen,NiedersachsenNiedersachsen,GT:1973DT:1973Block5:2003,0!GT:?DT:2013[73](Kaltreserve),GT:56MW(Netto)DT:431MW(Netto)Block5:20MW(Netto),StatkraftMarketsGmbH,"!552.5467225509.113028552°32′48,2″N,009°06′46,9″O52.5467222222229.1130277777778"
-167,KWK-AnlageLandshut[3],ca.20,?,Erdgas,Landshut,BayernBayern,2019,,18MW(Netto)Eigenstrom-undDampfversorgungderörtlichenPKW-Fabrik,BMWAG,
-168,KraftwerkLausward[144],853,555(1340MWhWärmespeicher),Erdgas,Düsseldorf-Hafen,Nordrhein-WestfalenNordrhein-Westfalen,GuDA:2000DTE:1977GTE1:1974GTE2:1974GuDF:2016,0!DTE:2019,GuDA:100MW(Netto)DTE:293MW(Netto)GTE1:67MW(Netto)GTE2:65MW(Netto)GuDF:595MW(Netto)(davoninsgesamt50MWBahnstrom),StadtwerkeDüsseldorfAG,"!551.2208425506.731572551°13′15,0″N,006°43′53,7″O51.2208416666676.7315722222222"
-169,DieselkraftwerkLeinau[145],12,0,Heizöl,Pforzen,BayernBayern,1978,,11MW(Netto),VereinigteWertach-ElektrizitätswerkeGmbH,
-170,HeizkraftwerkLeipzig-Nord[146],174,200(225MWhWärmespeicher),ErdgasHeizöl,Leipzig,SachsenSachsen,1996/2010,0!,167MW(Netto)(Gasturbinenanlagemit120MWelinDölnitz(HKWSüd)inPlanung[147]),StadtwerkeLeipzig,
-171,IndustriekraftwerkLeppersdorf[148],36,ca.60,ErdgasKlärgas,Leppersdorf,SachsenSachsen,2014,,34MW(Netto)Eigenstrom-undDampfversorgungfürMilchverarbeitungsbetrieb,UnternehmensgruppeTheoMüller,
-172,GuD-KraftwerkLeuna[3],ca.200,?,Erdgas,Leuna,Sachsen-AnhaltSachsen-Anhalt,GT1:1994GT2:1994GT3:1994DT1:1994GuD:1998EKT:2000KT1:2010,0!,GT1:35MW(Netto)GT2:35MW(Netto)GT3:37MW(Netto)DT1:9MW(Netto)GuD:39MW(Netto)EKT:14MW(Netto)KT1:20MW(Netto),GT2:TOTALRaffinerieMitteldeutschlandGmbHRest:InfraLeunaEnergiegesellschaftmbH,
-173,RaffineriekraftwerkLeuna[149],162,208,EBS(Raffinerie­rückstände),Leuna,Sachsen-AnhaltSachsen-Anhalt,1997,0!,93MW(Netto)Eigenstrom-undDampfversorgungdesörtlichenChemieparks,SteagGmbH,"!551.2981085512.019506551°17′53,2″N,012°01′10,2″O51.29810833333312.019505555556"
-174,IndustriekraftwerkLeverkusen[3],137(davonca.27Erdgasundca.110Steinkohle),711,Steinkohle:BlockG22Erdgas:BlockX50,Leverkusen,Nordrhein-WestfalenNordrhein-Westfalen,G22:1962X50:1981,0!,G22:103MW(Netto)X50:25MW(Netto)Eigenstrom-undDampfversorgungfürdenChemparkLeverkusen(GuD-Kraftwerkmit570MWelvonderSteagGmbHgeplant[150]),CurrentaGmbH&Co.OHG,
-175,RaffineriekraftwerkLingen[3],68,?,ErdgasRaffineriegas,Lingen,NiedersachsenNiedersachsen,1996,0!,66MW(Netto)Eigenstrom-undDampfversorgungderRaffinerieEmsland,BPEuropeSE,"!552.5620365507.302636552°33′43,3″N,007°18′09,5″O52.5620361111117.3026361111111"
-176,ErdgaskraftwerkEmsland[151],1864,124,Erdgas,Lingen,NiedersachsenNiedersachsen,BlockA:1972GTB:1973/2012GTC:1974/2012GTD:2010DTB:1973DTC:1974DTD:2010,0!BlockA:1985,"BlockA:50MW(Netto)GTB:116MW(Netto)GTC:116MW(Netto)GTD:562MW(Netto)DTB:359MW(Netto)DTC:359MW(Netto)DTD:314MW(Netto)(jeweils2GasturbinenproBlockB,C,D)",RWEGenerationSE,"!552.4808145507.305586552°28′50,9″N,007°18′20,1″O52.4808138888897.3055861111111"
-177,KraftwerkLippendorf[152],1840,330(460möglich),BraunkohleBiomasse(Klärschlamm),Neukieritzsch,SachsenSachsen,BlockR:1999BlockS:2000,0!BlockR:2035spätestens[39]BlockS:2035spätestens[39],"BlockR:875MW(Netto)BlockS:875MW(Netto)Platz8–mit~11,9Mio.JahrestonnenCO2–aufderListederKraftwerkemitdemhöchstenCO2-AusstoßinderEU.[2]",BlockR:EnBWBlockS:LEAG,"!551.1767695512.376372551°10′36,4″N,012°22′34,9″O51.17676944444412.376372222222"
-178,HeizkraftwerkLübbenau[153],4,45(davon4ausKWK),Erdgas,Lübbenau,BrandenburgBrandenburg,alteBHKWs:2003neuesBHKW:2018,,4MW(Netto),Stadt-undÜberlandwerkeGmbHLuckau-Lübbenau,
-179,TrianelKohlekraftwerkLünen(KraftwerkLünen-Stummhafen)[154],820,35,Steinkohle,Lünen,Nordrhein-WestfalenNordrhein-Westfalen,Block1:2013,0!Block1:?,Block1:735MW(Netto),TrianelKohlekraftwerkLünenGmbH&Co.KG,
-180,KraftwerkeBASF-Ludwigshafen[155][156],1033,1240,ErdgasResteausderChemieproduktion,LudwigshafenamRhein,Rheinland-PfalzRheinland-Pfalz,Nord:1964/2005Mitte:1992/2005Süd:1997,0!,Nord:123(88)MW(Netto)Mitte:491(545)MW(Netto)Süd:390(410)MW(Netto)jenachQuelleunterschiedlicheLeistungsangaben;Eigenstrom-undDampfversorgungfürdenörtlichenChemiepark;anfänglichinden70erJahrenalsKernkraftwerkgeplant,BASFSE,"!549.5130645508.431611549°30′47,0″N,008°25′53,8″O49.5130638888898.4316111111111"
-181,FernheizkraftwerkLundwigshafen[157],33,?,"Erdgas,Heizöl,Abfall",LudwigshafenamRhein,Rheinland-PfalzRheinland-Pfalz,1967,,28MW(Netto)nutztDampfvonbenachbarterMüllverbrennungsanlage,TechnischeWerkeLudwigshafenAG,
-182,IndustriekraftwerkundBlockheizkraftwerkLudwigshafen[158],ca.26,?,Erdgas,LudwigshafenamRhein,Rheinland-PfalzRheinland-Pfalz,Industriekraftwerk:2003BHKW:2008,,Industriekraftwerk:12MW(Netto)BHKW:13MW(Netto)Eigenstrom-undDampfversorgungfürdenörtlichenChemiepark,MVVEnergieAG,
-183,KraftwerkeMainz-Wiesbaden[159],767,160(750MWhWärmespeicher),Erdgas(laufendeBlöcke)Steinkohle(stillgelegteBlöcke),Mainz,Rheinland-PfalzRheinland-Pfalz,Block1-1:1958Block1-2:1963Block1-3:1966Block2-1:1976Block3-1:2000(KW5:2019),Block1-1:2000Block1-2:2000Block1-3:2000Block2-1:2011(Netzreserve),Block1-1:ca.100MW(Netto)Block1-2:ca.100MW(Netto)Block1-3:ca.100MW(Netto)Block2-1:335MW(Netto)Block3-1:406MW(Netto)nutztauchDampfvonbenachbarterMüllverbrennungsanlage[160](KW5:Gasmotorenkraftwerkmit100MWelund100MWthimBau[161]),KraftwerkeMainz-WiesbadenAG(KMW),"50°1'35.544""N,008°14'30.163""O"
-184,GroßkraftwerkMannheim(GKM)[162],2146,1500(1500MWhWärmespeicher),Steinkohle,Mannheim,Baden-WürttembergBaden-Württemberg,Block1:1954Block2:1962Block3:1966Block4:1970Block5:1973Block6:1975/2005Block7:1982Block8:1993Block9:2015,0!Block1:1993Block2:1993Block3:2015Block4:2015Block5:2000Block6:?Block7:?Block8:?Block9:?,Block1:ca.200MW(Netto)Block2:ca.200MW(Netto)Block3:203MW(Netto)Block4:203MW(Netto)Block5:203MW(Netto)Block6:255MW(Netto)Block7:425MW(Netto)Block8:435MW(Netto)Block9:843MW(Netto)(davoninsgesamt310MWBahnstrom),"GroßkraftwerkMannheimAG(EnBWEnergieBaden-WürttembergAG,MVVEnergieAG)","!549.4444445508.498056549°26′40,0″N,008°29′53,0″O49.4444444444448.4980555555556"
-185,KraftwerkMarbach[111],437,0,Öl(Heizöl),MarbachamNeckar,Baden-WürttembergBaden-Württemberg,Block1:1940GTII:1971GTIII:1975DTIII:1975,"Block1:19852019!GTII:untersagtbis1JahrnachBeginnderEngpassbewirtschaftungDeutschland/Österreich(1.Oktober2018)[6],längstensbis31.März2020[1]GTIII:wieGTIIDTIII:wieGTII,warvon1998bis2005inKaltreserve",GTII:77MW(Netto)GTIII:85MW(Netto)DTIII:264MW(Netto),EnBWEnergieBaden-WürttembergAG,"!548.9274695509.230072548°55′38,9″N,009°13′48,3″O48.9274694444449.2300722222222"
-186,KraftwerkMeggle[3],ca.15,?,Erdgas,Reitmehring,BayernBayern,2000,,15MW(Netto)Eigenstrom-undDampfversorgungfürMolkerei,MolkereiMeggleWasserburgGmbH&Co.KG,
-187,KraftwerkMehrum[163],750,0,SteinkohleKlärschlamm,Hohenhameln,NiedersachsenNiedersachsen,Block3:1979/2003,2020!(Block3:2021?[164]),Block3:690MW(Netto),KWM-GmbH(EPH),"!552.3150445510.093792552°18′54,2″N,010°05′37,7″O52.31504444444410.093791666667"
-188,DieselkraftwerkMindelheim[145],11,0,Heizöl,Mindelheim,BayernBayern,1988,,11MW(Netto),VereinigteWertach-ElektrizitätswerkeGmbH,
-189,IndustriekraftwerkMoritzburg[3],ca.70,?,Erdgas,Moritzburg,SachsenSachsen,Block1:1998Block2:2005,,Block1:34MW(Netto)Block2:34MW(Netto)Eigenstrom-undDampfversorgungfürGlobalfoundries-Fabrik,EnergieversorgungscenterDresden-WilschdorfGmbH&Co.KG,
-190,EnergiezentraledesFlughafenMünchen[3],ca.40,>22,"Energiezentrale:Erdgas,HeizölErweiterung1:ErdgasErweiterung2:Erdgas",München,BayernBayern,Energiezentrale:1992Erweiterung1:2003Erweiterung2:2016,,Energiezentrale:10MW(Netto)Erweiterung1:7MW(Netto)Erweiterung2:17MW(Netto),FlughafenMünchenGmbH/Terminal2GesellschaftmbH&CooHG,
-191,HeizkraftwerkMünchenFreimann[165],(106)imBau,260(+125imBau)(ca.1200MWhundca.350MWhWärmespeicher),Erdgas,München,BayernBayern,GT1(alt):1975GT2(alt):1975GT1(neu):(2019?)GT2(neu):(2019?),GT1(alt):2015GT2(alt):2015,GT1(alt):80MW(Netto)GT2(alt):80MW(Netto)GT1(neu):(50MW(Netto)imBau)GT2(neu):(50MW(Netto)imBau),StadtwerkeMünchenServicesGmbH,
-192,HeizkraftwerkMünchen-Nord[165],414(davon365Steinkohleund49Müll),900(davon722ausKWK),"Steinkohle:Block2Erdgas:Block2Klärschlamm:Block2EBS(Müll):Blöcke1,3",Unterföhring,BayernBayern,Block1:1991Block2:1991Block3:1984,"2022!Block1:?(Block2:2022spätestensnachBürgerbegehren[166];ursprünglichspätestens2035,nachaktuellerPlanungspätestens2028[167])Block3:?",Block1:18MW(Netto)Block2:333MW(Netto)Block3:22MW(Netto),StadtwerkeMünchenServicesGmbH,"!548.1812335511.639822548°10′52,4″N,011°38′23,4″O48.18123333333311.639822222222"
-193,HeizkraftwerkMünchenSüd[165],698,814,Erdgas,München,BayernBayern,DT1:1980GT2:1980GT3:1980DT60:2004GT61:2004GT62:2004,0!,DT1:80MW(Netto)GT2:98MW(Netto)GT3:98MW(Netto)DT60:128MW(Netto)GT61:125MW(Netto)GT62:124MW(Netto),StadtwerkeMünchenServicesGmbH,"!548.1140365511.555783548°06′50,5″N,011°33′20,8″O48.11403611111111.555783333333"
-194,HeizkraftwerkMünsterHafen[168],104,250(davon120ausKWK;545MWhWärmespeicher),"Erdgas,Heizöl",Münster,Nordrhein-WestfalenNordrhein-Westfalen,GuD:2005,0!,GuD:100MW(Netto),StadtwerkeMünsterGmbH,"!551.9500835507.641278551°57′00,3″N,007°38′28,6″O51.9500833333337.6412777777778"
-195,HeizkraftwerkNeubrandenburg[169],77,90(700MWhWärmespeicherimBau[170];Aquiferspeicher),Erdgas,Neubrandenburg,Mecklenburg-VorpommernMecklenburg-Vorpommern,GuD:1997/2018,,GuD:75MW(Netto),NeubrandenburgerStadtwerkeGmbH,
-196,HeizkraftwerkNeumünsterNMS[171],73,?,SteinkohleEBS(u.a.Müll),Neumünster,Schleswig-HolsteinSchleswig-Holstein,1974,0!,54MW(Netto),StadtwerkeNeumünsterGmbH,
-197,KraftwerkNeurath[172],4465,9(NutzungzurHeizungeinesnahegelegenenGewächshauses[173]),Braunkohle,Grevenbroich,Nordrhein-WestfalenNordrhein-Westfalen,BlockA:1972BlockB:1972BlockC:1973BlockD:1975BlockE:1976BlockF(BoA2):2012BlockG(BoA3):2012,2019!(BlockA:31.12.2021)(BlockB:31.12.2021)BlockC:2019(BlockD:31.12.2022)(BlockE:31.12.2022)(BlockF(BoA2):2038spätestens[39])(BlockG(BoA3):2038spätestens[39]),"BlockA:294MW(Netto)BlockB:294MW(Netto)BlockC:292MW(Netto)BlockD:607MW(Netto)BlockE:604MW(Netto)BlockF(BoA2):1060MW(Netto)BlockG(BoA3):1060MW(Netto)Platz2–mit~32,4Mio.JahrestonnenCO2–aufderListederKraftwerkemitdemhöchstenCO2-AusstoßinderEU.[2]",RWEPowerAG,"!551.0378195506.611881551°02′16,1″N,006°36′42,8″O51.0378194444446.6118805555556"
-198,IndustriekraftwerkNeustadt[3],ca.25,?,Erdgas,Neustadt,BayernBayern,1996,,25MW(Netto)Eigenstrom-undDampfversorungderErdölraffinerieNeustadt,BayernoilRaffineriegesellschaftmbH,
-199,KraftwerkNiederaußem[174],3641,0,Braunkohle,Bergheim-Niederaußem,Nordrhein-WestfalenNordrhein-Westfalen,BlockA:1963BlockB:1963BlockC:1965BlockD:1968BlockE:1970BlockF:1971BlockG:1974/2008BlockH:1974/2008BlockK(BoA1):2002,0!BlockA:2012(Kaltreserve)BlockB:2012(Kaltreserve)(BlockC:31.12.2021)(BlockD:31.12.2020)BlockE:2018BlockF:2018(BlockG:2029spätestens[39])(BlockH:2029(Sicherheitsbereitschaft)[39])(BlockK(BoA1):2038spätestens[39]),"BlockA:125MW(Netto)BlockB:125MW(Netto)BlockC:295MW(Netto)BlockD:297MW(Netto)BlockE:295MW(Netto)BlockF:299MW(Netto)BlockG:628MW(Netto)BlockH:648MW(Netto)BlockK(BoA1):994MW(Netto)BlockLmit1100MWelgeplant[175],Planungmittlerweileeingestellt[176]Platz3–mit~27,2Mio.JahrestonnenCO2–aufderListederKraftwerkemitdemhöchstenCO2-AusstoßinderEU.[2]",RWEPowerAG,"!550.9960865506.671331550°59′45,9″N,006°40′16,8″O50.9960861111116.6713305555556"
-200,KraftwerkNordstemmen[3],ca.35,?,"Erdgas,Steinkohle",Nordstemmen,NiedersachsenNiedersachsen,1953,,31MW(Netto)Eigenstrom-undDampfversorgungderörtlichenZuckerfabrik,"NordzuckerAG,WerkNordstemmen",
-201,HeizkraftwerkzurPapierfabrikNortrup[3],ca.20,?,Erdgas,Nortrup,NiedersachsenNiedersachsen,1996,,18MW(Netto)Eigenstrom-undDampfversorgungderörtlichenPapierfabrik,DelkeskampVerpackungswerkeGmbH,
-202,HeizkraftwerkNürnberg-Sandreuth[177],"225(davonca.200Erdgas,19Müllund6Biomasse)",320(1500MWhWärmespeicher),"Erdgas:GuD1,GuD2Abfall:AbfallblockBiomasse:Biomasseblock",Nürnberg,BayernBayern,GuD1:2005GuD2:2005Abfallblock:1996Biomasseblock:2012,0!,GuD1:75MW(Netto)GuD2:75MW(Netto)Abfallblock:18MW(Netto)Biomasseblock:6MW(Netto),N-ERGIEAG,"49°26'11.342""N,011°3'20.959""O"
-203,IndustriekraftwerkNürnberg[3],ca.20,?,Erdgas,Nürnberg,BayernBayern,GT1:1993GT2:1993GT3:1994GT4:1995,(GT1:2021?)(GT2:2021?)(GT3:2021?)(GT4:2021?)(diedazugehörigeProduktionwird2021geschlossen[178]),GT1:4MW(Netto)GT2:4MW(Netto)GT3:5MW(Netto)GT4:5MW(Netto)Eigenstrom-undDampfversorgungderörtlichenDruckerei,PrinovisGmbH&Co.KG,
-204,HeizkraftwerkAlt-Oberhausen(HWK1)[3],24,ca.150(davon89ausKWK),Erdgas,Oberhausen,Nordrhein-WestfalenNordrhein-Westfalen,1971/79,0!,23MW(Netto)NutztauchAbwärmeausderbenachbartenMüllverbrennungsanlage(GMVA),EnergieversorgungOberhausenAG,"!551.4706945506.861250551°28′14,5″N,006°51′40,5″O51.4706944444446.86125"
-205,HeizkraftwerkOberhausen-Sterkrade(HKW2)[3],29(davon25Erdgasund4Biomasse),ca.75(davon44ausKWK),ErdgasBiomasse,Oberhausen-Sterkrade,Nordrhein-WestfalenNordrhein-Westfalen,1996Biomasseblock:2011,0!,25MW(Netto)Biomasseblock:3MW(Netto),EnergieversorgungOberhausenAG,"!551.5115285506.929778551°30′41,5″N,006°55′47,2″O51.5115277777786.9297777777778"
-206,IndustriekraftwerkOberkirch[3],ca.20,?,Steinkohle,Oberkirch,Baden-WürttembergBaden-Württemberg,1986,,19MW(Netto)Eigenstrom-undDampfversorgungderörtlichenPapierfabrik,KoehlerSE,
-207,KraftwerkObernburg[3],110,112,Erdgas,ObernburgamMain,BayernBayern,Block1:1995Block2:1920?/2010?,0!,Block1:64MW(Netto)Block2:36MW(Netto)Eigenstrom-undDampfversorgungfürdasIndustrieCenterObernburg;ErweiterungoderErsatzneubaudurchGuDmit114MWelund238MWth[179],KraftwerkObernburgGmbH,"49°49'44.144""N,009°8'53.39""O"
-208,HeizkraftwerkOffenbach[180],60,100(350MWhWärmespeicher),SteinkohleBiomasse,Offenbach,HessenHessen,1990,0!,54MW(Netto),EnergieversorgungOffenbachAG,
-209,HeizkraftwerkOffstein[3],ca.35,?,Erdgas,Obrigheim,Rheinland-PfalzRheinland-Pfalz,1961,,30MW(Netto)Eigenstrom-undDampfversorgungderörtlichenZuckerfabrik,SüdzuckerAGMannheim,
-210,HeizkraftwerkOsnabrück[3],ca.20,?,"Braunkohle,Steinkohle,EBS",Osnabrück,NiedersachsenNiedersachsen,Turbine4:1962Turbine5:1972,,Turbine4:10MW(Netto)Turbine5:10MW(Netto)Eigenstrom-undDampfversorgungderörtlichenPapierfabrik,KämmererEnergieGmbH,
-211,HeizkraftwerkPforzheim[181],105,182(davon127ausKWK),"Steinkohle:WirbelschichtblockErdgas:Kombiblock,GaskesselanlagenEBS:WirbelschichtblockBiomasse:Biomasseblock",Pforzheim,Baden-WürttembergBaden-Württemberg,Gaskesselanlage1:1965Gaskesselanlage2:1969Kombiblock/GuD:1980Wirbelschichtblock:1990Biomasseblock:2004BHKW:2017,2023!Gaskesselanlage2:2016(KombiblockGuD:2023)(Wirbelschichtblock:2023)(Kohleverbrennung:2021[182]),Gaskesselanlage1:ca.15MW(Netto)Gaskesselanlage2:11MW(Netto)KombiblockGuD:41MW(Netto)Wirbelschichtblock:27MW(Netto)Biomasseblock:12MW(Netto)BHKW:2MW(Netto)(Gasmotorenkraftwerkmit50MWelund47MWthimBau[183]),HeizkraftwerkPforzheimGmbH,
-212,KraftwerkPlattling[3],125,150,Erdgas,Plattling,BayernBayern,2010,0!,119MW(Netto)Eigenstrom-undDampfversorgungderörtlichenPapierfabrik;StromversorgungdesDaimler-WerkesSindelfingen,DaimlerAG,"48°47'16.048""N,012°52'59.606""O"
-213,HeizkraftwerkPotsdam-Süd[184],84,450(davon270ausKWK;1200MWhWärmespeicher),Erdgas,Potsdam,BrandenburgBrandenburg,1995,0!,82MW(Netto),StadtwerkePotsdam,"!552.3652065513.113053552°21′54,7″N,013°06′47,0″O52.36520555555613.113052777778"
-214,HeizkraftwerkRaubling[185],27,70,Erdgas,Raubling,BayernBayern,2001,,24MW(Netto)Eigenstrom-undDampfversorgungderörtlichenPapierfabrik,HBBHeizkraftwerkBauernfeindBetriebsgesellschaftmbH,
-215,IndustriekraftwerkRegensburg[3],ca.15,?,Erdgas,Regensburg,BayernBayern,Block1:2012Block2:2016,,Block1:11MW(Netto)Block2:3MW(Netto)Eigenstrom-undDampfversorgungderörtlichenPKW-Fabrik,BMWAG,
-216,BlockheizkraftwerkReutlingenHauffstraße[186],10,52(davon12ausKWK),Erdgas,Reutlingen,Baden-WürttembergBaden-Württemberg,1992/2007/2011,,10MW(Netto),FairEnergieGmbH,
-217,IndustriekraftwerkRheinberg[3],133,?,SteinkohleErdgas,Rheinberg,Nordrhein-WestfalenNordrhein-Westfalen,1975,0!,79MW(Netto)Eigenstrom-undDampfversorgungfürdenörtlichenChemiepark(Holzkraftwerkmit15MWelundca.70MWthgeplant[187]),SolvayChemicalsGmbH,
-218,HeizkraftwerkRheinfelden[3],ca.20,?,ErdgasWasserstoff,Rheinfelden,Baden-WürttembergBaden-Württemberg,1979,,16MW(Netto)Eigenstrom-undDampfversorgungfürdenörtlichenChemiepark,EvonikDegussaGmbH,
-219,KraftwerkRömerbrücke[188],133(davon56Kohleund77Erdgas),235,SteinkohleErdgas,Saarbrücken,SaarlandSaarland,Kohleblock:1964/89GuD-Block:1967/74/75/2005/11(GAMOR:2022),0!(Kohleblock:2022[189]),Kohleblock:50MW(Netto)GuD-Block:75MW(Netto)(Gasmotorenkraftwerkmit50MWelund50MWthsowieFernwärmespeicherimBau[189]),ElectrabelSaarlandGmbH,"!549.2236115507.015000549°13′25,0″N,007°00′54,0″O49.2236111111117.015"
-220,KraftwerkRosenheim-Färberstraße[3],ca.25(davonca.10Müllundca.15Erdgas),?(ca.50MWhWärmespeicher),"Erdgas:GM1-3,GM4Müll,Erdgas,Heizöl:T1a/b,T2",Rosenheim,BayernBayern,"GM1-3:2011GM4:2013T1a/b,T2:1988",,"GM1-3:10MW(Netto)GM4:9MW(Netto)T1a/b,T2:9MW(Netto)",StadtwerkeRosenheimGmbH&Co.KG,
-221,KraftwerkRosenheim-Oberaustraße[3],ca.10,?,Erdgas,Rosenheim,BayernBayern,GM5:2012,,GM5:4MW(Netto),StadtwerkeRosenheimGmbH&Co.KG,
-222,KraftwerkRostock[190],553,150(300möglich),Steinkohle,Rostock,Mecklenburg-VorpommernMecklenburg-Vorpommern,Block1:1994,0!Block1:2038spätestens,Block1:514MW(Netto),KNGKraftwerks-undNetzgesellschaftmbH,"!554.1428445512.132950554°08′34,2″N,012°07′58,6″O54.14284444444412.13295"
-223,KraftwerkRostock-Marienehe[191],111,408(davon120ausKWK),Erdgas,Rostock,Mecklenburg-VorpommernMecklenburg-Vorpommern,BlockI:1996/2017BlockII:1996/2017BlockIII:1996/2017,0!,BlockI:36MW(Netto)BlockII:36MW(Netto)BlockIII:36MW(Netto)SollumeineKlärschlamm-Verbrennungsanlageergänztwerden[192],StadtwerkeRostockAG,
-224,KraftwerkRüsselsheim[193],114,88,Erdgas,RüsselsheimamMain,HessenHessen,1999,0!,112MW(Netto)Eigenstrom-undDampfversorgungdesörtlichenOpelwerkes,OpelAutomobileGmbH,"49°59'28.684""N,008°23'33.641""O"
-225,HeizkraftwerkSaarbrücken-Süd[194],ca.40,33(ca.170MWhWärmespeicher),Erdgas,Saarbrücken,SaarlandSaarland,2012,,39MW(Netto)Eigenstrom-undDampfversorgungfürAutomobilzulieferer,ZFFriedrichshafenAG,
-226,EnergiezentraleSaarlouis[195],ca.25,20,Erdgas,Saarlouis,SaarlandSaarland,2016,,22MW(Netto)Eigenstrom-undWärmeerzeugungfürAutomobilhersteller,Ford-WerkeGmbH,
-227,KraftwerkSalzgitter-Hallendorf[196],325,?,KuppelgaseausderStahlerzeugung,Salzgitter,NiedersachsenNiedersachsen,BlockAB:1939/2011Block1:2010Block2:2010,0!,BlockAB:95MW(Netto)Block1:97MW(Netto)Block2:97MW(Netto)Eigenstrom-undDampfversorgungdesörtlichenStahlwerkes,SalzgitterFlachstahlGmbH,
-228,WerkskraftwerkSappiAlfeld[3],ca.30,?,"Erdgas,Biogas,Heizöl",Alfeld,NiedersachsenNiedersachsen,Gaskraftwerk:1947Dieselgenerator:1994Turbine5:2003,Dieselgenerator:2018,Gaskraftwerk:11MW(Netto)Dieselgenerator:3MW(Netto)Turbine5:13MW(Netto)Eigenstrom-undDampfversorgungderörtlichenSpezialpapier-Fabrik,SappiAlfeldGmbH,
-229,WerkskraftwerkSappiEhingen[3],ca.30,?,"Erdgas:Turbine4Biomasse:Turbine3,Turbine5",Ehingen,Baden-WürttembergBaden-Württemberg,Turbine3:1961Turbine4:1977Turbine5:1990,,Turbine3:8MW(Netto)Turbine4:4MW(Netto)Turbine5:13MW(Netto)Eigenstrom-undDampfversorgungderörtlichenSpezialpapier-Fabrik,SappiEhingenGmbH,
-230,WerkskraftwerkSappiStockstadt[3],ca.45(davonca.30Steinkohleundca.15Biomasse),?,Steinkohle:SteinkohleblockBiomasse:Biomasseblock,Stockstadt,BayernBayern,Steinkohleblock:1970Biomasseblock:2003,,Steinkohleblock:25MW(Netto)Biomasseblock:14MM(Netto)Eigenstrom-undDampfversorgungderörtlichenSpezialpapier-Fabrik,SappiStockstadtGmbH,
-231,SchönfelderPapierfabrikGmbH/GetecAG,"1,0",,Braunkohle,Schönfeld(LandkreisMeißen),SachsenSachsen,2007,0!,,Getec-Gruppe,
-232,KraftwerkSchkopau[197],1100,200,Braunkohle,Schkopau,Sachsen-AnhaltSachsen-Anhalt,BlockA:1996BlockB:1996,2035!(BlockA:2035[198])(BlockB:2035[198]),BlockA:450MW(Netto)BlockB:450MW(Netto)davoninsgesamt110MW(Netto)Bahnstrom,UniperKraftwerkeGmbH,"!551.3984565511.950325551°23′54,4″N,011°57′01,2″O51.39845555555611.950325"
-233,KraftwerkScholven[199],828,250,"Steinkohle:BlöckeB,C,D,E,F,FKWBuerÖl(Schweröl):BlöckeG,HPetrolkoks:BlöckeB,C,FKWBuer",Gelsenkirchen,Nordrhein-WestfalenNordrhein-Westfalen,BlockB:1968BlockC:1969BlockD:1970BlockE:1971BlockF:1979BlockFWKBuer:1985BlockG:1974BlockH:1975(GuD:2022),(BlockB:2022)(BlockC:2022)BlockD:2014BlockE:2014BlockF:2014(BlockFWKBuer:2022)BlockG:2001BlockH:2003,"BlockB:345MW(Netto)BlockC:345MW(Netto)BlockD:345MW(Netto)BlockE:345MW(Netto)BlockF:676MW(Netto)BlockFWKBuer:70MW(Netto)BlockG:640MW(Netto)BlockH:640MW(Netto)(GuD-Kraftwerkmit130MWelimBau,Inbetriebnahmefür2022vorgesehen)",UniperKraftwerkeGmbH,"!551.6035675507.002067551°36′12,8″N,007°00′07,4″O51.6035666666677.0020666666667"
-234,KraftwerkSchongau[3],ca.150,?,"Erdgas:DKW,HKW3ReststoffeausderAltpapieraufbereitung:HKW2",Schongau,BayernBayern,DKW:1954/2015HKW2:1989HKW3:2014,0!DKW:2015?(Netzreserve),DKW:64MW(Netto)HKW2:6MW(Netto)HKW3:76MW(Netto)Eigenstrom-undDampfversorgungfürdieörtlichePapierfabrik,UPMGmbH,
-235,HeizkraftwerkSchwarza[3][200],ca.30,?,Erdgas,Rudolstadt,ThüringenThüringen,1936,,27MW(Netto)Eigenstrom-undDampfversorgungdesörtlichenIndustriegebietes,Energie-undMedienversorgungSchwarzaGmbH,
-236,KraftwerkSchwarzheide[3],124,209,Erdgas,Schwarzheide,BrandenburgBrandenburg,GuD:1994(GT:2022[201]),0!,122MW(Netto)Eigenstrom-undDampfversorgungdesörtlichenChemiestandortes;einederbeidenGuD-TurbinensätzewirddurcheineGTersetzt,BASFSchwarzheideGmbH,
-237,KraftwerkSchwarzePumpe[202],1600,120,Braunkohle,Spremberg(IndustrieparkSchwarzePumpe),BrandenburgBrandenburg,BlockA:1997BlockB:1998,0!BlockA:2038spätestensBlockB:2038spätestens,"BlockA:750MW(Netto)BlockB:750MW(Netto)Platz10–mit~11,6Mio.JahrestonnenCO2–aufderListederKraftwerkemitdemhöchstenCO2-AusstoßinderEU.[2]",LEAG,"!551.5358145514.354753551°32′08,9″N,014°21′17,1″O51.53581388888914.354752777778"
-238,RaffineriekraftwerkSchwedt/Oder[3],"375,5",132,"EBS(Mineralölprodukte,Ölrückstand,Raffineriegas)",Schwedt,BrandenburgBrandenburg,Block1:1998Block2:1998Block4:2011Block5:1972Block6:1994,0!,Block1:106MW(Netto)Block2:106MW(Netto)Block4:59MW(Netto)Block5:28MW(Netto)Block6:35MW(Netto)Eigenstrom-undDampfversorungderPCK-Raffinerie,PCKRaffinerieGmbH,"53°5'42.95""N,14°13'55.052""O"
-239,GKSGemeinschaftskraftwerkSchweinfurt[203],29,60,SteinkohleKlärschlammEBS(Hausmüll),Schweinfurt,BayernBayern,1990,0!,24MW(Netto),GemeinschaftskraftwerkSchweinfurtGmbH,"!550.0300865510.223606550°01′48,3″N,010°13′25,0″O50.03008611111110.223605555556"
-240,HeizkraftwerkSchwerin-Lankow[204],24,32,Erdgas,Schwerin,Mecklenburg-VorpommernMecklenburg-Vorpommern,GuD:1994,,GuD:23MW(Netto),EnergieversorgungSchwerinGmbH&Co.,
-241,HeizkraftwerkSchwerin-Süd[204],54,60(ca.450MWhWärmespeicher),Erdgas,Schwerin,Mecklenburg-VorpommernMecklenburg-Vorpommern,GuD:1994,,GuD:45MW(Netto),EnergieversorgungSchwerinGmbH&Co.,
-242,SpitzenlastkraftwerkSermuth[3],ca.17,0,Mineralölprodukte,Großbothen,SachsenSachsen,1995,,17MW(Netto),enviaTHERMGmbH,
-243,HeizkraftwerkSigmundshall[3],ca.15,?,Erdgas,Wunstorf,NiedersachsenNiedersachsen,1974,,11MW(Netto)Eigenstrom-undDampfversorgungfürdemörtlichenKalibergbau;Bergbau2018eingestellt,K+SAG,
-244,HeizkraftwerkSindelfingen[3],102,102,"Erdgas,Heizöl",Sindelfingen,Baden-WürttembergBaden-Württemberg,1986/2013,0!,95MW(Netto)Eigenstrom-undDampfversorungdesörtlichenDaimler-Werkes,DaimlerAG,"48°42'2.444""N,008°59'29.18""O"
-245,Gasturbinen-HeizkraftwerkSt.Wendel[3],ca.22,?,Erdgas,St.Wendel,SaarlandSaarland,2014,,20MW(Netto)Eigenstrom-undDampfversorgungfürMedizinprodukte-Produktion,FreseniusMedicalCareDeutschlandGmbH,
-246,KraftwerkStade[3],173,?,ErdgasWasserstoff,Stade,NiedersachsenNiedersachsen,KWK:1972GuD:2015,0!KWK:2014,"KWK:190MW(Netto)GuD:157MW(Netto)sollumumstrittenesKohlekraftwerkmit840MWelund230MWtherweitertwerden[205],Planungmittlerweileeingestellt[206]",DowDeutschlandAktiengesellschaftmbH,
-247,KraftwerkStade-Bützfleth[3],31,?,Erdgas,Stade,NiedersachsenNiedersachsen,GT1und2:2012,,GT1und2:31MW(Netto)Eigenstrom-undDampfversorgungdesörtlichenChemieparks,AluminiumOxidStadeGmbH,
-248,KraftwerkStaßfurt[3],123,160,Erdgas,Staßfurt,Sachsen-AnhaltSachsen-Anhalt,altesGuD:?neuesGuD:2015,0!altesGuD:2015,altesGuD:9MW(Netto)neuesGuD:100MW(Netto)Eigenstrom-undDampfversorgungdesörtlichenChemieparks,KWG-KraftwerksgesellschaftStaßfurtmbH,
-249,KraftwerkSteinitz[3],ca.12,?,Erdgas,Steinitz,Sachsen-AnhaltSachsen-Anhalt,1999,,11MW(Netto)ErdgasausörtlicherFörderung,NeptuneEnergyDeutschlandGmbH,
-250,HeizkraftwerkStendal[207],23,70(davon24ausKWK;ca.150MWhWärmespeicher),Erdgas,Stendal,Sachsen-AnhaltSachsen-Anhalt,Gasmotorenkraftwerk:1994,,22MW(Netto)wirddurchmehreredezentraleBHKWsmitinsgesamt15MWel(Netto)und61MWth(davon20ausKWK)ersetzt[208],StadtwerkeStendal,
-251,HeizkraftwerkStuttgart-Gaisburg[209],30,205(davon30ausKWK;300MWhWärmespeicher),"Steinkohle:DT14Erdgas:HKW3,GT13Heizöl:HKW3",Stuttgart-Gaisburg,Baden-WürttembergBaden-Württemberg,GT13:1973DT14:2009HKW3:2018,0!GT13:2014DT14:2018HWK3:?,GT13:55MW(Netto)DT14:23MW(Netto)HKW3:29MW(Netto),EnBWEnergieBaden-WürttembergAG,"!548.7822475509.231336548°46′56,1″N,009°13′52,8″O48.7822472222229.2313361111111"
-252,HeizkraftwerkStuttgart-Münster[210],190,447,"Steinkohle:DT12,DT15,DT19EBS(Müll):DT12,DT15;DT19Mineralölprodukte:GT16,GT17,GT18",Stuttgart-Münster,Baden-WürttembergBaden-Württemberg,GT16:1974GT17:1974GT18:1974DT12:1982DT15:1984DT19:2009,0!,GT16:23MW(Netto)GT17:23MW(Netto)GT18:23MW(Netto)DT12:45MW(Netto)DT15:45MW(Netto)DT19:20MW(Netto),EnBWEnergieBaden-WürttembergAG,"!548.8153645509.219742548°48′55,3″N,009°13′11,1″O48.8153638888899.2197416666667"
-253,HeizkraftwerkStuttgartPfaffenwald[211],39,93(zuzüglich23MWFernkälte),"Erdgas,Heizöl",Stuttgart-Pfaffenwald,Baden-WürttembergBaden-Württemberg,GuD-Anlage40:1988Block50:1969Block60:1968,,GuD-Anlage40:12MW(Netto)Block50:11MW(Netto)Block60:12MW(Netto),UniversitätStuttgart,
-254,Nürnberg-Teisnach[212],"2,1","20,4",Braunkohle-Staub,Teisnach,BayernBayern,2004,0!,?MW(Netto)Eigenstrom-undDampfversorgungderörtlichenSpezialpapier-Fabrik,PfleidererTeisnachGmbH&Co.KG/GetecAG,
-255,GasturbinenkraftwerkThyrow[213],190,0,Erdgas,MärkischWilmersdorf,BrandenburgBrandenburg,GTA:1987GTB:1987GTC:1987GTD:1987GTE:1987GTF:1987GTG:1987GTH:1987,0!GTA:2016(Netzreserve)GTB:2016(Netzreserve)GTC:2016(Netzreserve)GTD:2016(Netzreserve)GTE:2016(Netzreserve)GTF:2016GTG:2016GTH:2016,GTA:37MW(Netto)GTB:37MW(Netto)GTC:37MW(Netto)GTD:37MW(Netto)GTE:38MW(Netto)GTF:38MW(Netto)GTG:38MW(Netto)GTH:38MW(Netto),LEAG,"!552.2301405513.302160552°13′48,5″N,013°18′07,8″O52.2301413.30216"
-256,HeizkraftwerkTiefstack[214],347(davon205Kohleund142Erdgas),955,SteinkohleErdgas,Hamburg,HamburgHamburg,Kohleblock:1993GuD-Block:2009,0!Kohleblock:2030[215],Kohleblock:194MW(Netto)GuD-Block:127MW(Netto),VattenfallHamburgWärmeGmbH,"!553.5266395510.064194553°31′35,9″N,010°03′51,1″O53.52663888888910.064194444444"
-257,GemeinschaftskraftwerkTübingen[216],9,30,Erdgas,Tübingen,Baden-WürttembergBaden-Württemberg,1996,,9MW(Netto),StadtwerkeTübingen,
-258,BlockheizkraftwerkTübingenObereViehweide[216],13,12(ca.15MWhWärmespeicher),Erdgas,Tübingen,Baden-WürttembergBaden-Württemberg,2000/13/17,,13MW(Netto),StadtwerkeTübingen,
-259,HeizkraftwerkUlmMagirusstraße[217],36(davon21Kohleund15Biomasse),278,Steinkohle:HKWErdgas:HKWHeizöl:HKWBiomasse:Bio-HKWs,Ulm-Söflingen,Baden-WürttembergBaden-Württemberg,HKW:1992Bio-HKWI:2004Bio-HKWII:2012,0!,HKW:18MW(Netto)Bio-HKWI:9MW(Netto)Bio-HKWII:5MW(Netto),FUGFernwärmeUlmGmbH,"!548.3968335509.965917548°23′48,6″N,009°57′57,3″O48.3968333333339.9659166666667"
-260,HeizkraftwerkUelzen[3],47,?,"Steinkohle,Erdgas,Biogas",Uelzen,NiedersachsenNiedersachsen,1965/1969,0!,40MW(Netto)Eigenstrom-undDampfversorgungderörtlichenZuckerfabrik,"NordzuckerAG,WerkUelzen","52°58'40.5""N,010°33'25.2""O"
-261,HeizkraftwerkUnterbreizbach[3],ca.20,?,Erdgas,Unterbreizbach,ThüringenThüringen,1995,,20MW(Netto)Eigenstrom-undDampfversorgungfürdenörtlichenKalibergbau,K+SAG,
-262,PKV-Kraftwerk[218],ca.65,?,"Erdgas,Biogas",Varel,NiedersachsenNiedersachsen,Kondensationsturbine:1968KWK-Blöcke:1989Biogasmotoren:2006,,Kondensationsturbine:1MW(Netto)KWK-Blöcke:58MW(Netto)Biogasmotoren:2MW(Netto)Eigenstrom-undDampfversorgungfürdieörtlichePapierfabrik,Papier-undKartonfabrikVarelGmbH&Co.KG,
-263,KraftwerkVölklingen/Fenne[219],508(davon466Kohleund42Grubengas),437,SteinkohleGrubengas,Völklingen,SaarlandSaarland,FenneI:1924FenneII:1962FenneIII:1967MKV:1982HKV:1989Grubengaskraftwerk:2003,FenneI:1971FenneII:1989FenneIII:1996,FenneI:ca.50MW(Netto)FenneII:ca.140MW(Netto)FenneIII:ca.155MW(Netto)MKV:179MW(Netto)HKV:211MW(Netto)Grubengaskraftwerk:42MW(Netto),SteagGmbH,"!549.2495785506.881444549°14′58,5″N,006°52′53,2″O49.2495777777786.8814444444444"
-264,KraftwerkWählitz[220],37,40,Braunkohle,Hohenmölsen,Sachsen-AnhaltSachsen-Anhalt,1994,0!,31MW(Netto),MitteldeutscheBraunkohlengesellschaftmbH,"51°10'0.646N,012°4'34.068""O"
-265,KraftwerkWalheim[111],410(davon143Heizölund267Steinkohle),0,"Steinkohle:Blöcke1,2Öl(Heizöl):GTD",Walheim,Baden-WürttembergBaden-Württemberg,Block1:1964/1989/2011Block2:1967/1989/2011GTD:1981,"2019!Block1:von2000bis2005inKaltreserve;untersagtbis1JahrnachBeginnderEngpassbewirtschaftungDeutschland/Österreich(1.Oktober2018)[6],längstensbis31.März2020[1]Block2:analog",Block1:96MW(Netto)Block2148MW(Netto)GTD:136MW(Netto),EnBWEnergieBaden-WürttembergAG,"!549.0184395509.157331549°01′06,4″N,009°09′26,4″O49.0184388888899.1573305555556"
-266,KraftwerkWaltenhofen-Veits[3],ca.35,0,Mineralölprodukte,Waltenhofen-Veits,BayernBayern,SKWDiesel:1978SKWGT:1988,,SKWDiesel:11MW(Netto)SKWGT:24MW(Netto),AllgäuerÜberlandwerkeGmbH,
-267,HeizkraftwerkWedel[221],392(davon290Steinkohleund102Heizöl),423,"Steinkohle:Blöcke1,2Öl(Heizöl):GTA,B",Wedel,Schleswig-HolsteinSchleswig-Holstein,Block1:1961/1993Block2:1962/1993GTA:1972GTB:1972,2022!(2024[222]),Block1:137MW(Netto)Block2:123MW(Netto)GTA:51MW(Netto)GTB:51MW(Netto),Steinkohleblöcke:VattenfallEuropeWärmeAGGasturbinen:VattenfallHamburgWärmeGmbH,"!553.5664585509.725594553°33′59,2″N,009°43′32,1″O53.5664583333339.7255944444444"
-268,GemeinschaftskraftwerkWeig[3],ca.55,?,"Erdgas:Blöcke1,3,4ReststoffeausderPapierherstellung:Block3",Mayen,Rheinland-PfalzRheinland-Pfalz,Block1:1992Block2:2013Block3:1992Block4:1971,Block3:vorläufigstillgelegt,Block1:11MW(Netto)Block2:27MW(Netto)Block3:10MW(Netto)Block4:8MW(Netto),MoritzJ.WeigGmbH&Co.KG,
-269,KraftwerkWeiher[223],724,30,Steinkohle,Quierschied,SaarlandSaarland,BlockI:1943/44BlockII:1963/64BlockIII:1976/2006,BlockI:1973BlockII:1999/2001(BlockIII:untersagtbis30.04.2020[1]),BlockI:ca.100MW(Netto)BlockII:ca.275MW(Netto)BlockIII:656MW(Netto),SteagGmbH,"!549.3347865507.035514549°20′05,2″N,007°02′07,9″O49.3347861111117.0355138888889"
-270,IndustriekraftwerkWeißenborn[3],ca.20,?,Erdgas,Weißenborn,SachsenSachsen,1997,,19MW(Netto)Eigenstrom-undDampfversorgungderörtlichenSpezialpapier-Fabrik,SchoellerTechnocellGmbH&CoKG,
-271,KraftwerkWeisweiler[224],"2698(davon2119Braunkohle,544Gasund35Müll)",183,"Braunkohle:BlöckeA,B,C,D,E,F,G,HKlärschlamm:BlöckeE,FErdgas:BlöckeVGTG,VGTH",Eschweiler,Nordrhein-WestfalenNordrhein-Westfalen,BlockA:1955BlockB:1955BlockC:1955BlockD:1959BlockE:1965BlockF:1967BlockG:1974BlockH:1975BlockVGTG:2006BlockVGTH:2006Müllverbrennungs-anlageaufdemGelände:1996,2030!BlockA:vor2010BlockB:vor2010BlockC:2012BlockD:2012(BlockE:um2030[225])BlockF:2025spätestens[39]BlockG:2028spätestens[39]BlockH:2029spätestens[39](BlockVGTG:um2030)(BlockVGTH:um2030),"BlockA:ca.90MW(Netto)BlockB:ca.90MW(Netto)BlockC:123MW(Netto)BlockD:135MW(Netto)BlockE:321MW(Netto)BlockF:321MW(Netto)BlockG:590MW(Netto),mitVGT663MW(Netto)BlockH:590MW(Netto),mitVGT656MW(Netto)BlockVGTG:200MW(Netto)BlockVGTH:200MW(Netto)MVA:27MW(Netto)Platz5-mit~16,9Mio.JahrestonnenCO2-aufderListederKraftwerkemitdemhöchstenCO2-AusstoßinderEU.[2]",RWEPowerAG,"!550.8392065506.323856550°50′21,1″N,006°19′25,9″O50.8392055555566.3238555555556"
-272,KraftwerkWerdohl-Elverlingsen[3],220,0,"Steinkohle:BlöckeE3,E4Heizöl:BlöckeE1,E2",Werdohl,Nordrhein-WestfalenNordrhein-Westfalen,BlockE1:1975BlockE2:1975BlockE3:1971BlockE4:1982,0!BlockE1:2017(Kaltreserve)BlockE2:2017(Kaltreserve)BlockE3:2014BlockE4:2018,BlockE1:103MW(Netto)BlockE2:103MW(Netto)BlockE3:186MW(Netto)BlockE4:310MW(Netto),Mark-EAG,
-273,Gersteinwerk[226],1393,0,"Steinkohle:BlockK2Erdgas:BlöckeF1,F2,G1,G2,H1,H2,I1,I2,K1",Werne,Nordrhein-WestfalenNordrhein-Westfalen,VGTF1:1973DTF2:1973VGTG1:1973DTG2:1973VGTH1:1973DTH2:1973VGTI1:1973DTI2:1973VGTK1:1984DTK2:1984,2021!(VGTF1:2021[227])(DTF2:2021[227])(VGTG1:2021[227])(DTG2:2021[227])VGTH1:2018DTH2:vor2010VGTI1:?DTI2:2012(Kaltreserve)VGTK1:?DTK2:2019,VGTF1:55MW(Netto)DTF2:355MW(Netto)VGTG1:55MW(Netto)DTG2:355MW(Netto)VGTH1:55MW(Netto)DTH2:355MW(Netto)VGTI1:55MW(Netto)DTI2:355MW(Netto)VGTK1:112MW(Netto)DTK2:614MW(Netto)Gas-BlockLmitmax.1300MWinPlanung[228],RWEGenerationSE,"!551.6735535507.720633551°40′24,8″N,007°43′14,3″O51.6735527777787.7206333333333"
-274,IndustriekraftwerkWesseling[3],168,?,Mineralölprodukte:BlockD210Erdgas:BlockD290,Wesseling,Nordrhein-WestfalenNordrhein-Westfalen,D210:1962D290:1996,0!,D210:66MW(Netto)D290:52MW(Netto)Eigenstrom-undDampfversorgungfürdenörtlichenChemiepark,BasellPolyolefineGmbH,
-275,HeizkraftwerkWiesengrund[3],ca.25,?,ErdgasHeizöl,Eisenach,ThüringenThüringen,1993,,22MW(Netto),OpelAutomobileGmbH,
-276,KraftwerkWilhelmshaven(Uniper)[8],844(davon788Steinkohleund56Heizöl),0,Steinkohle:Block1Heizöl:GT,Wilhelmshaven,NiedersachsenNiedersachsen,Block1:1976/98GT:1973,2021!(Block1:2021?[229])GT:?,Block1:757MW(Netto)GT:56MW(Netto)vonhierwirddasLuftspeicher-Gasturbinen-KraftwerkHuntorfferngesteuert.,UniperKraftwerkeGmbH,"!553.5645565508.146389553°33′52,4″N,008°08′47,0″O53.5645555555568.1463888888889"
-277,KraftwerkWilhelmshaven(Engie)[3],830,0,Steinkohle,Wilhelmshaven,NiedersachsenNiedersachsen,Block1:2015,0!Block1:?,Block1:731MW(Netto),OnyxPowerAssetsGmbH,"!553.5658145508.146239553°33′56,9″N,008°08′46,5″O53.5658138888898.1462388888889"
-278,KraftwerkWiesbaden-Biebrich(IndustrieparkKalleAlbert)[3],ca.35,?,ErdgasundKlärgas:Block1Altholz:Block2,Wiesbaden-Biebrich,HessenHessen,Block1:2006Block2:2003(GuD:2021),Block1:?(Block2:2021),"Block1:23MW(Netto),Block2:7MW(Netto)Eigenstrom-undDampfversorgungfürdenörtlichenChemiepark(ErweiterungumzweiGuDmitinsgesamtca.50MWelimBau[230])",InfraservGmbH&Co.WiesbadenKG,
-279,GaskraftwerkWitzenhausen[3],ca.45(davonca.15Erdgasundca.30EBS),?,"Erdgas,Biogas:ErdgasblockEBS,Heizöl:EBS-Block",Witzenhausen,HessenHessen,Erdgasblock:1990EBS-Block:2009,,Erdgasblock:13MW(Netto)EBS-Block:28MW(Netto)Eigenstrom-undDampfversorgungfürdieörtlichePapierfabrik,Erdgasblock:DSSmithPaperDeutschlandGmbHEBS-Block:B+TEnergieGmbH,
-280,SpitzenlastkraftwerkWolfen[3],ca.42,0,Erdgas,Wolfen,Sachsen-AnhaltSachsen-Anhalt,1997,,40MW(Netto),enviaTHERMGmbH,
-281,HeizkraftwerkWolfsburgNord[12],140,755,"SteinkohleÖl/ErdgasEBS(Altöl,Lackgranulate)",Wolfsburg,NiedersachsenNiedersachsen,BlockA:1959/2000BlockB:1959/2000,2021!(BlockA:2021/2022)(BlockB:2021/2022),"BlockA:62MW(Netto)BlockB:62MW(Netto)Eigenstrom-undProzesswärme/-kälte-sowieDruckluftversorgungfürdasVW-WerkunddieAutostadt,FernwärmeauskopplungfürdieStadtWolfsburg,SteinkohleblöckesollendurcheinGuD-Kraftwerkmit136MWelund386MWthersetztwerden[231]",VolkswagenKraftwerkGmbH,"!552.4325005510.786944552°25′57,0″N,010°47′13,0″O52.432510.786944444444"
-282,HeizkraftwerkWolfsburgWest[12],306,160,Steinkohle,Wolfsburg,NiedersachsenNiedersachsen,Block1:1985Block2:1985,2021!(Block1:2021/2022)(Block2:2021/2022),Block1:139MW(Netto)Block2:139MW(Netto)SteinkohleblöckesollendurcheinGuD-Kraftwerkmit288MWelund265MWthersetztwerden[231],VolkswagenKraftwerkGmbH,"!552.4419445510.764167552°26′31,0″N,010°45′51,0″O52.44194444444410.764166666667"
-283,IndustriekraftwerkWorms[3],ca.12,?,Erdgas,Worms,Rheinland-PfalzRheinland-Pfalz,1991,,12MW(Netto)Eigenstrom-undDampfversorgungdesörtlichenChemieparks,GraceGmbH,
-284,BlockheizkraftwerkWörth[3],ca.13,ca.15,Erdgas,WörthamRhein,Rheinland-PfalzRheinland-Pfalz,2013,,13MW(Netto)Eigenstrom-undDampfversorgungderörtlichenLKW-Fabrik,DaimlerAG,
-285,HeizkraftwerkWörth[232],62,?,ErdgasReststoffeausderPapierherstellung,WörthamRhein,Rheinland-PfalzRheinland-Pfalz,2007,0!,59MW(Netto)Eigenstrom-undDampfversorgungderörtlichenPapierfabrik;sollumeinenweiterenBlockerweitertwerden[233],PalmPowerGmbH&Co.KG,"49°2'43.127""N,008°17'4.121""O"
-286,HeizkraftwerkWuppertal-Barmen[234],145,112,Erdgas:Block1Heizöl:Block2,Wuppertal-Barmen,Nordrhein-WestfalenNordrhein-Westfalen,Block1:2005Block2:2008,0!,Block1:82MW(Netto)Block2:60MW(Netto),WSWEnergie&WasserAG,"!551.2691285507.200475551°16′08,9″N,007°12′01,7″O51.2691277777787.200475"
-287,HeizkraftwerkeWürzburganderFriedensbrücke[3],125,215,Erdgas,Würzburg,BayernBayern,GTI:2005GTII:2009TSII:1993TSIII:1971,0!,GTI:45MW(Netto)GTII:30MW(Netto)TSII:25MW(Netto)TSIII:23MW(Netto),HeizkraftwerkeWürzburgGmbH,"!549.7999445509.923278549°47′59,8″N,009°55′23,8″O49.7999444444449.9232777777778"
-288,KraftwerkZeitz[3],70(davon45Braunkohleund25Erdgas),?,Braunkohle:Blöcke1und2Erdgas:Block3,Zeitz,Sachsen-AnhaltSachsen-Anhalt,Block1:1993Block2:1993Block3:2005,0!,Block1:23MW(Netto)Block2:18MW(Netto)Block3:23MW(Netto)Eigenstrom-undDampfversorgungderörtlichenZucker-undEthanolfabrik,Block1und3:SüdzuckerAGBlock2:CropEnergiesBioethanolGmbHZeitz,"51°03'07.1""N,012°06'37.9""O"
-289,IndustriekraftwerkZielitz[3],ca.30,?,Erdgas,Zielitz,Sachsen-AnhaltSachsen-Anhalt,1996/2010,,27MW(Netto)Eigenstrom-undDampfversorgungdesKaliwerkesZielitz,K+SAG,
-290,KraftwerkZolling[235],"572(davon501Steinkohle,21Biomasseund50Heizöl)",180(400MWhWärmespeicher),"Steinkohle:Blöcke1,2,3,4,5Klärschlamm:Block5(geplant)Öl(Heizöl):GT1,2Biomasse:Block6",Zolling,BayernBayern,Block1:1958Block2:1961Block3:1964Block4:1966Block5:1986/2011Block6:2003GT1:1976GT2:1976,0!Block1:1982Block2:1984Block3:1987Block4:1987,Block1:38MW(Netto)Block2:47MW(Netto)Block3:71MW(Netto)Block4:97MW(Netto)Block5:472MW(Netto)Block6:18MW(Netto)GT1:23MW(Netto)GT2:23MW(Netto)überGasturbineschwarzstartfähig,OnyxPowerAssetsGmbH,"!548.4552925511.799514548°27′19,1″N,011°47′58,3″O48.45529166666711.799513888889"
-291,IndustriekraftwerkZuckerfabrikAnklam[3],17,?,Erdgas,Anklam,Mecklenburg-VorpommernMecklenburg-Vorpommern,1993,,15MW(Netto)Eigenstrom-undDampfversorgungderörtlichenZuckerfabrik,SuikerUnieGmbH&Co.KG,
-292,IndustriekraftwerkZwickau[3],ca.15,?,Erdgas,Zwickau,SachsenSachsen,2014,,13MW(Netto)Eigenstrom-undDampfversorgungdesörtlichenVW-Werks,VolkswagenSachsenGmbH,
+0,"Gasturbinenkraftwerk Ahrensfelde[3]
+","152
+","0
+","Erdgas
+","Ahrensfelde
+","Brandenburg Brandenburg
+","GT A: 1990
+GT B: 1990
+GT C: 1990
+GT D: 1990
+
+","0!
+GT A: 2016 Kaltreserve
+GT B: 2016 Kaltreserve
+GT C: 2016 Kaltreserve
+GT D: 2016 Kaltreserve
+
+
+","GT A: 38 MW (Netto)
+GT B: 38 MW (Netto)
+GT C: 38 MW (Netto)
+GT D: 38 MW (Netto)
+soll als Kapazitätsreserve genutzt werden[4]
+
+","LEAG
+","!552.5896115513.558611552° 35′ 22,6″ N, 013° 33′ 31,0″ O52.58961111111113.558611111111
+"
+1,"Heizkraftwerk Altbach/Deizisau[5]
+","1350 (davon 855 Steinkohle, 305 Erdgas und 190 Erdgas/Öl)
+","280
+","Steinkohle: HKW 1, HKW 2
+Öl: GT A, GT B, GT C, Block 4Erdgas: GT A, GT B, GT C, GT E, Block 4
+
+","Altbach
+Deizisau
+
+","Baden-Württemberg Baden-Württemberg
+","Block 1: 1950
+Block 2: 1982
+Block 3: 1960
+Block 4: 1972 mit
+GT A: 1972
+HKW 1: 1985/2006
+HKW 2: 1997/2012 mit
+GT E: 1997
+GT B: 1974
+GT C: 1976
+
+","Block 1: 1982
+Block 2: 1993
+Block 3: 1993
+Block 4: 2000? (Kaltreserve)2019!
+HKW 1: 2017 (Netzreserve)
+(HKW 2 mit GT E, GT A, GT B und GT C: untersagt bis 1 Jahr nach Beginn der Engpassbewirtschaftung Deutschland/Österreich (1. Oktober 2018)[6], längstens bis 31. März 2020[1])
+
+","Block 1: ? MW (Netto)
+Block 2: ? MW (Netto)
+Block 3: ? MW (Netto)
+Block 4: ca. 175 MW (Netto) mit 
+GT A: 50 MW (Netto)
+HKW 1: 433 MW (Netto)
+HKW 2: 336 MW (Netto) mit 
+GT E: 65 MW (Netto)
+GT B: 57 MW (Netto)
+GT C: 81 MW (Netto)
+
+","EnBW Energie Baden-Württemberg AG
+","!548.7170615509.367475548° 43′ 01,4″ N, 009° 22′ 02,9″ O48.7170611111119.367475
+"
+2,"Industriekraftwerk Amsdorf[7]
+(Grubenheizkraftwerk)
+
+","55
+","189
+","Braunkohle
+","Amsdorf
+","Sachsen-Anhalt Sachsen-Anhalt
+","1979
+","
+","45 MW (Netto)
+Eigenstrom- und Dampfversorgung der örtlichen Montanwachsfabrik und des angeschlossenen Tagebaus Amsdorf
+
+","ROMONTA GmbH
+","
+"
+3,"Industriekraftwerk Annweiler[3]
+","ca. 30
+","?
+","Erdgas
+","Annweiler
+","Rheinland-Pfalz Rheinland-Pfalz
+","1976
+","
+","28 MW (Netto)
+Eigenstrom- und Dampfversorgung der örtlichen Kartonfabrik
+
+","Kartonfabrik Buchmann
+","
+"
+4,"Industriekraftwerk Aschaffenburg[3]
+","ca. 50
+","?
+","Erdgas: HKW, GuD
+Heizöl: Notstromdiesel
+Biomasse: BHKW 1 und BHKW 2
+
+","Aschaffenburg
+","Bayern Bayern
+","HKW: ?
+Notstromdiesel: 1991
+BHKW 1: 2005
+BHKW 2: 2010
+GuD: 2013
+
+","HKW: 2012
+
+
+
+","HKW: 27 MW (Netto)
+Notstromdiesel: 1 MW (Netto)
+BHKW 1: 1 MW (Netto)
+BHKW 2: 1 MW (Netto)
+GuD: 47 MW (Netto)
+Eigenstrom- und Dampfversorgung der örtlichen Papierfabrik
+
+","DS Smith Paper Deutschland GmbH
+","
+"
+5,"Kraftwerk Audorf[8]
+","87
+","0
+","Mineralölprodukte
+","Osterrönfeld
+","Schleswig-Holstein Schleswig-Holstein
+","1973
+","
+","87 MW (Netto)
+","Uniper Kraftwerke GmbH
+","
+"
+6,"Gasturbinen-Heizkraftwerk Augsburg-Ost[9]
+","ca. 31
+","41 (320 MWh Wärmespeicher)
+","Erdgas
+","Augsburg
+","Bayern Bayern
+","2004
+","
+","31 MW (Netto)
+","Stadtwerke Augsburg Energie GmbH
+","
+"
+7,"Heizkraftwerk Augsburg[3]
+","ca. 20
+","?
+","Erdgas, Heizöl
+","Augsburg
+","Bayern Bayern
+","1976
+","
+","20 MW (Netto)
+","Stadtwerke Augsburg Energie GmbH
+","
+"
+8,"Industriekraftwerk Augsburg[3]
+","ca. 30
+","?
+","Erdgas
+","Augsburg
+","Bayern Bayern
+","1976
+","2015? (Kaltreserve)
+","29 MW (Netto)
+Eigenstrom- und Dampfversorgung der örtlichen Papierfabrik
+
+","UPM GmbH Werk Augsburg
+","
+"
+9,"Industriekraftwerk Bad Kreuznach[3]
+","ca. 12
+","?
+","Erdgas
+","Bad Kreuznach
+","Rheinland-Pfalz Rheinland-Pfalz
+","2006
+","
+","11 MW (Netto)
+Eigenstrom- und Dampfversorgung der örtlichen Reifenfabrik
+
+","Michelin Reifenwerke AG & Co. KGaA
+","
+"
+10,"Heizkraftwerk Bad Salzungen[10][11]
+","21
+","67 (davon 20 aus KWK; ca. 300 MWh Wärmespeicher)
+","Erdgas
+","Bad Salzungen
+","Thüringen Thüringen
+","HKW: 1994
+GM: 2018 
+
+","
+","HKW: 10 MW (Netto)
+GM: 10 MW (Netto)
+
+","TEAG Thüringer Energie AG
+","
+"
+11,"Kraftwärme-Kopplungsanlage Barby[3]
+","ca. 20
+","?
+","Erdgas
+","Barby
+","Sachsen-Anhalt Sachsen-Anhalt
+","1994
+","
+","18 MW (Netto)
+Eigenstrom- und Dampfversorgung der örtlichen Stärke- und Alkoholfabrik
+
+","Cargill Deutschland GmbH
+","
+"
+12,"GuD Baunatal[12]
+","ca. 80
+","312
+","Erdgas
+","Baunatal
+","Hessen Hessen
+","GuD: 2011
+HKW Kassel: 1961
+
+","HKW Kassel: 2013
+","GuD: 78 MW (Netto)
+HKW Kassel: 12 MW (Netto)
+Eigenstrom- und Dampfversorgung der örtlichen Automobilfabrik
+
+","Volkswagen AG
+","
+"
+13,"Heizkraftwerk Bautzen[13]
+","7
+","33 (davon 8 aus KWK; 130 MWh Wärmespeicher)
+","Erdgas
+","Bautzen
+","Sachsen Sachsen
+","2017
+","
+","6 MW (Netto)
+","Energie- und Wasserwerke Bautzen GmbH
+","
+"
+14,"Kraftwerk Bergkamen[14][15]
+","780
+","20
+","Steinkohle
+","Bergkamen
+","Nordrhein-Westfalen Nordrhein-Westfalen
+","Block A: 1981
+","0!Block A: ?
+","Block A: 717 MW (Netto)
+","Steag GmbH
+","!551.6367115507.620569551° 38′ 12,2″ N, 007° 37′ 14,0″ O51.6367111111117.6205694444444
+"
+15,"Heizkraftwerk Berlin-Adlershof[16]
+","13
+","96
+","Erdgas
+","Berlin-Adlershof
+","Berlin Berlin
+","1966/92/2015
+","0!
+","13 MW (Netto)
+","Blockheizkraftwerks- Träger und Betriebsgesellschaft mbH Berlin
+","
+"
+16,"Heizkraftwerk Berlin-Buch[17]
+","13
+","137
+","Öl (Heizöl)Erdgas
+","Berlin-Buch
+","Berlin Berlin
+","Altanlage: 1974
+Neuanlage: 2014
+
+","Altanlage: 2014
+
+
+","13 MW (Netto)
+","Vattenfall Europe Wärme AG
+","!552.6350005513.510325552° 38′ 06,0″ N, 013° 30′ 37,2″ O52.63513.510325
+"
+17,"Heizkraftwerk Berlin-Charlottenburg[18]
+","144
+","295
+","Öl (Heizöl)
+Erdgas
+
+","Berlin-Charlottenburg
+","Berlin Berlin
+","GT 4: 1976!1976/2000GT 5: 1976!1976/2000
+GT 6: 1976!1976/2000
+
+","GT 4: ?
+GT 5: ?
+GT 6: 2018
+
+","GT 4: 72 MW (Netto)
+GT 5: 72 MW (Netto)
+GT 6: 67 MW (Netto)
+
+","Vattenfall Europe Wärme AG
+","!552.5221565513.308661552° 31′ 19,8″ N, 013° 18′ 31,2″ O52.52215555555613.308661111111
+"
+18,"Heizkraftwerk B11[19]
+","2
+","2
+","Erdgas
+","Berlin-Marienfelde
+","Berlin Berlin
+","?/2017
+","
+","2 MW (Netto)
+","Daimler AG Mercedes Benz Werk Berlin
+","
+"
+19,"Heizkraftwerk Berlin-Klingenberg[20]
+","188
+","1010 (davon 760 aus KWK)
+","Erdgas
+","Berlin-Rummelsburg
+","Berlin Berlin
+","1982
+2017 Umrüstung von Braunkohle auf Erdgas
+
+","2025!
+(2025: Umrüstung von Erdgas auf Power to Heat geplant)
+
+","164 MW (Netto)
+","Vattenfall Europe Wärme AG
+","!552.4900255513.495942552° 29′ 24,1″ N, 013° 29′ 45,4″ O52.49002513.495941666667
+"
+20,"Blockheizkraftwerk Berlin-Köpenick[21]
+","10
+","50
+","Öl
+Erdgas
+
+","Berlin-Köpenick
+","Berlin Berlin
+","1994
+","0!
+","
+","Vattenfall Europe Wärme AG
+","!552.4352785513.581667552° 26′ 07,0″ N, 013° 34′ 54,0″ O52.43527777777813.581666666667
+"
+21,"Heizkraftwerk Berlin-Lichterfelde[22]
+","ca. 480
+","613
+","Erdgas
+","Berlin-Lichterfelde
+","Berlin Berlin
+","Block 1: 1972/98
+Block 2: 1973/98
+Block 3: 1974/98
+GuD A: 2019
+
+","2019!(Block 1: 2019/20)
+Block 2: 2016
+Block 3: 2018
+GuD A: ?
+
+","Block 1: 144 MW (Netto)
+Block 2: 144 MW (Netto)
+Block 3: 144 MW (Netto)
+GuD A: 300 MW (Netto)
+
+","Vattenfall Europe Wärme AG
+","!552.4256255513.310267552° 25′ 32,3″ N, 013° 18′ 37,0″ O52.42562513.310266666667
+"
+22,"Heizkraftwerk Berlin-Marzahn[23]
+","260!(260) im Bau
+","230!(230) im Bau + ?
+","Erdgas
+","Berlin-Marzahn
+","Berlin Berlin
+","(GuD: 2019/20)
+","0!
+","GuD: 254 MW (Netto)
+","Vattenfall Europe Wärme AG
+","!552.5234035513.522211552° 31′ 24,3″ N, 013° 31′ 20,0″ O52.52340277777813.522211111111
+"
+23,"Heizkraftwerk Berlin-Mitte[24]
+","468
+","1210 (davon 680 aus KWK)
+","Erdgas
+","Berlin-Mitte
+","Berlin Berlin
+","1997
+","0!
+","444 MW (Netto)
+GuD-Kraftwerk mit zwei GT und einer DT
+
+","Vattenfall Europe Wärme AG
+","!552.5115925513.420992552° 30′ 41,7″ N, 013° 25′ 15,6″ O52.51159166666713.420991666667
+"
+24,"Heizkraftwerk Berlin-Moabit[25]
+","140 (davon ca. 105 Steinkohle und ca. 35 Mineralölprodukte)
+","240
+","SteinkohleBiomasse
+Mineralölprodukte
+
+","Berlin-Moabit
+","Berlin Berlin
+","Block A: 1969/1990
+GT 7: 1971
+
+","2030!
+(Block A: spätestens 2030 Steinkohle-Verfeuerung[26])
+GT 7: ?
+
+","Block A: 89 MW (Netto)
+GT 7: 34 MW (Netto)
+
+","Vattenfall Europe Wärme AG
+","!552.5375005513.345833552° 32′ 15,0″ N, 013° 20′ 45,0″ O52.537513.345833333333
+"
+25,"Fernheizwerk Berlin-Neukölln[27]
+","ca. 10
+","ca. 60 (incl. 10 PtH;
+ca. 300 MWh Wärmespeicher)
+
+","Erdgas/Heizöl
+","Berlin-Neukölln
+","Berlin Berlin
+","2001/11/13/14
+","
+","ca. 10 MW (Netto) verteilt auf mehrere BHKWs
+","Fernheizwerk Neukölln AG (Hauptaktionär: Vattenfall Eurpe Wärme AG)
+","
+"
+26,"Heizkraftwerk Berlin-Neukölln[16]
+","20
+","98
+","Erdgas
+EBS (Altholz)
+
+","Berlin-Neukölln
+","Berlin Berlin
+","2006
+","0!
+","20 MW (Netto)
+","Blockheizkraftwerks- Träger und Betriebsgesellschaft mbH Berlin
+","
+"
+27,"Heizkraftwerk Berlin-Schöneweide[16]
+","10
+","36
+","Steinkohle
+","Berlin-Schöneweide
+","Berlin Berlin
+","Altanlage: 1963
+Neuanlage: 1992/2004
+
+","0!
+","10 MW (Netto)
+","Blockheizkraftwerks- Träger und Betriebsgesellschaft mbH Berlin
+","
+"
+28,"Heizkraftwerk Berlin-Reuter West[28]
+","600
+","758
+(zuzüglich 120 (PtH und Erdgas) vom benachbarten ehemaligen Kraftwerk Reuter[29]; Wärmespeicher geplant[30])
+
+","Steinkohle
+","Berlin-Siemensstadt
+","Berlin Berlin
+","Block D: 1987
+Block E: 1988
+
+","2030!
+(Block D und E: spätestens 2030 Steinkohle-Verfeuerung[26])
+
+","Block D: 282 MW (Netto)
+Block E: 282 MW (Netto)
+
+","Vattenfall Europe Wärme AG
+","!552.5345695513.244533552° 32′ 04,4″ N, 013° 14′ 40,3″ O52.53456944444413.244533333333
+"
+29,"Heizkraftwerk Berlin-Scharnhorststraße[31]
+","12
+","200
+","Erdgas
+","Berlin-Mitte
+","Berlin Berlin
+","2018
+","0!
+","12 MW (Netto)
+","Vattenfall Europe Wärme AG
+","
+"
+30,"Energieversorgung Berlin-Wedding[3]
+","ca. 16
+","?
+","Erdgas
+","Berlin-Wedding
+","Berlin Berlin
+","1972
+","
+","15 MW (Netto)
+","Bayer AG
+","
+"
+31,"Heizkraftwerk Berlin-Wilmersdorf[32]
+","184
+","285
+","Öl (Heizöl)
+","Berlin-Wilmersdorf
+","Berlin Berlin
+","GT 1: 1977
+GT 2: 1977
+GT 3: 1977
+
+","2019!GT 1: ?
+GT 2: ?
+GT 3: 2019
+
+","GT 1: 92 MW (Netto)
+GT 2: 92 MW (Netto)
+GT 3: 92 MW (Netto)
+
+","Vattenfall Europe Wärme AG
+","!552.4816365513.307867552° 28′ 53,9″ N, 013° 18′ 28,3″ O52.48163611111113.307866666667
+"
+32,"Kraftwerk Bernburg[3]
+","155
+","232
+","Erdgas
+","Bernburg
+","Sachsen-Anhalt Sachsen-Anhalt
+","1994
+","0!
+","141 MW (Netto)
+Eigenstrom- und Dampfversorgung des örtlichen Chemieparks
+Kraftwerk wird 2020  modernisiert[33]
+
+","Solvay Chemicals GmbH
+","
+"
+33,"Industriekraftwerk Ville/Berrenrath[34]
+","107
+","40
+","BraunkohleBiomasse
+Klärschlamm
+
+","Hürth-Knapsack / Berrenrath
+","Nordrhein-Westfalen Nordrhein-Westfalen
+","1917/91
+","0!
+","98 MW (Netto)
+Eingestromversorgung und Dampfversorgung des Kohleveredlungsbetriebes Ville/Berrenrath
+
+","RWE Power AG
+","!550.8653335506.824111550° 51′ 55,2″ N, 006° 49′ 26,8″ O50.8653333333336.8241111111111
+"
+34,"Kraftwerk Bexbach[35]
+","780
+","0
+","Steinkohle
+","Bexbach
+","Saarland Saarland
+","1983
+","2020!
+(untersagt bis 30.04.2020[1])
+
+","726 MW (Netto)
+","Steag GmbH
+","!549.3634755507.237050549° 21′ 48,5″ N, 007° 14′ 13,4″ O49.3634757.23705
+"
+35,"Kraftwerk Chemiepark Bitterfeld[36]
+","108
+","110
+","Erdgas
+","Bitterfeld
+","Sachsen-Anhalt Sachsen-Anhalt
+","1976/2000
+","0!
+","106 MW (Netto)
+Eigenstrom- und Dampfversorgung des örtlichen Chemieparks;
+Turbine wird 2020 modernisiert[36]
+
+","envia THERM GmbH
+","
+"
+36,"Heizkraftwerk Bohrhügel[3]
+","ca. 15
+","?
+","Erdgas
+Heizöl
+
+","Suhl
+","Thüringen Thüringen
+","1995
+","
+","14 MW (Netto)
+","Stadtwerke Suhl/Zella-Mehlis
+","
+"
+37,"Heizkraftwerk Bomlitz[3]
+","ca. 15
+","?
+","Erdgas
+","Bomlitz
+","Niedersachsen Niedersachsen
+","GuD: 1969
+BHKW: 2019
+
+","GuD: 2019[37]
+BHKW: ?
+
+","GuD: 16 MW (Netto)
+BHKW: 13 MW (Netto)
+Eigenstrom- und Dampfversorgung des Industrieparks Walsrode
+
+","EnBW Energie Baden-Württemberg AG
+","
+"
+38,"Kraftwerk Boxberg[38]
+","2582
+","125
+","Braunkohle
+","Boxberg
+","Sachsen Sachsen
+","Block N: 1979/1993
+Block P: 1980/1994
+Block Q: 2000
+Block R: 2012
+
+","0!
+Block N: 2029 spätestens[39]
+Block P: 2029 spätestens[39]
+Block Q: 2038 spätestens
+Block R: 2038 spätestens
+
+","Block N: 465 MW (Netto)
+Block P: 465 MW (Netto)
+Block Q: 857 MW (Netto)
+Block R: 640 MW (Netto)
+
+","LEAG
+","!551.4149865514.561600551° 24′ 54,0″ N, 014° 33′ 41,8″ O51.41498611111114.5616
+"
+39,"Heizkraftwerk Brandenburg an der Havel[40]
+","ca. 40
+","130 (davon 50 aus KWK; 64 MWh Wärmespeicher)
+","Erdgas
+","Brandenburg an der Havel
+","Brandenburg Brandenburg
+","1997
+","
+","37 MW (Netto)
+","Stadtwerke Brandenburg an der Havel GmbH & Co. KG
+","
+"
+40,"Blockheizkraftwerk ""Braunschweig""[3]
+","ca. 11
+","?
+","Erdgas
+","Wolfsburg
+","Niedersachsen Niedersachsen
+","2014
+","
+","10 MW (Netto)
+","Volkswagen Kraftwerk GmbH
+","
+"
+41,"Heizkraftwerk Braunschweig-Mitte[41]
+","155 (davon ca. 55 Steinkohle und ca. 100 Erdgas)
+","386 (500 MWh Wärmespeicher)
+","Steinkohle: Block 1
+Schweröl: Block 1, Block 12Heizöl: GuDErdgas: Block 1, Block 12, GuD
+
+","Braunschweig
+","Niedersachsen Niedersachsen
+","Block 12: 1971
+Block 1: 1984
+GuD: 2010
+
+","2022!
+(Block 1: 2022 spätestens[42])
+
+","Block 12: 20 MW (Netto)
+Block 1: 43 MW (Netto)
+GuD: 74 MW (Netto)
+(Block 1 soll durch ein Gasturbinen-HKW mit ca. 20 MWel und ca. 60 MWth sowie durch ein Biomasse-HKW mit ca. 20 MWel und ca. 70 MWth ersetzt werden.[42])
+
+","Braunschweiger Versorgungs-AG & Co. KG
+","!552.2787695510.514989552° 16′ 43,6″ N, 010° 30′ 54,0″ O52.27876944444410.514988888889
+"
+42,"Heizkraftwerk Braunschweig-Nord[41]
+","27
+","80
+","Erdgas
+","Braunschweig
+","Niedersachsen Niedersachsen
+","GT: 1965
+","
+","GT: 25 MW (Netto)
+","Braunschweiger Versorgungs-AG & Co. KG
+","
+"
+43,"KWK-Anlage Bremen[3]
+","ca. 16
+","?
+","Erdgas
+","Bremen Industriehäfen
+","Bremen Bremen
+","1993/2002
+","
+","15 MW (Netto)
+Eigenstrom- und Dampfversorgung für Kaffeeverarbeitung
+
+","CR3-Kaffeeveredelung M. Hermsen GmbH
+","
+"
+44,"Kraftwerk Bremen-Farge[43]
+","397
+","26
+","Steinkohle
+Klärschlamm
+
+","Bremen-Farge
+","Bremen Bremen
+","Altwerk: 1924/26
+Block 1: 1969/2007
+
+","2024!Altwerk: 1980
+(Block 1: 2024[44])
+
+","Altwerk: ca. 12 MW (Netto)
+Block 1: 350 MW (Netto)
+
+","Onyx Power Assets GmbH
+","!553.2021255508.516100553° 12′ 07,7″ N, 008° 30′ 58,0″ O53.2021258.5161
+"
+45,"Kraftwerk Bremen-Hafen[45]
+","337
+","39
+","Steinkohle
+","Bremen Industriehäfen
+","Bremen Bremen
+","Block 1: 1957Block 2: 1957Block 3: 1962Block 4: 1964Block 5: 1968Block 6: 1979/2013
+","2026!Block 1: stillgelegtBlock 2: stillgelegtBlock 3: stillgelegtBlock 4: stillgelegtBlock 5: 2016Block 6: 2020
+","Block 1: ?Block 2: ?Block 3: ?Block 4: ?Block 5: 127 MW (Netto)Block 6: 303 MW (Netto)
+Nutzt auch Dampf vom benachbarten Mittelkalorik-Kraftwerk Bremen
+
+","swb Erzeugung AG & Co. KG
+","!553.1248725508.728642553° 07′ 29,5″ N, 008° 43′ 43,1″ O53.1248722222228.7286416666667
+"
+46,"Kraftwerk Bremen-Hastedt[45]
+","130
+","150 (230 MWh Wärmespeicher)
+","Erdgas: Block 14
+Steinkohle: Block 15
+
+","Bremen-Hastedt
+","Bremen Bremen
+","Block 14: 1972
+Block 15: 1989
+
+","0!Block 14: 2016
+Block 15: ?
+
+","Block 14: 155 MW (Netto)Block 15: 119 MW (Netto)
+","swb Erzeugung AG & Co. KG
+","!553.0597785508.873167553° 03′ 35,2″ N, 008° 52′ 23,4″ O53.0597777777788.8731666666667
+"
+47,"Kraftwerk Bremen-Mittelsbüren[45]
+","248
+","0
+","Schweröl: Blöcke 1, 2, 4 bis 2002
+Heizöl: GT 3Erdgas: Blöcke 3, 4
+Gichtgas, Konvertergas: Blöcke 1, 2, 3, sowie 4 ab 2002
+
+","Bremen-Werderland
+","Bremen Bremen
+","Block 1: 1964Block 2: 1965
+Block 3: 1975
+GT 3: 1975
+Block 4: 1975/2002
+
+","0!Block 1: 2002
+Block 2: 2004
+Block 3: 2013
+GT 3: ?
+Block 4: ?
+
+","Block 1: ca. 50 MW (Netto)Block 2: ca. 50 MW (Netto)
+Block 3: 110 MW (Netto)
+GT 3: 86 MW (Netto)
+Block 4: 150 MW (Netto)
+
+","swb Erzeugung AG & Co. KG
+","!553.1289815508.683394553° 07′ 44,3″ N, 008° 41′ 00,2″ O53.1289805555568.6833944444444
+"
+48,"Gemeinschaftskraftwerk Bremen (GKB)[46]
+","460
+","0
+","Erdgas
+","Bremen-Werderland
+","Bremen Bremen
+","GuD: 2016
+","0!
+","GuD: 445 MW (Netto)
+(davon 165 MW Bahnstrom)
+
+","swb Erzeugung AG & Co. KG
+","!553.1293815508.681978553° 07′ 45,8″ N, 008° 40′ 55,1″ O53.1293805555568.6819777777778
+"
+49,"Industriekraftwerk Bremerhaven[3]
+","ca. 20
+","?
+","Erdgas
+","Bremerhaven
+","Bremen Bremen
+","2014
+","
+","17 MW (Netto)
+Eigenstrom- und Dampfversorgung für Titandioxid-Produktion
+
+","Kronos Titan GmbH
+","
+"
+50,"Industriekraftwerk Breuberg[47]
+","12
+","20
+","Erdgas
+","Breuberg
+","Hessen Hessen
+","1999
+","
+","11 MW (Netto)
+Eigenstrom- und Dampfversorgung des örtlichen Pirelli-Werkes
+
+","Industriekraftwerk Breuberg GmbH
+","
+"
+51,"Kraftwerk Burghausen[3]
+","178
+","350
+","Erdgas, Heizöl
+","Burghausen
+","Bayern Bayern
+","GT: 2001
+DT: 1979
+
+","0!
+","GT: 120 MW (Netto)
+DT: 50 MW (Netto)
+Eigenstrom- und Dampfversorgung des örtlichen Chemieparks
+
+","Wacker Chemie AG
+","48° 11'  14.719"" N, 012° 50' 6.958"" O
+"
+52,"Kraftwerk Buschhaus[48]
+","405
+","0
+","Braunkohle
+","Schöningen
+","Niedersachsen Niedersachsen
+","Block D: 1985
+","2020!
+(Block D: 01.10.2020[49]; seit dem 01.10.2016 in der Sicherheitsbereitschaft)
+
+","Block D: 352 MW (Netto)
+","Helmstedter Revier GmbH(Mitteldeutsche Braunkohlengesellschaft mbH)
+","!552.1717645510.977192552° 10′ 18,4″ N, 010° 58′ 37,9″ O52.17176388888910.977191666667
+"
+53,"Industriekraftwerk Marl[3]
+","ca. 550
+","1213
+","Steinkohle: KW I, KW II
+Erdgas: KW III, KW IV
+Rückstände der Chemieproduktion: KW I, KW II
+
+","Marl
+","Nordrhein-Westfalen Nordrhein-Westfalen
+","KW I Dampfwirt-schaft: 1939
+KW I Block 4: 1971
+KW I Block 5: 1983
+KW II Block 3: 1966
+KW III Block 311: 1973/2003/2005
+KW III Block 312: 1974/2003/2005
+Kraftwerk IV: 2016
+(Block ?: 2022)
+(Block ?: 2022)
+
+","0!
+(KW I Block 4: 2022[50])
+(KW I Block 5: 2022[50])
+KW II Block 3: 2017
+
+
+
+
+","KW I Dampfwirtschaft: 169 MW (Netto)
+KW I Block 4: 56 MW (Netto)
+KW I Block 5: 68 MW (Netto)
+KW II Block 3: 60 MW (Netto)
+Kraftwerk III Block 311: 61 MW (Netto)
+Kraftwerk III Block 312: 78 MW (Netto)
+Kraftwerk IV (GuD): 61 MW (Netto)
+(GuD mit zwei Blöcken zu je 90 MWel geplant[50])
+Eigenstrom- und Dampfversorgung des Chemieparks Marl
+
+","Evonik Degussa GmbH
+","!551.6927785507.109167551° 41′ 34,0″ N, 007° 06′ 33,0″ O51.6927777777787.1091666666667
+"
+54,"Heizkraftwerk Chemnitz-Nord[51]
+","167
+","390 (davon 305 aus KWK; ca. 700 MWh Wärmespeicher)
+","Braunkohle: Block B, Block C
+Heizöl / Erdgas: Block A
+
+","Chemnitz
+","Sachsen Sachsen
+","Block A: 1986
+Block B: 1988
+Block C: 1990/2010
+
+","2028!
+Block A: 2016 nach Havarie
+(Block B: 2022/29[52])
+(Block C: 2022/29)
+
+","Derzeit höchster Schornstein Deutschlands
+Block A: 57 MW (Netto)
+Block B: 57 MW (Netto)
+Block C: 91 MW (Netto)
+(Gasmotorenkraftwerk mit 80 MWel und 80 MWth in Planung, weiterhin wird ein Gasmotorenkraftwerk mit 50 MWel und 50 MWth am Standort Altchemnitz geplant, Inbetriebnahme für 2022 vorgesehen[53])
+
+","Stadtwerke Chemnitz
+","!550.8577815512.923831550° 51′ 28,0″ N, 012° 55′ 25,8″ O50.85778055555612.923830555556
+"
+55,"Kraftwerk Clauen[3]
+","ca. 20
+","?
+","Erdgas, Biogas
+","Hohenhameln
+","Niedersachsen Niedersachsen
+","2003
+","
+","16 MW (Netto)
+Eigenstrom- und Dampfversorgung der örtlichen Zuckerfabrik
+
+","Nordzucker AG, Werk Clauen
+","
+"
+56,"Heizkraftwerk Cottbus[54]
+","80
+","120 (davon 90 aus KWK; 300 MWh Wärmespeicher im Bau)
+","Braunkohle
+","Cottbus
+","Brandenburg Brandenburg
+","1999
+","2022!(2022)
+","74 MW (Netto)
+weltweit erstes Braunkohlekraftwerk mit Druckwirbelschichtverbrennung
+(Umstellung auf Erdgas im Bau, dazu Erweiterung um ein Gasmotorenkraftwerk mit 50 MWel und 50 MWth[55])
+
+","HKW Heizkraftwerksgesellschaft Cottbus mbH
+","!551.7609125514.370271551° 45′ 39,3″ N, 014° 22′ 13,0″ O51.76091214.370271
+"
+57,"GTKW Darmstadt[56]
+","95
+","0
+","Erdgas
+","Darmstadt
+","Hessen Hessen
+","2012
+","0!2012 (Netzreserve)
+","95 MW (Netto)
+zwei GT
+
+","Entega AG
+","49° 53' 8.502""  N, 008° 38' 57.383"" O
+"
+58,"Heizkraftwerk Darmstadt[3]
+","11
+","?
+","Erdgas
+","Darmstadt
+","Hessen Hessen
+","1999
+","
+","10 MW (Netto)
+","Merck KGaA
+","
+"
+59,"Kraftwerk Datteln[57]
+","1100!(1100) im Bau
+","380!(380) im Bau
+","Steinkohle
+","Datteln
+","Nordrhein-Westfalen Nordrhein-Westfalen
+","Block 1: 1964Block 2: 1965Block 3: 1969
+Block 4: 2020?[58]
+
+","0!Block 1: 2014Block 2: 2014Block 3: 2014(Block 4: 2038 spätestens)
+","Block 1: 95 MW (Netto)
+Block 2: 95 MW (Netto)
+Block 3: 113 MW (Netto)
+(Block 4: 1052 MW (Netto),
+davon 413 MW Bahnstrom,seit 2007 im Bau, Bau zwischenzeitlich gerichtlich unterbrochen, Block läuft mittlerweile in Teillast)
+
+","Uniper Kraftwerke GmbH
+","!551.6300445507.331314551° 37′ 48,2″ N, 007° 19′ 52,7″ O51.6300444444447.3313138888889
+"
+60,"Kraftwerk Dessau[59]
+","51
+","ca. 200
+(600 MWh Wärmespeicher)
+
+","Erdgas
+","Dessau-Roßlau
+","Sachsen-Anhalt Sachsen-Anhalt
+","Braunkohleblock: 1996
+Erdgasblock: 1996
+GT: 2019
+
+","Braunkohleblock: 2019
+
+
+
+","Braunkohleblock: 12 MW (Netto)
+Erdgasblock: 37 MW (Netto)
+GT: ca. 12 MW (Netto)
+
+","Dessauer Versorgungs- und Verkehrsgesellschaft mbH - DVV - Stadtwerke
+","
+"
+61,"Industriekraftwerk Deuben[60]
+","86
+","100
+","Braunkohle
+","Deuben
+","Sachsen-Anhalt Sachsen-Anhalt
+","1936/1993
+","0!
+","67 MW (Netto)
+KWK-Anlage im Verbund mit einer Staub- und Brikettfabrik
+
+","Mitteldeutsche Braunkohlengesellschaft mbH
+","51° 6' 42.271""  N, 012° 4' 35.702"" O
+"
+62,"Gichtgaskraftwerk Dillingen[61]
+","90
+","ca. 25
+(1000 MWh Wärmespeicher)
+
+","Gichtgas
+","Dillingen
+","Saarland Saarland
+","2010
+","
+","85 MW (Netto)
+Eigenstrom- und Dampfversorgung für das örtliche Stahlwerk; Wärme-auskopplung zur Fernwärme-versorgung der Stadt
+
+","Aktien-Gesellschaft der Dillinger Hüttenwerke, ROGESA Roheisengesellschaft Saar mbH und Zentralkokerei Saar GmbH
+","
+"
+63,"Kraft-Wärme-Kopplungsanlage Dingolfing[3]
+","ca. 20
+","?
+","Erdgas
+","Dingolfing
+","Bayern Bayern
+","GT 1: 1997
+GT 2: 1997
+BA 1: 2017
+
+","GT 1: 2017
+GT 2: 2017
+
+
+","GT 1: 7 MW (Netto)
+GT 2: 7 MW (Netto)
+BA 1: 16 MW (Netto)
+Eigenstrom- und Dampfversorgung der örtlichen PKW-Fabrik
+
+","BMW AG
+","
+"
+64,"Kraftwerk Dormagen[62]
+","597
+","480
+","Erdgas, Heizöl
+","Dormagen
+","Nordrhein-Westfalen Nordrhein-Westfalen
+","GuD: 2000
+","0!
+","GuD: 586 MW (Netto)
+Eigenstrom- und Dampfversorgung für den Chempark Dormagen
+
+","RWE Generation SE
+","!551.0666675506.833333551° 04′ 00,0″ N, 006° 50′ 00,0″ O51.0666666666676.8333333333333
+"
+65,"Heizkraftwerk Dortmund[63]
+","27
+","170
+","Erdgas
+","Dortmund
+","Nordrhein-Westfalen Nordrhein-Westfalen
+","2004/14
+","0!2022
+","26 MW (Netto)
+","RWE Generation SE
+","!551.5701065507.528050551° 34′ 12,4″ N, 007° 31′ 41,0″ O51.5701055555567.52805
+"
+66,"Industriekraftwerk Dotternhausen[3]
+","ca. 12
+","0
+","Ölschiefer
+","Dotternhausen
+","Baden-Württemberg Baden-Württemberg
+","2007
+","
+","10 MW (Netto)
+Eigenstromversorgung für das örtliche Zementwerk, Verbrennungsrückstand wird als Ausgangsstoff für Zement verwendet
+
+","Holcim (Süddeutschland) GmbH
+","
+"
+67,"Heizkraftwerk Dresden Nord[64]
+","12
+","70
+","Erdgas
+Heizöl
+
+","Dresden
+","Sachsen Sachsen
+","1918/93/95/2018
+","
+","10 MW (Netto)
+","Stadtwerke Dresden GmbH
+","
+"
+68,"Heizkraftwerk Dresden Nossener Brücke[64]
+","270
+","480
+","Erdgas
+Heizöl
+
+","Dresden
+","Sachsen Sachsen
+","1995
+","0!
+","260 MW (Netto)
+GuD-Kraftwerk
+
+","Stadtwerke Dresden GmbH
+","!551.0417975513.708222551° 02′ 30,5″ N, 013° 42′ 29,6″ O51.04179722222213.708222222222
+"
+69,"Heizkraftwerk Dresden-Reick[64]
+","2
+","266
+(460 MWh Wärmespeicher)
+
+","Erdgas
+
+Heizöl
+
+","Dresden
+","Sachsen Sachsen
+","1976/92/96/2005
+","0!
+","2 MW (Netto)
+Bau eines Gasmotorenkraftwerkes mit 90 MWel und 80 MWth geplant[65]
+
+","Stadtwerke Dresden GmbH
+","
+"
+70,"GuD-Anlage Drewsen[66]
+","17
+","?
+","Erdgas
+","Lachendorf
+","Niedersachsen Niedersachsen
+","2000
+","
+","13 MW (Netto)
+Eigenstrom- und Dampfversorgung der örtlichen Papierfabrik
+
+","Drewsen Spezialpapiere GmbH & Co. KG
+","
+"
+71,"Heizkraftwerk Duisburg-Hamborn[67]
+","412
+","150
+","Kuppelgase aus der Stahlerzeugung
+","Duisburg-Hamborn
+","Nordrhein-Westfalen Nordrhein-Westfalen
+","Block 1: 1952
+Block 2: 1952
+Block 3: 1958
+Block 4: 1976
+Block 5: 2003
+
+","Block 1: 2003?
+Block 2: 2003?0!
+
+
+
+","Block 1: ca. 27 MW (Netto)
+Block 2: ca. 27 MW (Netto)
+Block 3: 59 MW (Netto)
+Block 4: 101 MW (Netto)
+Block 5: 225 MW (Netto)
+Eigenstrom- und Dampfversorgung für das ThyssenKrupp-Stahlwerk Schwelgern
+
+","ThyssenKrupp Steel Europe AG
+","
+"
+72,"Heizkraftwerk Sachtleben[3] (Heizkraftwerk Duisburg-Homberg)
+","ca. 30
+","?
+","Braunkohle
+","Duisburg-Homberg
+","Nordrhein-Westfalen Nordrhein-Westfalen
+","1964
+","0!
+","28 MW (Netto)
+Eigenstrom- und Dampfversorgung der örtlichen Pigmentfabrik
+
+","Venator Germany GmbH
+","51°26' 18,4"" N,  006°41' 53,2"" O
+"
+73,"Kraftwerk Duisburg-Walsum[68]
+","1200
+","150
+(295 möglich)
+
+","Steinkohle
+","Duisburg-Walsum
+","Nordrhein-Westfalen Nordrhein-Westfalen
+","Block 6: 1957
+Block 7: 1959
+Block 8: 1960
+Block 9: 1988
+Block 10: 2013
+
+","0!Block 6: 1988Block 7: 2014Block 8: 1988Block 9: ?Block 10: ?
+","Block 6: 60 MW (Netto)
+Block 7: 129 MW (Netto)
+Block 8: 129 MW (Netto)
+Block 9: 370 MW (Netto)
+Block 10: 725 MW (Netto)
+
+","Block 9: Steag GmbH
+Block 19: STEAG-EVN Walsum Kraftwerksgesellschaft mbH
+
+","!551.5285585506.714594551° 31′ 42,8″ N, 006° 42′ 52,5″ O51.5285583333336.7145944444444
+"
+74,"Heizkraftwerk Duisburg-Wanheim[69]
+","286
+","255 (1450 MWh Wärmespeicher)
+","Erdgas, Heizöl
+","Duisburg-Wanheim
+","Nordrhein-Westfalen Nordrhein-Westfalen
+","Block III A: 2002
+Block III B: 2005
+
+","0!
+","Block III A: 40 MW (Netto)
+Block III B: 234 MW (Netto)
+
+","Stadtwerke Duisburg AG
+","
+"
+75,"Düren KANZAN Spezialpapiere GmbH / Getec AG
+","1,0
+","
+","Braunkohle
+","Düren
+","Nordrhein-Westfalen Nordrhein-Westfalen
+","2010
+","
+","0!
+","Getec-Gruppe
+","
+"
+76,"Kombinationskraftwerk Eilenburg[3]
+","ca. 50
+","?
+","Erdgas
+EBS (Reste aus Papierherstellung)
+
+","Eilenburg
+","Sachsen Sachsen
+","1993
+","
+","47 MW (Netto)
+Eigenstrom- und Dampfversorgung der örtlichen Papierfabrik
+
+","Stora Enso Sachsen GmbH
+","
+"
+77,"Kraftwerk Eisenhüttenstadt[70]
+","116
+","80
+","EBS (Konvertergas)
+","Eisenhüttenstadt
+","Brandenburg Brandenburg
+","Block ?: 1954/1998
+Block 7: 2013
+(Block 8: 2021[71])
+
+","0!
+","Block ?: 45 MW (Netto)
+Block 7: 56 MW (Netto)
+Block 8: ?
+Eigenstrom- und Dampfversorgung für das örtliche Stahlwerk; Wärme-auskopplung zur Fernwärme-versorgung der Stadt
+
+","ArcelorMittal Eisenhüttenstadt GmbH
+","
+"
+78,"Elsdorf
+","13
+","
+","Braunkohle
+","Elsdorf (Rheinland)
+","Nordrhein-Westfalen Nordrhein-Westfalen
+","2000
+","0!
+","
+","Pfeifer & Langen GmbH & Co. KG
+","50° 55'  54.7"" N, 006° 33' 49.0"" O
+"
+79,"Heizkraftwerk Eltmann[3]
+","ca. 60
+","?
+","Erdgas
+","Eltmann
+","Bayern Bayern
+","2007
+","0!
+","57 MW (Netto)
+Eigenstrom- und Dampfversorgung der örtlichen Papierfabrik
+
+","Palm Power GmbH & Co. KG
+","49° 59' 5.071""  N, 010° 39' 6.916"" O
+"
+80,"Kraftwerk Emden[72]
+","472 (davon 450 Erdgas und 22 Biomasse)
+","30
+","Erdgas: GT und DT
+Biomasse: Block 5
+
+","Emden
+","Niedersachsen Niedersachsen
+","GT: 1973
+DT: 1973
+Block 5: 2005
+
+","0!GT: ?
+DT: von 2001 bis 2006 und seit 2012[73] (Kaltreserve)
+Block 5: ?
+
+","GT: 50 (52) MW (Netto)
+DT: 380 (433) MW (Netto)
+Block 5: 20 (22) MW (Netto)
+je nach Quelle unterschiedliche Leistungsangaben
+
+","Statkraft Markets GmbH
+","!553.3414725507.206306553° 20′ 29,3″ N, 007° 12′ 22,7″ O53.3414722222227.2063055555556
+"
+81,"Heizkraftwerk Erfurt-Iderhoffstraße[3]
+","ca. 12
+","? (250 MWh Wärmespeicher)
+","Erdgas
+","Erfurt
+","Thüringen Thüringen
+","1996
+","
+","11 MW (Netto)
+","Stadtwerke Erfurt Energie GmbH
+","
+"
+82,"Kraftwerk Erfurt-Ost[74][75]
+","115
+","283 (davon 173 aus KWK)
+","Erdgas
+","Erfurt
+","Thüringen Thüringen
+","GuD 1: 1999
+GuD 2: 2014
+
+","0!
+","GuD 1: 77 MW (Netto)
+GuD 2: 33 MW (Netto)
+
+","Stadtwerke Erfurt Energie GmbH
+","
+"
+83,"Heizkraftwerk Erlangen[76]
+","ca. 50 (davon ca. 30 Steinkohle und ca. 30 Erdgas)
+","208
+","Steinkohle: K6 DT2
+Erdgas: GuD 1, GuD 2
+Heizöl: K6 DT2
+
+","Erlangen
+","Bayern Bayern
+","K6 DT2: 1982
+GuD 1: 2005
+GuD 2: 2014
+
+","2021!(K6 GT2: 2021[77])
+
+
+","K6 GT2: 17 MW (Netto)
+GuD 1: 22 MW (Netto)
+GuD 2: 7 MW (Netto)
+
+","Erlanger Stadtwerke AG
+","!549.5937505510.999972549° 35′ 37,5″ N, 010° 59′ 59,9″ O49.5937510.999972222222
+"
+84,"Industriekraftwerk Euskirchen[3]
+","ca. 18
+","?
+","Braunkohle
+","Euskirchen
+","Nordrhein-Westfalen Nordrhein-Westfalen
+","1998
+","0!
+","15 MW (Netto)
+Eigenstrom- und Dampfversorgung der örtlichen Zuckerfabrik
+
+","Pfeifer & Langen GmbH & Co. KG
+","50° 39'  26.9"" N, 006° 48' 36.9"" O
+"
+85,"Heizkraftwerk Flensburg[78]
+","206
+","291 (1100 MWh Wärmespeicher)
+","Steinkohle: K9, K10, K11Erdgas: K5/T7, K12, K13
+EBS (Müll): K9, K10, K11
+Biomasse: K9, K10, K11
+
+","Flensburg
+","Schleswig-Holstein Schleswig-Holstein
+","K5/T7: 1974/2016
+K7: 1978
+K8: 1982
+K9: 1985
+K10: 1988
+K11: 1992
+K12: 2016
+(K13: 2022)
+
+","2022!K5/T7: ?
+K7: 2016
+K8: 2016
+(K9: 2022)
+(K10: 2022[79])
+K11: ?
+K12: ?
+K13: ?
+
+","K5/T7: 29 MW (Netto)
+K7: 23 MW (Netto)
+K8: 35 MW (Netto)
+K9: 33 MW (Netto)
+K10: 33 MW (Netto)
+K11: 33 MW (Netto)
+K12 (GuD): 78 MW (Netto)
+
+K13: bis 2022 Neubau eines erdgasbetriebenen GuDs mit 70 MWel und 70 MWth, danach Stilllegung von zwei Kohlekesseln[79]
+
+","Stadtwerke Flensburg GmbH
+","!554.8038065509.433167554° 48′ 13,7″ N, 009° 25′ 59,4″ O54.8038055555569.4331666666667
+"
+86,"Kraftwerk Franken I[80]
+","843
+","30
+","Heizöl
+Erdgas
+
+","Nürnberg
+","Bayern Bayern
+","Block 1: 1973
+Block 2: 1976
+
+","0!
+","Block 1: 383 MW (Netto)
+Block 2: 440 MW (Netto)
+(davon insgesamt 60 MW Bahnstrom)
+
+","Uniper Kraftwerke GmbH
+","!549.4208005511.007678549° 25′ 14,9″ N, 011° 00′ 27,6″ O49.420811.007677777778
+"
+87,"Heizkraftwerk Frankfurt (Oder)[81]
+","50
+","80
+(ca. 300 MWh Wärmespeicher im Bau)
+
+","Braunkohle
+","Frankfurt (Oder)
+","Brandenburg Brandenburg
+","1997
+","2022!(2022)
+","45 MW (Netto)
+(Gasmotorenkraftwerk mit 50 MWel und ca. 50 MWth im Bau[82])
+
+","Stadtwerke Frankfurt (Oder) GmbH
+","52° 19' 6.222""N, 014° 31' 52.928"" O
+"
+88,"Heizkraftwerk Frankfurt-Allerheiligenstraße[83]
+","4
+","58 (davon 4 aus KWK)
+","Erdgas
+","Frankfurt am Main
+","Hessen Hessen
+","1953
+","
+","4 MW (Netto)
+","Mainova AG
+","
+"
+89,"Heizkraftwerk Frankfurt-Messe[83]
+","5
+","112 (davon 5 aus KWK)
+","Erdgas
+","Frankfurt am Main
+","Hessen Hessen
+","1987
+","
+","5 MW (Netto)
+","Mainova AG
+","
+"
+90,"Heizkraftwerk Frankfurt-Niederrad[83]
+","ca. 75
+","235
+","Erdgas
+","Frankfurt am Main
+","Hessen Hessen
+","Block 1: 2004
+Block 2: 1973
+
+","Block 1: ?Block 2: 2017
+","Block 1: 70 MW (Netto)
+Block 2: 56 MW (Netto)
+
+","Mainova AG
+","50° 5' 55.028""  N, 008° 39' 17.95"" O
+"
+91,"Heizkraftwerk Frankfurt-West[83]
+","273 (davon 139 Steinkohle und ca. 144 Erdgas)
+","430
+","Steinkohle: Blöcke 2, 3Erdgas: Blöcke 4, M4, M5
+","Frankfurt am Main
+","Hessen Hessen
+","Block 2: 1988
+Block 3: 1989
+Block 4: 1994
+Block M4: 1994?
+Block M5: 2018
+
+","2030!(Block 2: um 2025)(Block 3: um 2025)[84]Block 4: ?
+Block M4: 2016Block M5: ?
+
+","Block 2: 62 MW (Netto)
+Block 3: 62 MW (Netto)
+Block 4: 99 MW (Netto)
+Block M4: 20 MW (Netto)
+Block M5: 39 MW (Netto)
+
+","Mainova AG
+","!550.0983335508.653361550° 05′ 54,0″ N, 008° 39′ 12,1″ O50.0983333333338.6533611111111
+"
+92,"Heizkraftwerk Frankfurt-Fechenheim 1+2
+","20
+","?
+","Braunkohle
+","Frankfurt am Main
+","Hessen Hessen
+","2011
+","0!
+","Eigenstrom- und Dampfversorgung für den örtlichen Chemiepark
+","AlessaChemie GmbH
+Getec AG
+
+","
+"
+93,"Heizkraftwerk Frankfurt-Griesheim
+","ca. 20
+","?
+","Braunkohle
+","Frankfurt am Main
+","Hessen Hessen
+","2016
+","0!2019? (die örtlichen Chemiebetriebe haben 2019 die Produktion eingestellt[85])
+","Eigenstrom- und Dampfversorgung für den örtlichen Chemiepark
+","WeylChem Griesheim GmbH
+Getec Heat&Power AG
+
+","
+"
+94,"Industriekraftwerk Frechen/Wachtberg[86]
+","201
+","251
+","Braunkohle
+","Frechen
+","Nordrhein-Westfalen Nordrhein-Westfalen
+","1959/1988
+","0!
+","176 MW (Netto)
+Eigenstrom- und Dampfversorgung für den Kohleveredlungsbetrieb Frechen 
+
+","RWE Power AG
+","
+"
+95,"Heizkraftwerk Freiberg[87]
+","14
+","ca. 75 (davon 18 aus KWK; 140 MWh Wärmespeicher)
+","Erdgas
+","Freiberg
+","Sachsen Sachsen
+","2013
+","
+","13 MW (Netto)
+","Stadtwerke Freiberg AG
+","
+"
+96,"Wärmeverbundkraftwerk Freiburg[3]
+","60
+","?
+","Erdgas
+","Freiburg im Breisgau
+","Baden-Württemberg Baden-Württemberg
+","1998
+","0!
+","40 MW (Netto)
+","Rhodia Acetow GmbH
+","48° 1' 14.887""  N, 007° 50' 45.823"" O
+"
+97,"Heizkraftwerk Unitversitätsklinik Freiburg[88]
+","30
+","? (ca. 50 MWh Wärmespeicher)
+","Erdgas
+Biomasse (Holzpellets)
+
+","Freiburg im Breisgau
+","Baden-Württemberg Baden-Württemberg
+","2001
+","0!
+","27 MW (Netto)
+","Universitätsklinikum Freiberg AdöR
+","
+"
+98,"Kraftwerk Frimmersdorf[89]
+","635
+","30
+","Braunkohle,
+Papierschlamm
+
+","Grevenbroich-Frimmersdorf
+","Nordrhein-Westfalen Nordrhein-Westfalen
+","Block A: 1955
+Block B: 1955
+Block C: 1957
+Block D: 1957
+Block E: 1959
+Block F: 1960
+Block G: 1960
+Block H: 1961
+Block I: 1960
+Block K: 1962
+Block L: 1962
+Block M: 1962
+Block N: 1964
+Block O: 1964
+Block P: 1966/90
+Block Q: 1970/90
+
+","2021!
+Block A: 1988
+Block B: 1988
+Block C: 2011
+Block D: 2011
+Block E: 2012
+Block F: 2012
+Block G: 2011
+Block H: 2005
+Block I: 2012
+Block K: 2012
+Block L: 2012
+Block M: 2012
+Block N: 2012
+Block O: 2012
+(Block P: 01.10.2021[49]; seit 01.10.2017 in der Sicherheitsbereitschaft)
+(Block Q: wie Block P)
+
+","Block A: 90 MW (Netto)
+Block B: 90 MW (Netto)
+Block C: 129 MW (Netto)
+Block D: 130 MW (Netto)
+Block E: 130 MW (Netto)
+Block F: 132 MW (Netto)
+Block G: 124 MW (Netto)
+Block H: 130 MW (Netto)
+Block I: 128 MW (Netto)
+Block K: 136 MW (Netto)
+Block L: 131 MW (Netto)
+Block M: 138 MW (Netto)
+Block N: 135 MW (Netto)
+Block O: 133 MW (Netto)
+Block P: 284 MW (Netto)
+Block Q: 278 MW (Netto)
+
+","RWE Power AG
+","!551.0544975506.575919551° 03′ 16,2″ N, 006° 34′ 33,3″ O51.0544972222226.5759194444444
+"
+99,"Kraftwerk Fulda[3]
+","ca. 27
+","0
+","Mineralölprodukte
+","Fulda
+","Hessen Hessen
+","2011
+","
+","25 MW (Netto)
+","RhönEnergie Fulda GmbH
+","
+"
+100,"Industriekraftwerk Fulda[3]
+","ca. 35
+","?
+","Erdgas
+","Fulda
+","Hessen Hessen
+","Block 2: 1982
+Block 3: 2012
+
+","
+","Block 2: 8 MW (Netto)
+Block 3: 26 MW (Netto)
+Eigenstrom- und Dampfversorgung für Papierfabrik
+
+","Papierfabrik Adolf Jass GmbH & Co. KG
+","
+"
+101,"Industriekraftwerk Gendorf[3]
+","ca. 75
+","?
+","Erdgas
+","Burgkirchen
+","Bayern Bayern
+","2002/17
+","
+","73 MW (Netto)
+Eigenstrom- und Dampfversorgung für Chemiepark Gendorf
+
+","InfaServ GmbH & Co. Gendorf KG
+","
+"
+102,"Heizkraftwerk Gera-Lusan (ehemals Heizkraftwerk Gera-Nord)[90]
+","18
+","63 (davon 18 aus KWK)
+","Erdgas
+","Gera
+","Thüringen Thüringen
+","GuD 1: 1996
+GuD 2: 1996
+HKW Lusan: 2018
+
+","GuD 1: 2018
+GuD 2: 2018
+HKW Lusan:
+
+","GuD 1: 37 MW (Netto)
+GuD 2: 37 MW (Netto)
+HKW Lusan: 17 MW (Netto)
+
+","Kraftwerke Gera GmbH
+","!550.9069445512.061111550° 54′ 25,0″ N, 012° 03′ 40,0″ O50.90694444444412.061111111111
+"
+103,"Heizkraftwerk Gera-Titz[90]
+","23
+","83 (davon 23 aus KWK)
+","Erdgas
+","Gera
+","Thüringen Thüringen
+","HKW Tinz: 2018
+","HKW Tinz:
+","HKW Tinz: 22 MW (Netto)
+","Kraftwerke Gera GmbH
+","
+"
+104,"Heizkraftwerk Göttingen[91][92]
+","22 (65)
+","?
+","Öl (Heizöl)
+Erdgas
+
+","Göttingen
+","Niedersachsen Niedersachsen
+","1967/1998
+","0!
+","19 (60) MW (Netto)
+je nach Quelle unterschiedliche Leistungsangaben;
+z. T. im Inselbetrieb
+
+","Georg-August-Universität Göttingen Stiftung des öffentlichen Rechts
+","!551.5536945509.934250551° 33′ 13,3″ N, 009° 56′ 03,3″ O51.5536944444449.93425
+"
+105,"Blockheizkraftwerk Universitätsklinik Göttingen[93]
+","5
+","5
+","Erdgas
+","Göttingen
+","Niedersachsen Niedersachsen
+","2018
+","
+","5 MW (Netto)
+","Georg-August-Universität Göttingen Stiftung des öffentlichen Rechts
+","
+"
+106,"Industriekraftwerk Greifswald[94]
+","39
+","47
+","Erdgas
+","Lubmin
+","Mecklenburg-Vorpommern Mecklenburg-Vorpommern
+","2013
+","
+","38 MW (Netto)
+Abwärmenutzung zum Aufheizen von Erdgas aus der Northstream-Pipeline
+
+","Industriekraftwerk Greifswald GmbH
+","
+"
+107,"Kraftwerk Grenzach-Wyhlen[3]
+","ca. 30
+","?
+","Erdgas
+","Grenzach-Wyhlen
+","Baden-Württemberg Baden-Württemberg
+","2017
+","
+","30 MW (Netto)
+Eigenstrom- und Dampfversorgung für die örtliche Pharmaproduktion
+
+","KGW - Kraftwerk Grenzach-Wyhlen GmbH
+","
+"
+108,"Industriekraftwerk Großenkneten[95]
+","ca. 33
+","ca. 30
+","Erdgas
+","Großenkneten
+","Niedersachsen Niedersachsen
+","2014
+","
+","30 MW (Netto)
+Eigenstrom- und Dampfversorgung für Erdgasaufbereitung
+
+","Exxon Mobil Production Deutschland GmbH
+","
+"
+109,"Spitzenlastkraftwerk Großkayna[3]
+","129
+","0
+","Öl (Heizöl)
+","Großkayna
+","Sachsen-Anhalt Sachsen-Anhalt
+","1994
+","0!
+","120 MW (Netto)
+","envia THERM GmbH
+","
+"
+110,"Kraftwerk Staudinger[96]
+","1191 (davon 553 Kohle und 638 Erdgas)
+","300
+","Steinkohle: Blöcke 1, 2, 3, 5
+Erdgas: Block 4
+
+","Großkrotzenburg
+","Hessen Hessen
+","Block 1: 1965Block 2: 1965Block 3: 1970Block 4: 1977Block 5: 1992
+","2019!
+Block 1: 2012/2013Block 2: 2012Block 3: 2012(Block 4: untersagt bis 1 Jahr nach Beginn der Engpassbewirtschaftung Deutschland/Österreich (1. Oktober 2018), längstens bis 4. Mai 2020[1])Block 5: ?
+
+","Block 1: 249 MW (Netto)Block 2: 249 MW (Netto)Block 3: 293 MW (Netto)Block 4: 572 MW (Netto)Block 5: 510 MW (Netto)
+","Uniper Kraftwerke GmbH
+","!550.0882675508.951658550° 05′ 17,8″ N, 008° 57′ 06,0″ O50.0882666666678.9516583333333
+"
+111,"Heizkraftwerk Hagen-Kabel[97]
+","ca. 275 (davon 251 Erdgas und ca. 24 Biomasse)
+","108
+","Block H4/5: Erdgas
+BVA: Biomasse
+
+","Hagen
+","Nordrhein-Westfalen Nordrhein-Westfalen
+","H4/5: 1981/2004
+BVa: 2004
+
+","H4/5: 2016 (Kaltreserve)
+
+
+","H4/5: 230 MW (Netto)
+BVA: 20 MW (Netto)
+Eigenstrom- und Dampfversorgung der örtlichen Papierfabrik
+
+","Mark-E AG
+","
+"
+112,"Hainsberg Getec AG / Papierfabrik Hainsberg GmbH
+","1,0
+","5,0
+","Braunkohle
+","Hainsberg (Freital)
+","Sachsen Sachsen
+","2011
+","0!
+","
+","Getec-Gruppe
+","
+"
+113,"Heizkraftwerk Halle Dieselstraße[98]
+","100
+","120 (davon 68 aus KWK; 280 MWh Wärmespeicher und ca. 2000 MWh Wärmespeicher)
+","Erdgas
+","Halle
+","Sachsen-Anhalt Sachsen-Anhalt
+","GuD A: 2005
+GuD B: 2005
+
+","
+","GuD A: 47 MW (Netto)
+GuD B: 47 MW (Netto)
+(GT C in Planung[99])
+
+","Energieversorgung Halle GmbH (EVH)
+","
+"
+114,"Heizkraftwerk Halle Trotha[100]
+","58
+","40
+","Erdgas
+","Halle
+","Sachsen-Anhalt Sachsen-Anhalt
+","GuD: 2012/2013
+","
+","GuD: 56 MW (Netto)
+","Energieversorgung Halle GmbH (EVH)
+","
+"
+115,"Heizkraftwerk Hamburg[3]
+","ca. 25
+","?
+","Erdgas
+Biogas
+
+","Hamburg-Mitte
+","Hamburg Hamburg
+","1993
+","
+","23 MW (Netto)
+Eigenstrom- und Dampfversorgung für Ölmühle und Biodieselproduktion
+
+","ADM Hamburg AG
+","
+"
+116,"Kohlekraftwerk Hamburg-Moorburg[101]
+","1654
+","240 (650 möglich)
+","Steinkohle
+","Hamburg-Moorburg
+","Hamburg Hamburg
+","Block A: 2015
+Block B: 2015
+
+","0!
+Block A: ?
+Block B: ?
+
+","Block A: 800 MW (Netto)
+Block B: 800 MW (Netto)
+Umrüstung auf Gas geplant[102]
+
+","Vattenfall Heizkraftwerk Moorburg GmbH
+","!553.4881945509.949361553° 29′ 17,5″ N, 009° 56′ 57,7″ O53.4881944444449.9493611111111
+"
+117,"Kraftwerk Westfalen[103]
+","820
+","0
+","Steinkohle
+","Hamm-Schmehausen
+","Nordrhein-Westfalen Nordrhein-Westfalen
+","Block A: 1963Block B: 1963Block C: 1969
+Block D: nicht fertiggestelltBlock E: 2014
+
+","0!Block A: 2014Block B: 2014Block C: 2016Block D: 2015Block E: ?
+","Block A: 152 MW (Netto)Block B: 152 MW (Netto)Block C: 284 MW (Netto)Block D: 765 MW (Netto)
+Block E: 764 MW (Netto)
+
+","RWE Generation SE
+","!551.6803065507.970194551° 40′ 49,1″ N, 007° 58′ 12,7″ O51.6803055555567.9701944444444
+"
+118,"Trianel GuD-Kraftwerk Hamm-Uentrop[104]
+","850
+","0
+","Erdgas
+","Hamm-Schmehausen
+","Nordrhein-Westfalen Nordrhein-Westfalen
+","GuD 10: 2008
+GuD 20: 2008
+
+","0!
+","GuD 10: 417 MW (Netto)
+GuD 20: 421 MW (Netto)
+
+","Trianel Gaskraftwerk Hamm GmbH & Co. KG
+","!551.6738895507.929167551° 40′ 26,0″ N, 007° 55′ 45,0″ O51.6738888888897.9291666666667
+"
+119,"Kraftwerk Hürth-Knapsack[105]
+","1262
+","0
+","Erdgas
+","Hürth-Knapsack
+","Nordrhein-Westfalen Nordrhein-Westfalen
+","GuD I: 2006
+GuD II: 2013
+
+","0!
+","GuD I: 800 MW (Netto)
+GuD II: 430 MW (Netto)
+
+","Statkraft Markets GmbH
+","N50° 51' 38.617 N, E6° 50' 13.736""
+"
+120,"Kraftwerk Hannover-Herrenhausen[106]
+","120
+","280 (davon 140 aus KWK)
+","Erdgas
+","Hannover-Herrenhausen
+","Niedersachsen Niedersachsen
+","1975
+","0!2016 (Kaltreserve)
+","102 MW (Netto)
+im Moment nur noch Fernwärmeerzeugung und Steuerung diverser dezentraler Anlagen als virtuelles Kraftwerk
+
+","enercity AG
+","!552.3986115509.680556552° 23′ 55,0″ N, 009° 40′ 50,0″ O52.3986111111119.6805555555556
+"
+121,"Gasturbinenkraftwerk Hannover-Linden[107]
+","255
+","185
+","Erdgas
+","Hannover-Linden-Nord
+","Niedersachsen Niedersachsen
+","1962/1998/2013
+","0!
+","230 MW (Netto)
+","enercity AG
+","!552.3729175509.714194552° 22′ 22,5″ N, 009° 42′ 51,1″ O52.3729166666679.7141944444444
+"
+122,"Kohlekraftwerk Hannover-Stöcken[108]
+(Gemeinschaftskraftwerk Hannover)
+
+","300
+","425
+","Steinkohle
+","Hannover-Stöcken
+","Niedersachsen Niedersachsen
+","Block 1: 1989
+Block 2: 1989
+
+","0!
+","Block 1: 136 MW (Netto)
+Block 2: 136 MW (Netto)
+
+","enercity AG /Volkswagen Kraftwerke GmbH
+","!552.4202785509.647508552° 25′ 13,0″ N, 009° 38′ 51,0″ O52.4202777777789.6475083333333
+"
+123,"Kraftwerk Hattorf[3]
+","ca. 55
+","?
+","Erdgas
+","Philippsthal
+","Hessen Hessen
+","Block 1: 2013
+Block 2: 2013
+
+","
+","Block 1: 35 MW (Netto)
+Block 2: 17 MW (Netto)
+Eigenstrom- und Dampfversorgung für dem örtlichen Kalibergbau
+
+","K+S AG
+","
+"
+124,"Kraftwerk Hausham[109]
+","112
+","25
+","Steinkohle: Kohleblock
+Heizöl: GT 1, GT 2, GT 3, GT 4, Motor-HKW 1, Motor-HKW 2
+
+","Hausham
+","Bayern Bayern
+","Kohleblock: 1963
+GT 1: 1982
+GT 2: 1982
+GT 3: 1982
+GT 4: 1982
+Motor-HKW 1: 1987
+Motor-HKW 2: 1990
+
+","0!Kohleblock: 1983
+
+
+
+
+","Kohleblock: 37 MW (Netto)
+GT 1: 32 MW (Netto)
+GT 2: 32 MW (Netto)
+GT 3: 32 MW (Netto)
+GT 4: 32 MW (Netto)
+Motor-HKW 1: 6 MW (Netto)
+Motor-HKW 2: 6 MW (Netto)
+
+","Peißenberger Kraftwerksgesellschaft mbH
+","
+"
+125,"Raffineriekraftwerk Heide[110]
+","47
+","?
+","Erdgas
+EBS (Mineralölprodukte, Raffineriegas)
+
+","Hemmingstedt
+","Schleswig-Holstein Schleswig-Holstein
+","1962
+","
+","45 MW (Netto)
+Eigenstrom- und Dampfversorgung der Raffinerie Heide
+
+","Raffinerie Heide GmbH
+","
+"
+126,"Heizkraftwerk Heidelberg[3]
+","ca. 15
+","?
+","Erdgas
+","Heidelberg
+","Baden-Württemberg Baden-Württemberg
+","2001
+","
+","14 MW (Netto)
+","innogy SE
+","
+"
+127,"Industriekraftwerk Heidenheim[3]
+","ca. 20
+","?
+","Erdgas, Heizöl
+","Heidenheim
+","Baden-Württemberg Baden-Württemberg
+","2014
+","
+","19 MW (Netto)
+","Sales & Solutions GmbH
+","
+"
+128,"Heizkraftwerk Heilbronn[111]
+","1050
+","390
+","Steinkohle
+Klärschlamm
+
+","Heilbronn
+","Baden-Württemberg Baden-Württemberg
+","Block 1: 1950-60
+Block 2: 1950-60
+Block 3: 1950-60
+Block 4: 1950-60
+Block 5: 1965/2010
+Block 6: 1966/2010
+Block 7: 1985/2009
+
+","2019!Block 1: 1988
+Block 2: 1988
+Block 3: 2006
+Block 4: 2006
+Block 5: 2015 (Netzreserve)
+Block 6: 2015 (Netzreserve)
+(Block 7: untersagt bis 1 Jahr nach Beginn der Engpassbewirtschaftung Deutschland/Österreich (1. Oktober 2018)[6], längstens bis 31. März 2020[1])
+
+","Block 1: ca. 50 MW (Netto)
+Block 2: ca. 50 MW (Netto)
+Block 3: ca. 100 MW (Netto)
+Block 4: ca. 100 MW (Netto)
+Block 5: 125 MW (Netto)
+Block 6: 125 MW (Netto)
+Block 7: 778 MW (Netto)
+
+","EnBW Energie Baden-Württemberg AG
+","!549.1755315509.207553549° 10′ 31,9″ N, 009° 12′ 27,2″ O49.1755305555569.2075527777778
+"
+129,"Industriekraftwerk Herzberg[3]
+","ca. 25
+","?
+","Erdgas
+","Herzberg
+","Niedersachsen Niedersachsen
+","1978
+","
+","20 MW (Netto)
+Eigenstrom- und Dampfversorgung der örtlichen Papierfabrik
+
+","Smurfit Kappa Herzberger Papierfabrik GmbH
+","
+"
+130,"Heizkraftwerk Helmshänger Berg[112]
+","15
+","125 (davon 28 KWK; ca. 90 MWh Wärmespeicher)
+","Erdgas
+","Greifswald
+","Mecklenburg-Vorpommern Mecklenburg-Vorpommern
+","1996
+","
+","14 MW (Netto)
+","Stadtwerke Greifswald GmbH
+","
+"
+131,"Kraftwerk Duisburg-Ruhrort[67]
+(Kraftwerk Hermann Wenzel)
+
+","244
+","?
+","Kuppelprodukte aus der Stahlerzeugung
+Kokereigas
+Gichtgas
+
+","Duisburg-Laar
+","Nordrhein-Westfalen Nordrhein-Westfalen
+","Block 1: 1955
+Block 2: 1955
+Block 3: 1963
+Block 4: 1969
+
+","0!Block 1: 2001
+
+
+
+","Block 1: ca. 55 MW (Netto)
+Block 2: 60 MW (Netto)
+Block 3: 95 MW (Netto)
+Block 4: 170 MW (Netto)
+Eigenstrom- und Dampfversorgung für das ThyssenKrupp-Stahlwerk Schwelgern
+
+","ThyssenKrupp Steel Europe AG
+","!551.4596675506.730583551° 27′ 34,8″ N, 006° 43′ 50,1″ O51.4596666666676.7305833333333
+"
+132,"Cuno Heizkraftwerk Herdecke (Cuno-Kraftwerk)[3]
+","424
+","0
+","Erdgas
+","Herdecke
+","Nordrhein-Westfalen Nordrhein-Westfalen
+","H6: 2007
+","0!
+","H6: 417 MW (Netto)
+","Mark-E AG
+Statkraft Markets GmbH
+
+","
+"
+133,"Kraftwerk Wintershall[3]
+","110
+","299
+","Erdgas
+","Heringen
+","Hessen Hessen
+","1970/2009
+","0!
+","69 MW (Netto)
+Nutzt auch Dampf von benachbarter Müllverbrennungsanlage
+
+","K+S AG
+","
+"
+134,"Heizkraftwerk Herne[113]
+","511
+","550
+","Steinkohle: Blöcke 1, 2, 3, 4, 5
+Erdgas: Block 6
+
+","Herne
+","Nordrhein-Westfalen Nordrhein-Westfalen
+","Block 1: 1962/63Block 2: 1962/63Block 3: 1966Block 4: 1989/2013
+Block 5: nicht realisiert
+(Block 6: 2022)
+
+","Block 1: 2000Block 2: 2013Block 3: 2017
+
+
+
+","Block 1: 133 MW (Netto)
+Block 2: 133 MW (Netto)
+Block 3: 280 MW (Netto)
+Block 4: 449 MW (Netto)
+Block 5: 800 MW (Netto)
+Block 6: GuD-Block mit ca. 600 MWel und 400 MWth im Bau[114]
+
+","Steag GmbH
+","!551.5506565507.187575551° 33′ 02,4″ N, 007° 11′ 15,3″ O51.5506555555567.187575
+"
+135,"Kraftwerk Heyden[115]
+","923
+","0
+","Steinkohle
+","Petershagen
+","Nordrhein-Westfalen Nordrhein-Westfalen
+","Block 1: 1951
+Block 2: 1960
+Block 3: 1961
+Block 4: 1987
+
+","0!Block 1: 1979Block 2: 1982Block 3: 1982Block 4: ?
+","Block 1: ca. 120 MW (Netto)Block 2: ca. 100 MW (Netto)Block 3: ca. 100 MW (Netto)
+Block 4: 875 MW (Netto)
+
+","Uniper Kraftwerke GmbH
+","!552.3816085508.998667552° 22′ 53,8″ N, 008° 59′ 55,2″ O52.3816083333338.9986666666667
+"
+136,"Heizkraftwerk Bochum-Hiltrop[116]
+","ca. 45
+","? (ca. 150 MWh Wärmespeicher)
+","Erdgas
+","Bochum-Hiltrop
+","Nordrhein-Westfalen Nordrhein-Westfalen
+","GT: 1975
+GuD: 2013
+
+","0!GT: 2013
+","GT: 31 MW (Netto)
+GuD: 44 MW (Netto)
+
+","Stadtwerke Bochum Holding GmbH
+","!551.5072225507.249722551° 30′ 26,0″ N, 007° 14′ 59,0″ O51.5072222222227.2497222222222
+"
+137,"Heizkraftwerk Industriepark Höchst[3]
+","268 (davon 71 Steinkohle und 197 Erdgas)
+","614
+","Steinkohle: Block BErdgas: Block A, ADS-Anlage
+","Frankfurt am Main
+","Hessen Hessen
+","Block A: 2003
+Block B: 1989
+ADS-Anlage: 2011/2012
+
+","0!
+","Block A (GT): 86 MW (Netto)
+Block B: 66 MW (Netto)
+ADS-Anlage (2 GT): 97 MW (Netto)
+Abwärme der Gasturbinen wird zur Dampferzeugung für die Dampfturbine des Blocks B genutzt
+
+","Infraserv GmbH & Co. Höchst KG
+","!550.0922225508.533333550° 05′ 32,0″ N, 008° 32′ 00,0″ O50.0922222222228.5333333333333
+"
+138,"Kraftwerk Duisburg-Huckingen[117]
+","640
+","68
+","ErdgasGichtgas
+Hochofengas
+
+","Duisburg-Huckingen
+","Nordrhein-Westfalen Nordrhein-Westfalen
+","Block A: 1975/2009
+Block B: 1976/2011
+
+","0!
+","Block A: 303 MW (Netto)
+Block B: 303 MW (Netto)
+Eigenstrom- und Dampfversorgung für das örtliche Stahlwerk
+
+","Hüttenwerke Krupp-Mannesmann GmbH
+","!551.3761395506.723861551° 22′ 34,1″ N, 006° 43′ 25,9″ O51.3761388888896.7238611111111
+"
+139,"Kraftwerk Huntorf[8]
+","321
+","0
+","Erdgas
+","Elsfleth
+","Niedersachsen Niedersachsen
+","1978/2006
+","0!
+","321 MW (Netto), Druckluftspeicher, Erdgas nur zur Kompensation der Expansionskälte
+","Uniper Kraftwerke GmbH
+","
+"
+140,"Kraftwerk Ibbenbüren[118]
+","838
+","20
+","Steinkohle
+Tiermehl
+Klärschlamm
+
+","Ibbenbüren
+","Nordrhein-Westfalen Nordrhein-Westfalen
+","Block A: 1967
+Block B: 1985/2009
+
+","0!
+Block A: 1987
+Block B: ?
+
+","Block A: ca. 130 MW (Netto)
+Block B: 794 MW (Netto)
+größter Schmelzkammerkessel der Welt
+
+","RWE Generation SE
+","!552.2858645507.745897552° 17′ 09,1″ N, 007° 44′ 45,2″ O52.2858638888897.7458972222222
+"
+141,"Kraftwerk Ingolstadt[119]
+","840
+","0
+","Schweröl
+","Großmehring
+","Bayern Bayern
+","Block 1: 1965
+Block 2: 1965
+Block 3: 1973
+Block 4: 1974
+
+","2019!Block 1: 1990
+Block 2: 1990
+Block 3: 2015 (Netzreserve)
+Block 4: 2015 (Netzreserve)
+
+","Block 1: 150 MW (Netto)
+Block 2: 150 MW (Netto)
+Block 3: 386 MW (Netto)
+Block 4: 386 MW (Netto) 
+
+","Uniper Kraftwerke GmbH
+","!548.7620085511.503258548° 45′ 43,2″ N, 011° 30′ 11,7″ O48.76200833333311.503258333333
+"
+142,"Industriekraftwerk Ingolstadt[3]
+","ca. 25
+","?
+","Erdgas, Raffineriegas
+","Kösching
+","Bayern Bayern
+","2012
+","
+","23 MW (Netto)
+Eigenstrom- und Dampfversorung der Erdölraffinerie Ingolstadt
+
+","Gunvor Raffinerie Ingolstadt GmbH
+","
+"
+143,"Kraftwerk Irsching[120]
+","1894 (davon 440 Heizöl und 1454 Erdgas)
+","25
+","Schweröl: Block 1, Block 2
+Heizöl: Block 3Erdgas: Block 4, Block 5
+
+","Vohburg
+","Bayern Bayern
+","Block 1: 1969
+Block 2: 1972
+Block 3: 1974
+Block 4 (""Ulrich Hartmann""): 2011
+Block 5 (""Gemein-schaftskraftwerk Irsching""): 2010
+
+","0!
+Block 1: 2006
+Block 2: 2012Block 3: 2012 (Netzreserve)Block 4: 2013 (Netzreserve)Block 5: 2013 (Netzreserve)
+
+","Block 1: ca. 150 MW (Netto)
+Block 2: ca. 300 MW (Netto)
+Block 3: 415 MW (Netto)
+Block 4: 561 MW (Netto)
+Block 5: 846 MW (Netto)
+(Block 6: 300 MW Gasturbine als ""besonderes netztechnisches Betriebsmittel"" mit Inbetriebnahme für 2022 geplant[121])
+
+","Uniper Kraftwerke GmbH
+","!548.7670335511.579219548° 46′ 01,3″ N, 011° 34′ 45,2″ O48.76703333333311.579219444444
+"
+144,"Kraftwerk Itzehoe[8]
+","87
+","0
+","Mineralölprodukte
+","Oldendorf
+","Schleswig-Holstein Schleswig-Holstein
+","1972
+","
+","87 MW (Netto)
+","Uniper Kraftwerke GmbH
+","
+"
+145,"Kraftwerk Jänschwalde[122]
+","3000
+","349 (458 möglich)
+","Braunkohle
+","Teichland-Neuendorf
+","Brandenburg Brandenburg
+","Block A: 1981/1996
+Block B: 1982/1996
+Block C: 1984/1996
+Block D: 1985/1996
+Block E: 1987/1996
+Block F: 1989/1996
+
+","2019!Block A: 2025 (Sicherheitsbereitschaft)[39]
+Block B: 2027 (Sicherheitsbereitschaft)[39]
+Block C: 2028 spätestens[39] 
+Block D: 2028 spätestens[39] 
+Block E: 2018
+Block F: 2019
+
+","Block A: 465 MW (Netto)
+Block B: 465 MW (Netto)
+Block C: 465 MW (Netto)
+Block D: 465 MW (Netto)
+Block E: 465 MW (Netto)
+Block F: 465 MW (Netto)
+Platz 4 – mit ~24,2 Mio. Jahrestonnen CO2 – auf der Liste der Kraftwerke mit dem höchsten CO2-Ausstoß in der EU.[2]
+
+","LEAG
+","!551.8322425514.453025551° 49′ 56,1″ N, 014° 27′ 10,9″ O51.83224166666714.453025
+"
+146,"Heizkraftwerk Jena[123]
+","204
+","225 (ca. 400 MWh Wärmespeicher,
+600 MWh Wärmespeicher im Bau)
+
+","Erdgas
+Heizöl
+
+","Jena
+","Thüringen Thüringen
+","HKW: 1969/1996
+(GM: 2022[124])
+
+","0!
+","182 MW (Netto)
+(Erweiterung um Gasmotorenkraftwerk mit 60 MWel und 60 MWth im Bau[125])
+
+","TEAG Thüringer Energie AG
+","!550.8976475511.586806550° 53′ 51,5″ N, 011° 35′ 12,5″ O50.89764722222211.586805555556
+"
+147,"Industriekraftwerk Jülich[3]
+","ca. 25
+","120
+","Braunkohle
+","Jülich
+","Nordrhein-Westfalen Nordrhein-Westfalen
+","2013
+","0!
+","23 MW (Netto)
+Eigenstrom- und Dampfversorgung der örtlichen Zuckerfabrik
+
+","Pfeifer & Langen GmbH & Co. KG
+","50° 54'  53.8"" N, 006° 22' 19.9"" O
+"
+148,"Heizkraftwerk Kaiserslautern-Karcherstraße[3]
+","ca. 28 (davon 15 Steinkohle und 13 Erdgas)
+","81 (ca. 90 MWh Wärmespeicher)
+","Erdgas: Block 10
+Steinkohle: Block 20
+
+","Kaiserslautern
+","Rheinland-Pfalz Rheinland-Pfalz
+","Block 10: 1989
+Block 20: 1996
+
+","(Block 20: 2022[126])
+","Block 10: 12 MW (Netto)
+Block 20: 13 MW (Netto)
+Steinkohleblock wird durch GuDs ersetzt[126]
+
+","Stadtwerke Kaiserslautern Versorgungs AG (SWK)
+","
+"
+149,"Industriekraftwerk Karlsruhe[3]
+","ca. 75
+","> 90
+","Erdgas, Mineralölprodukte
+","Karlsruhe
+","Baden-Württemberg Baden-Württemberg
+","Werk 1: 1995
+Werk 2: 1995
+
+","
+","Werk 1: 45 MW (Netto)
+Werk 2: 25 MW (Netto)
+Eigenstrom- und Dampfversorung der MiRO-Raffinerie
+
+","MiRO Mineralölraffinerie Oberrhein GmbH & Co. KG
+","
+"
+150,"Heizkraftwerk Karlsruhe-West[127]
+","37
+","350 (davon 108 aus KWK)
+","Erdgas
+Heizöl
+
+","Karlsruhe-Mühlburg
+","Baden-Württemberg Baden-Württemberg
+","Block T3: 1984
+","0!
+","Block T3: 33 MW (Netto)
+","Stadtwerke Karlsruhe GmbH
+","!549.0141615508.347656549° 00′ 51,0″ N, 008° 20′ 51,6″ O49.0141611111118.3476555555556
+"
+151,"Rheinhafen-Dampfkraftwerk Karlsruhe[128]
+","2175 (davon 713 Erdgas und 1462 Steinkohle)
+","440
+","Steinkohle: Blöcke 1, 2, 3, 4, 7, 8
+Erdgas: Blöcke 4S, 5, 6
+
+","Karlsruhe
+","Baden-Württemberg Baden-Württemberg
+","Block 1: 1955
+Block 2: nach 1955
+Block 3: nach 1955
+Block 4: nach 1955
+Block 4S: 1998
+Block 5: nach 1955
+Block 6: nach 1955
+Block 7: 1985/2005
+Block 8: 2014
+
+","0!
+Block 1: 1985
+Block 2: 1985
+Block 3: 1985
+Block 4: 1985
+Block 4S: untersagt bis 1 Jahr nach Beginn der Engpassbewirtschaftung Deutschland/Österreich (1. Oktober 2018)[6], längstens bis 31. März 2020[1]Block 5: 1993 (Kaltreserve)Block 6: 1993 (Kaltreserve)
+Block 7: ?Block 8: ?
+
+","Block 1: ? MW (Netto)
+Block 2: ? MW (Netto)
+Block 3: ? MW (Netto)
+Block 4: ? MW (Netto) 
+Block 4S: 353 MW (Netto)
+Block 5: ca. 160 MW (Netto)
+Block 6: ca. 160 MW (Netto)
+Block 7: 517 MW (Netto)
+Block 8: 834 MW (Netto)
+
+","EnBW Energie Baden-Württemberg AG
+","!549.0114535508.303961549° 00′ 41,2″ N, 008° 18′ 14,3″ O49.0114527777788.3039611111111
+"
+152,"Kraftwerk Kassel[129]
+","91 (davon 38 Braunkohle und 53 Erdgas)
+","155 (davon 135 aus KWK)
+","FKK: Braunkohle, Steinkohle EBS (Petrolkoks und EBS biogenen Ursprungs)
+Kombi-HKW: Erdgas
+
+","Kassel
+","Hessen Hessen
+","FKK: 1989
+Kombi-HKW:
+GuD 1: 1988
+GuD 2: 2005
+
+","0!FKK: 2030[130]
+
+
+
+","FKK: 34 MW (Netto)
+Kombi-HKW
+GuD 1: 14 MW (Netto)
+GuD 2: 36 MW (Netto)
+
+","Städtische Werke Energie + Wärme GmbH
+","!551.2791115509.484000551° 16′ 44,8″ N, 009° 29′ 02,4″ O51.2791111111119.484
+"
+153,"Küstenkraftwerk K.I.E.L.[131]
+","200!200
+","192!192 (1500 MWh Wärmespeicher)
+","Erdgas
+","Kiel
+","Schleswig-Holstein Schleswig-Holstein
+","2019
+","0!
+","190 MW (Netto), Gasmotorenkraftwerk,
+Ersatz für das ehemalige Gemeinschaftskraftwerk Kiel mit 354 MWel (Brutto) und 295 MWth[132]
+
+","Stadtwerke Kiel AG
+","!554.3412505510.178028554° 20′ 28,5″ N, 010° 10′ 40,9″ O54.3412510.178027777778
+"
+154,"Heizkraftwerk Kiel-Humboldstraße[133]
+","ca. 25
+","140
+","Erdgas
+","Kiel
+","Schleswig-Holstein Schleswig-Holstein
+","2005
+","
+","22 MW (Netto)
+","Stadtwerke Kiel AG
+","
+"
+155,"Kraftwerk Kirchlengern[3]
+","185
+","0
+","Erdgas
+Heizöl
+
+","Kirchlengern
+","Nordrhein-Westfalen Nordrhein-Westfalen
+","1981
+","0!
+","147 MW (Netto)
+","Energieservice Westfalen Weser GmbH
+","!552.1962225508.647444552° 11′ 46,4″ N, 008° 38′ 50,8″ O52.1962222222228.6474444444444
+"
+156,"Kraftwerk Kirchmöser[134]
+","207
+","0
+","Erdgas
+","Brandenburg an der Havel
+","Brandenburg Brandenburg
+","1994
+","0!
+","160 MW (Netto), nur  Bahnstromerzeugung
+","Uniper Kraftwerke GmbH
+","!552.3945975512.418047552° 23′ 40,5″ N, 012° 25′ 05,0″ O52.39459722222212.418047222222
+"
+157,"Kraftwerk Klein Wanzleben[3]
+","ca. 25
+","0
+","Erdgas und Biogas
+","Klein Wanzleben
+","Sachsen-Anhalt Sachsen-Anhalt
+","1994
+","
+","23 MW (Netto)
+Eigenstromversorgung der örtlichen Zuckerfabrik
+
+","Nordzucker AG, Werk Klein Wanzleben
+","
+"
+158,"Raffineriekraftwerk Köln-Godorf[3]
+","215
+","235
+","Erdgas
+Mineralölprodukte Raffineriegas
+Schweröl
+
+","Köln
+","Nordrhein-Westfalen Nordrhein-Westfalen
+","1988/2004
+","0!(bis 2021 Umstellung der Schwerölkessel auf Erdgas[135])
+","114 MW (Netto)
+Eigenstrom- und Dampfversorgung der Rheinland Raffinerie
+
+","Shell Deutschland Oil GmbH
+","
+"
+159,"Industriekraftwerk INEOS-Köln O10[3]
+","107
+","?
+","HeizölCracköl
+Produktions­rückstände
+
+","Köln-Worringen
+","Nordrhein-Westfalen Nordrhein-Westfalen
+","Block T21: 1964
+Block T22: 1964
+Block T23: 1963
+Block T24: 1966
+Block T31: 1967
+(Kessel 7: 2020)
+
+","2020!
+(Block T31: 2020[136])
+
+","Block T21: 16 MW (Netto)
+Block T22: 19 MW (Netto)
+Block T23: 16 MW (Netto)
+Block T24: 10 MW (Netto)
+Block T31: 34 MW (Netto)
+Eigenstrom- und Dampfversorgung des örtlichen Chemieparks
+(Kessel 7: GuD-Anlage mit 63 MWel im Bau, Inbetriebnahme war 2019 geplant[137])
+
+","INEOS Manufacturing Deutschland GmbH
+","
+"
+160,"Heizkraftwerk Köln-Merheim[138]
+","33
+","30
+","Erdgas
+","Köln-Merheim
+","Nordrhein-Westfalen Nordrhein-Westfalen
+","GuD: 2001
+BHKW: 2020
+
+","GuD: 2020
+BHKW: 2020
+
+","GuD: 16 MW (Netto)
+BHKW: 33 MW (Netto)
+
+","RheinEnergie AG
+","
+"
+161,"Heizkraftwerk Köln-Merkenich[3]
+","213 (davon ca. 83 Braunkohle und ca. 130 Erdgas)
+","248
+","Schweröl: Blöcke 1, 2, 3, 4 (bis 1989), 5 (bis 1989)
+Braunkohle: Block 6
+Erdgas: Blöcke 4 (seit 1989), 5 (seit 1989), GuD
+
+","Köln-Merkenich
+","Nordrhein-Westfalen Nordrhein-Westfalen
+","Block 1: 1959
+Block 2: 1962
+Block 3: 1965
+Block 4: 1964/89
+Block 5: 1969/89
+GuD: 2004
+Block 6: 2010
+
+","0!Block 1: 1986
+Block 2: 1986
+Block 3: 1986
+Block 4: ?
+Block 5: 2004
+GuD: ?
+(Block 6: 2025[139])
+
+","Block 1: ca. 5 MW (Netto)
+Block 2: ca. 20 MW (Netto)
+Block 3: ca. 55 MW (Netto)
+Block 4: 16 MW (Netto)
+Block 5: ca. 95 MW (Netto)
+GuD: 108 MW (Netto)
+Block 6: 75 MW (Netto)
+
+","RheinEnergie AG
+","!551.0180645506.964483551° 01′ 05,0″ N, 006° 57′ 52,1″ O51.0180638888896.9644833333333
+"
+162,"Heizkraftwerk Köln-Niehl[140]
+","881
+","635
+(750 MWh Wärmespeicher)
+
+","Erdgas
+","Köln-Niehl
+","Nordrhein-Westfalen Nordrhein-Westfalen
+","Block 1: 1977
+Block 2: 2005
+Block 3: 2016
+
+","Block 1: 2008
+
+
+","Block 1: ca. 300 MW (Netto)
+Block 2: 413 (400) MW (Netto)
+Block 3: 460 (450) MW (Netto)
+je nach Quelle unterschiedliche Leistungsangaben
+
+","RheinEnergie AG
+","
+"
+163,"Heizkraftwerk Könnern[3]
+","29
+","150
+","Braunkohle
+","Könnern
+","Sachsen-Anhalt Sachsen-Anhalt
+","1993/2014
+","0!
+","20 MW (Netto)
+Eigenstrom- und Dampfversorgung der örtlichen Zuckerfabrik
+
+","Pfeifer & Langen GmbH & Co. KG
+","51° 40'  34.2"" N, 011° 46' 06.7"" O
+"
+164,"Industriekraftwerk Krefeld-Uerdingen[3]
+","ca. 145
+","460
+","Steinkohle
+ErdgasProduktions­rückstände
+
+","Krefeld
+","Nordrhein-Westfalen Nordrhein-Westfalen
+","L 57: 1957
+N 230: 1971
+
+","0!
+","L 57: 26 MW (Netto)
+N 230: 110 MW (Netto)
+Eigenstrom- und Dampfversorgung für den Chempark Krefeld-Uerdingen
+GuD-Kraftwerk mit max. 1200 MWel geplant[141]
+
+","Currenta GmbH & Co. OHG
+","
+"
+165,"Industriekraftwerk Kriebstein[142]
+","14
+","ca. 35
+","Erdgas
+
+Heizöl
+
+","Kriebstein
+","Sachsen Sachsen
+","1993
+","
+","13 MW (Netto)
+Eigenstrom- und Dampfversorgung der örtlichen Papierfabrik
+
+","Kübler & Niethammer Papierfabrik Kriebstein AG
+","
+"
+166,"Kraftwerk Robert Frank[143](Kraftwerk Landesbergen)
+","532 (davon 510 Erdgas und 22 Biomasse)
+","30
+","Erdgas: GT und DT
+Biomasse: Block 5
+
+","Landesbergen
+","Niedersachsen Niedersachsen
+","GT: 1973
+DT: 1973
+Block 5: 2003
+
+","0!GT: ?
+DT: 2013[73] (Kaltreserve)
+
+","GT: 56 MW (Netto)
+DT: 431 MW (Netto)
+Block 5: 20 MW (Netto)
+
+","Statkraft Markets GmbH
+","!552.5467225509.113028552° 32′ 48,2″ N, 009° 06′ 46,9″ O52.5467222222229.1130277777778
+"
+167,"KWK-Anlage Landshut[3]
+","ca. 20
+","?
+","Erdgas
+","Landshut
+","Bayern Bayern
+","2019
+","
+","18 MW (Netto)
+Eigenstrom- und Dampfversorgung der örtlichen PKW-Fabrik
+
+","BMW AG
+","
+"
+168,"Kraftwerk Lausward[144]
+","853
+","555 (1340 MWh Wärmespeicher)
+","Erdgas
+","Düsseldorf-Hafen
+","Nordrhein-Westfalen Nordrhein-Westfalen
+","GuD A: 2000
+DT E: 1977
+GT E1: 1974
+GT E2: 1974
+GuD F: 2016
+
+","0!DT E: 2019
+
+
+","GuD A: 100 MW (Netto)
+DT E: 293 MW (Netto)
+GT E1: 67 MW (Netto)
+GT E2: 65 MW (Netto)
+GuD F: 595 MW (Netto)
+(davon insgesamt 50 MW Bahnstrom)
+
+","Stadtwerke Düsseldorf AG
+","!551.2208425506.731572551° 13′ 15,0″ N, 006° 43′ 53,7″ O51.2208416666676.7315722222222
+"
+169,"Dieselkraftwerk Leinau[145]
+","12
+","0
+","Heizöl
+","Pforzen
+","Bayern Bayern
+","1978
+","
+","11 MW (Netto)
+","Vereinigte Wertach-Elektrizitätswerke GmbH
+","
+"
+170,"Heizkraftwerk Leipzig-Nord[146]
+","174
+","200
+(225 MWh Wärmespeicher)
+
+","Erdgas
+
+Heizöl
+
+","Leipzig
+","Sachsen Sachsen
+","1996/2010
+","0!
+","167 MW (Netto)
+(Gasturbinenanlage mit 120 MWel in Dölnitz (HKW Süd) in Planung[147])
+
+","Stadtwerke Leipzig
+","
+"
+171,"Industriekraftwerk Leppersdorf[148]
+","36
+","ca. 60
+","Erdgas
+Klärgas
+
+","Leppersdorf
+","Sachsen Sachsen
+","2014
+","
+","34 MW (Netto)
+Eigenstrom- und Dampfversorgung für Milchverarbeitungsbetrieb
+
+","Unternehmensgruppe Theo Müller
+","
+"
+172,"GuD-Kraftwerk Leuna[3]
+","ca. 200
+","?
+","Erdgas
+","Leuna
+","Sachsen-Anhalt Sachsen-Anhalt
+","GT 1: 1994
+GT 2: 1994
+GT 3: 1994
+DT 1: 1994
+GuD: 1998
+EKT: 2000
+KT1: 2010
+
+","0!
+","GT 1: 35 MW (Netto)
+GT 2: 35 MW (Netto)
+GT 3: 37 MW (Netto)
+DT 1: 9 MW (Netto)
+GuD: 39 MW (Netto)
+EKT: 14 MW (Netto)
+KT1: 20 MW (Netto)
+
+","GT2: TOTAL Raffinerie Mitteldeutschland GmbH
+Rest: InfraLeuna Energiegesellschaft mbH
+
+","
+"
+173,"Raffineriekraftwerk Leuna[149]
+","162
+","208
+","EBS (Raffinerie­rückstände)
+","Leuna
+","Sachsen-Anhalt Sachsen-Anhalt
+","1997
+","0!
+","93 MW (Netto)
+Eigenstrom- und Dampfversorgung des örtlichen Chemieparks
+
+","Steag GmbH
+","!551.2981085512.019506551° 17′ 53,2″ N, 012° 01′ 10,2″ O51.29810833333312.019505555556
+"
+174,"Industriekraftwerk Leverkusen[3]
+","137 (davon ca. 27 Erdgas und ca. 110 Steinkohle)
+","711
+","Steinkohle: Block G 22
+Erdgas: Block X 50
+
+","Leverkusen
+","Nordrhein-Westfalen Nordrhein-Westfalen
+","G 22: 1962
+X 50: 1981
+
+","0!
+","G 22: 103 MW (Netto)
+X 50: 25 MW (Netto)
+Eigenstrom- und Dampfversorgung für den Chempark Leverkusen
+(GuD-Kraftwerk mit 570 MWel von der Steag GmbH geplant[150])
+
+","Currenta GmbH & Co. OHG
+","
+"
+175,"Raffineriekraftwerk Lingen[3]
+","68
+","?
+","ErdgasRaffineriegas
+","Lingen
+","Niedersachsen Niedersachsen
+","1996
+","0!
+","66 MW (Netto)
+Eigenstrom- und Dampfversorgung der Raffinerie Emsland
+
+","BP Europe SE
+","!552.5620365507.302636552° 33′ 43,3″ N, 007° 18′ 09,5″ O52.5620361111117.3026361111111
+"
+176,"Erdgaskraftwerk Emsland[151]
+","1864
+","124
+","Erdgas
+","Lingen
+","Niedersachsen Niedersachsen
+","Block A: 1972
+GT B: 1973/2012
+GT C: 1974/2012
+GT D: 2010
+DT B: 1973
+DT C: 1974
+DT D: 2010
+
+","0!
+Block A: 1985
+
+
+
+
+
+","Block A: 50 MW (Netto)
+GT B: 116 MW (Netto)
+GT C: 116 MW (Netto)
+GT D: 562 MW (Netto)
+DT B: 359 MW (Netto)
+DT C: 359 MW (Netto)
+DT D: 314 MW (Netto)
+(jeweils 2 Gasturbinen pro Block B, C, D)
+
+","RWE Generation SE
+","!552.4808145507.305586552° 28′ 50,9″ N, 007° 18′ 20,1″ O52.4808138888897.3055861111111
+"
+177,"Kraftwerk Lippendorf[152]
+","1840
+","330
+(460 möglich)
+
+","Braunkohle
+Biomasse (Klärschlamm)
+
+","Neukieritzsch
+","Sachsen Sachsen
+","Block R: 1999
+Block S: 2000
+
+","0!
+Block R: 2035 spätestens[39]
+Block S: 2035 spätestens[39]
+
+","Block R: 875 MW (Netto)
+Block S: 875 MW (Netto)
+
+Platz 8 – mit ~11,9 Mio. Jahrestonnen CO2 – auf der Liste der Kraftwerke mit dem höchsten CO2-Ausstoß in der EU.[2]
+
+","Block R: EnBW
+Block S: LEAG
+
+","!551.1767695512.376372551° 10′ 36,4″ N, 012° 22′ 34,9″ O51.17676944444412.376372222222
+"
+178,"Heizkraftwerk Lübbenau[153]
+","4
+","45 (davon 4 aus KWK)
+","Erdgas
+","Lübbenau
+","Brandenburg Brandenburg
+","alte BHKWs: 2003
+neues BHKW: 2018
+
+","
+","4 MW (Netto)
+","Stadt- und Überlandwerke GmbH Luckau-Lübbenau
+","
+"
+179,"Trianel Kohlekraftwerk Lünen (Kraftwerk Lünen-Stummhafen)[154]
+","820
+","35
+","Steinkohle
+","Lünen
+","Nordrhein-Westfalen Nordrhein-Westfalen
+","Block 1: 2013
+","0!Block 1: ?
+","Block 1: 735 MW (Netto)
+","Trianel Kohlekraftwerk Lünen  GmbH & Co. KG
+","
+"
+180,"Kraftwerke BASF-Ludwigshafen[155][156]
+","1033
+","1240
+","Erdgas
+Reste aus der Chemieproduktion
+
+","Ludwigshafen am Rhein
+","Rheinland-Pfalz Rheinland-Pfalz
+","Nord: 1964/2005
+Mitte: 1992/2005
+Süd: 1997
+
+","0!
+","Nord: 123 (88) MW (Netto)
+Mitte: 491 (545) MW (Netto)
+Süd: 390 (410) MW (Netto)
+je nach Quelle unterschiedliche Leistungsangaben; Eigenstrom- und Dampfversorgung für den örtlichen Chemiepark;
+anfänglich in den 70er Jahren als Kernkraftwerk geplant
+
+","BASF SE
+","!549.5130645508.431611549° 30′ 47,0″ N, 008° 25′ 53,8″ O49.5130638888898.4316111111111
+"
+181,"Fernheizkraftwerk Lundwigshafen[157]
+","33
+","?
+","Erdgas, Heizöl, Abfall
+","Ludwigshafen am Rhein
+","Rheinland-Pfalz Rheinland-Pfalz
+","1967
+","
+","28 MW (Netto)
+nutzt Dampf von benachbarter Müllverbrennungsanlage
+
+","Technische Werke Ludwigshafen AG
+","
+"
+182,"Industriekraftwerk und Blockheizkraftwerk Ludwigshafen[158]
+","ca. 26
+","?
+","Erdgas
+","Ludwigshafen am Rhein
+","Rheinland-Pfalz Rheinland-Pfalz
+","Industriekraftwerk: 2003
+BHKW: 2008
+
+","
+","Industriekraftwerk: 12 MW (Netto)
+BHKW: 13 MW (Netto)
+Eigenstrom- und Dampfversorgung für den örtlichen Chemiepark
+
+","MVV Energie AG
+","
+"
+183,"Kraftwerke Mainz-Wiesbaden[159]
+","767
+","160 (750 MWh Wärmespeicher)
+","Erdgas (laufende Blöcke)
+Steinkohle (stillgelegte Blöcke)
+
+","Mainz
+","Rheinland-Pfalz Rheinland-Pfalz
+","Block 1-1: 1958
+Block 1-2: 1963
+Block 1-3: 1966
+Block 2-1: 1976
+Block 3-1: 2000
+(KW 5: 2019)
+
+","Block 1-1: 2000
+Block 1-2: 2000
+Block 1-3: 2000
+Block 2-1: 2011 (Netzreserve)
+
+
+","Block 1-1: ca. 100 MW (Netto)
+Block 1-2: ca. 100 MW (Netto)
+Block 1-3: ca. 100 MW (Netto)
+Block 2-1: 335 MW (Netto)
+Block 3-1: 406 MW (Netto)
+nutzt auch Dampf von benachbarter Müllverbrennungsanlage[160]
+(KW 5: Gasmotorenkraftwerk mit 100 MWel und 100 MWth im Bau[161])
+
+","Kraftwerke Mainz-Wiesbaden AG (KMW)
+","50° 1' 35.544""  N, 008° 14' 30.163"" O
+"
+184,"Großkraftwerk Mannheim (GKM)[162]
+","2146
+","1500 (1500 MWh Wärmespeicher)
+","Steinkohle
+","Mannheim
+","Baden-Württemberg Baden-Württemberg
+","Block 1: 1954
+Block 2: 1962
+Block 3: 1966
+Block 4: 1970 
+Block 5: 1973 
+Block 6: 1975/2005
+Block 7: 1982
+Block 8: 1993
+Block 9: 2015
+
+","0!Block 1: 1993
+Block 2: 1993
+Block 3: 2015
+Block 4: 2015
+Block 5: 2000
+Block 6: ?
+Block 7: ?
+Block 8: ?
+Block 9: ?
+
+","Block 1: ca. 200 MW (Netto)
+Block 2: ca. 200 MW (Netto)
+Block 3: 203 MW (Netto)
+Block 4: 203 MW (Netto) 
+Block 5: 203 MW (Netto)
+Block 6: 255 MW (Netto)
+Block 7: 425 MW (Netto)
+Block 8: 435 MW (Netto)
+Block 9: 843 MW (Netto)
+(davon insgesamt 310 MW Bahnstrom)
+
+","Großkraftwerk Mannheim AG
+(EnBW Energie Baden-Württemberg AG,  MVV Energie AG)
+
+","!549.4444445508.498056549° 26′ 40,0″ N, 008° 29′ 53,0″ O49.4444444444448.4980555555556
+"
+185,"Kraftwerk Marbach[111]
+","437
+","0
+","Öl (Heizöl)
+","Marbach am Neckar
+","Baden-Württemberg Baden-Württemberg
+","Block 1: 1940
+GT II: 1971
+GT III: 1975
+DT III: 1975
+
+","Block 1: 19852019!
+GT II: untersagt bis 1 Jahr nach Beginn der Engpassbewirtschaftung Deutschland/Österreich (1. Oktober 2018)[6], längstens bis 31. März 2020[1]
+GT III: wie GT II
+DT III: wie GT II, war von 1998 bis 2005 in Kaltreserve
+
+","GT II: 77 MW (Netto)
+GT III: 85 MW (Netto)
+DT III: 264 MW (Netto)
+
+","EnBW Energie Baden-Württemberg AG
+","!548.9274695509.230072548° 55′ 38,9″ N, 009° 13′ 48,3″ O48.9274694444449.2300722222222
+"
+186,"Kraftwerk Meggle[3]
+","ca. 15
+","?
+","Erdgas
+","Reitmehring
+","Bayern Bayern
+","2000
+","
+","15 MW (Netto)
+Eigenstrom- und Dampfversorgung für Molkerei
+
+","Molkerei Meggle Wasserburg GmbH & Co. KG
+","
+"
+187,"Kraftwerk Mehrum[163]
+","750
+","0
+","Steinkohle
+Klärschlamm
+
+","Hohenhameln
+","Niedersachsen Niedersachsen
+","Block 3: 1979/2003
+","2020!(Block 3: 2021?[164])
+","Block 3: 690 MW (Netto)
+","KWM-GmbH
+(EPH)
+
+","!552.3150445510.093792552° 18′ 54,2″ N, 010° 05′ 37,7″ O52.31504444444410.093791666667
+"
+188,"Dieselkraftwerk Mindelheim[145]
+","11
+","0
+","Heizöl
+","Mindelheim
+","Bayern Bayern
+","1988
+","
+","11 MW (Netto)
+","Vereinigte Wertach-Elektrizitätswerke GmbH
+","
+"
+189,"Industriekraftwerk Moritzburg[3]
+","ca. 70
+","?
+","Erdgas
+","Moritzburg
+","Sachsen Sachsen
+","Block 1: 1998
+Block 2: 2005
+
+","
+","Block 1: 34 MW (Netto)
+Block 2: 34 MW (Netto)
+Eigenstrom- und Dampfversorgung für Globalfoundries-Fabrik
+
+","Energieversorgungscenter Dresden-Wilschdorf GmbH & Co. KG
+","
+"
+190,"Energiezentrale des Flughafen München[3]
+","ca. 40
+","> 22
+","Energiezentrale: Erdgas, Heizöl
+Erweiterung 1: Erdgas
+Erweiterung 2: Erdgas
+
+","München
+","Bayern Bayern
+","Energiezentrale: 1992
+Erweiterung 1: 2003
+Erweiterung 2: 2016
+
+","
+","Energiezentrale: 10 MW (Netto)
+Erweiterung 1: 7 MW (Netto)
+Erweiterung 2: 17 MW (Netto)
+
+","Flughafen München GmbH / Terminal 2 Gesellschaft mbH & Co oHG
+","
+"
+191,"Heizkraftwerk München Freimann[165]
+","(106) im Bau
+","260 (+ 125 im Bau) (ca. 1200 MWh und ca. 350 MWh Wärmespeicher)
+","Erdgas
+","München
+","Bayern Bayern
+","GT 1 (alt): 1975
+GT 2 (alt): 1975
+GT 1 (neu): (2019?)
+GT 2 (neu): (2019?)
+
+","GT 1 (alt): 2015
+GT 2 (alt): 2015
+
+","GT 1 (alt): 80 MW (Netto)
+GT 2 (alt): 80 MW (Netto)
+GT 1 (neu): (50 MW (Netto) im Bau)
+GT 2 (neu): (50 MW (Netto) im Bau)
+
+","Stadtwerke München Services GmbH
+","
+"
+192,"Heizkraftwerk München-Nord[165]
+","414 (davon 365 Steinkohle und 49 Müll)
+","900 (davon 722 aus KWK)
+","Steinkohle: Block 2Erdgas: Block 2
+Klärschlamm: Block 2
+EBS (Müll): Blöcke 1, 3
+
+","Unterföhring
+","Bayern Bayern
+","Block 1: 1991
+Block 2: 1991
+Block 3: 1984
+
+","2022!
+Block 1: ?
+(Block 2: 2022 spätestens nach Bürgerbegehren[166]; ursprünglich spätestens 2035, nach aktueller Planung spätestens 2028[167]) 
+Block 3: ?
+
+","Block 1: 18 MW (Netto)
+Block 2: 333 MW (Netto)
+Block 3: 22 MW (Netto)
+
+","Stadtwerke München Services GmbH
+","!548.1812335511.639822548° 10′ 52,4″ N, 011° 38′ 23,4″ O48.18123333333311.639822222222
+"
+193,"Heizkraftwerk München Süd[165]
+","698
+","814
+","Erdgas
+","München
+","Bayern Bayern
+","DT 1: 1980
+GT 2: 1980
+GT 3: 1980
+DT 60: 2004
+GT 61: 2004
+GT 62: 2004
+
+","0!
+","DT 1: 80 MW (Netto)
+GT 2: 98 MW (Netto)
+GT 3: 98 MW (Netto)
+DT 60: 128 MW (Netto)
+GT 61: 125 MW (Netto)
+GT 62: 124 MW (Netto)
+
+","Stadtwerke München Services GmbH
+","!548.1140365511.555783548° 06′ 50,5″ N, 011° 33′ 20,8″ O48.11403611111111.555783333333
+"
+194,"Heizkraftwerk Münster Hafen[168]
+","104
+","250 (davon 120 aus KWK; 545 MWh Wärmespeicher)
+","Erdgas, Heizöl
+","Münster
+","Nordrhein-Westfalen Nordrhein-Westfalen
+","GuD: 2005
+","0!
+","GuD: 100 MW (Netto)
+","Stadtwerke Münster GmbH
+","!551.9500835507.641278551° 57′ 00,3″ N, 007° 38′ 28,6″ O51.9500833333337.6412777777778
+"
+195,"Heizkraftwerk Neubrandenburg[169]
+","77
+","90 (700 MWh Wärmespeicher im Bau[170]; Aquiferspeicher)
+","Erdgas
+","Neubrandenburg
+","Mecklenburg-Vorpommern Mecklenburg-Vorpommern
+","GuD: 1997/2018
+","
+","GuD: 75 MW (Netto)
+","Neubrandenburger Stadtwerke GmbH
+","
+"
+196,"Heizkraftwerk Neumünster NMS[171]
+","73
+","?
+","SteinkohleEBS (u. a. Müll)
+","Neumünster
+","Schleswig-Holstein Schleswig-Holstein
+","1974
+","0!
+","54 MW (Netto)
+","Stadtwerke Neumünster GmbH
+","
+"
+197,"Kraftwerk Neurath[172]
+","4465
+","9
+(Nutzung zur Heizung eines nahegelegenen Gewächshauses[173])
+
+","Braunkohle
+","Grevenbroich
+","Nordrhein-Westfalen Nordrhein-Westfalen
+","Block A: 1972
+Block B: 1972
+Block C: 1973
+Block D: 1975
+Block E: 1976
+Block F (BoA 2): 2012
+Block G (BoA 3): 2012
+
+","2019!
+(Block A: 31.12.2021)(Block B: 31.12.2021)Block C: 2019(Block D: 31.12.2022)(Block E: 31.12.2022)(Block F (BoA 2): 2038 spätestens[39])(Block G (BoA 3): 2038 spätestens[39])
+
+","Block A: 294 MW (Netto)
+Block B: 294 MW (Netto)
+Block C: 292 MW (Netto)
+Block D: 607 MW (Netto)
+Block E: 604 MW (Netto)
+Block F (BoA 2): 1060 MW (Netto)
+Block G (BoA 3): 1060 MW (Netto)
+
+Platz 2 – mit ~32,4 Mio. Jahrestonnen CO2 – auf der Liste der Kraftwerke mit dem höchsten CO2-Ausstoß in der EU.[2]
+
+","RWE Power AG
+","!551.0378195506.611881551° 02′ 16,1″ N, 006° 36′ 42,8″ O51.0378194444446.6118805555556
+"
+198,"Industriekraftwerk Neustadt[3]
+","ca. 25
+","?
+","Erdgas
+","Neustadt
+","Bayern Bayern
+","1996
+","
+","25 MW (Netto)
+Eigenstrom- und Dampfversorung der Erdölraffinerie Neustadt
+
+","Bayernoil Raffineriegesellschaft mbH
+","
+"
+199,"Kraftwerk Niederaußem[174]
+","3641
+","0
+","Braunkohle
+","Bergheim-Niederaußem
+","Nordrhein-Westfalen Nordrhein-Westfalen
+","Block A: 1963
+Block B: 1963
+Block C: 1965
+Block D: 1968
+Block E: 1970
+Block F: 1971
+Block G: 1974/2008
+Block H: 1974/2008
+Block K (BoA 1): 2002
+
+","0!
+Block A: 2012 (Kaltreserve)Block B: 2012 (Kaltreserve)(Block C: 31.12.2021)(Block D: 31.12.2020)Block E: 2018Block F: 2018(Block G: 2029 spätestens[39])(Block H: 2029 (Sicherheitsbereitschaft)[39])(Block K (BoA 1): 2038 spätestens[39])
+
+","Block A: 125 MW (Netto)
+Block B: 125 MW (Netto)
+Block C: 295 MW (Netto)
+Block D: 297 MW (Netto)
+Block E: 295 MW (Netto)
+Block F: 299 MW (Netto)
+Block G: 628 MW (Netto)
+Block H: 648 MW (Netto)
+Block K (BoA 1): 994 MW (Netto)
+Block L mit 1100 MWel geplant[175], Planung mittlerweile eingestellt[176]
+
+Platz 3 – mit ~27,2 Mio. Jahrestonnen CO2 – auf der Liste der Kraftwerke mit dem höchsten CO2-Ausstoß in der EU.[2]
+
+","RWE Power AG
+","!550.9960865506.671331550° 59′ 45,9″ N, 006° 40′ 16,8″ O50.9960861111116.6713305555556
+"
+200,"Kraftwerk Nordstemmen[3]
+","ca. 35
+","?
+","Erdgas, Steinkohle
+","Nordstemmen
+","Niedersachsen Niedersachsen
+","1953
+","
+","31 MW (Netto)
+Eigenstrom- und Dampfversorgung der örtlichen Zuckerfabrik
+
+","Nordzucker AG, Werk Nordstemmen
+","
+"
+201,"Heizkraftwerk zur Papierfabrik Nortrup[3]
+","ca. 20
+","?
+","Erdgas
+","Nortrup
+","Niedersachsen Niedersachsen
+","1996
+","
+","18 MW (Netto)
+Eigenstrom- und Dampfversorgung der örtlichen Papierfabrik
+
+","Delkeskamp Verpackungswerke GmbH
+","
+"
+202,"Heizkraftwerk Nürnberg-Sandreuth[177]
+","225 (davon ca. 200 Erdgas, 19 Müll und 6 Biomasse)
+","320 (1500 MWh Wärmespeicher)
+","Erdgas: GuD 1, GuD 2
+Abfall: Abfallblock
+Biomasse: Biomasseblock
+
+","Nürnberg
+","Bayern Bayern
+","GuD 1: 2005
+GuD 2: 2005
+Abfallblock: 1996
+Biomasseblock: 2012
+
+","0!
+","GuD 1: 75 MW (Netto)
+GuD 2: 75 MW (Netto)
+Abfallblock: 18 MW (Netto)
+Biomasseblock: 6 MW (Netto)
+
+","N-ERGIE AG
+","49° 26'  11.342"" N, 011° 3' 20.959"" O
+"
+203,"Industriekraftwerk Nürnberg[3]
+","ca. 20
+","?
+","Erdgas
+","Nürnberg
+","Bayern Bayern
+","GT 1: 1993
+GT 2: 1993
+GT 3: 1994
+GT 4: 1995
+
+","(GT 1: 2021?)
+(GT 2: 2021?)
+(GT 3: 2021?)
+(GT 4: 2021?)
+(die dazugehörige Produktion wird 2021 geschlossen[178])
+
+","GT 1: 4 MW (Netto)
+GT 2: 4 MW (Netto)
+GT 3: 5 MW (Netto)
+GT 4: 5 MW (Netto)
+Eigenstrom- und Dampfversorgung der örtlichen Druckerei
+
+","Prinovis GmbH & Co. KG
+","
+"
+204,"Heizkraftwerk Alt-Oberhausen (HWK 1)[3]
+","24
+","ca. 150 (davon 89 aus KWK)
+","Erdgas
+","Oberhausen
+","Nordrhein-Westfalen Nordrhein-Westfalen
+","1971/79
+","0!
+","23 MW (Netto)
+Nutzt auch Abwärme aus der benachbarten Müllverbrennungsanlage (GMVA)
+
+","Energieversorgung Oberhausen AG
+","!551.4706945506.861250551° 28′ 14,5″ N, 006° 51′ 40,5″ O51.4706944444446.86125
+"
+205,"Heizkraftwerk Oberhausen-Sterkrade (HKW 2)[3]
+","29 (davon 25 Erdgas und 4 Biomasse)
+","ca. 75 (davon 44 aus KWK)
+","ErdgasBiomasse
+","Oberhausen-Sterkrade
+","Nordrhein-Westfalen Nordrhein-Westfalen
+","1996
+Biomasseblock: 2011
+
+","0!
+","25 MW (Netto)
+Biomasseblock: 3 MW (Netto)
+
+","Energieversorgung Oberhausen AG
+","!551.5115285506.929778551° 30′ 41,5″ N, 006° 55′ 47,2″ O51.5115277777786.9297777777778
+"
+206,"Industriekraftwerk Oberkirch[3]
+","ca. 20
+","?
+","Steinkohle
+","Oberkirch
+","Baden-Württemberg Baden-Württemberg
+","1986
+","
+","19 MW (Netto)
+Eigenstrom- und Dampfversorgung der örtlichen Papierfabrik
+
+","Koehler SE
+","
+"
+207,"Kraftwerk Obernburg[3]
+","110
+","112
+","Erdgas
+","Obernburg am Main
+","Bayern Bayern
+","Block 1: 1995
+Block 2: 1920?/2010?
+
+","0!
+","Block 1: 64 MW (Netto)
+Block 2: 36 MW (Netto)
+Eigenstrom- und Dampfversorgung für das Industrie Center Obernburg;
+Erweiterung oder Ersatzneubau durch GuD mit 114 MWel und 238 MWth[179]
+
+","Kraftwerk Obernburg GmbH
+","49° 49'  44.144"" N, 009° 8' 53.39"" O
+"
+208,"Heizkraftwerk Offenbach[180]
+","60
+","100 (350 MWh Wärmespeicher)
+","SteinkohleBiomasse
+","Offenbach
+","Hessen Hessen
+","1990
+","0!
+","54 MW (Netto)
+","Energieversorgung Offenbach AG
+","
+"
+209,"Heizkraftwerk Offstein[3]
+","ca. 35
+","?
+","Erdgas
+","Obrigheim
+","Rheinland-Pfalz Rheinland-Pfalz
+","1961
+","
+","30 MW (Netto)
+Eigenstrom- und Dampfversorgung der örtlichen Zuckerfabrik
+
+","Südzucker AG Mannheim
+","
+"
+210,"Heizkraftwerk Osnabrück[3]
+","ca. 20
+","?
+","Braunkohle, Steinkohle, EBS
+","Osnabrück
+","Niedersachsen Niedersachsen
+","Turbine 4: 1962
+Turbine 5: 1972
+
+","
+","Turbine 4: 10 MW (Netto)
+Turbine 5: 10 MW (Netto)
+Eigenstrom- und Dampfversorgung der örtlichen Papierfabrik
+
+","Kämmerer Energie GmbH
+","
+"
+211,"Heizkraftwerk Pforzheim[181]
+","105
+","182 (davon 127 aus KWK)
+","Steinkohle: WirbelschichtblockErdgas: Kombiblock, Gaskesselanlagen
+EBS: Wirbelschichtblock
+Biomasse: Biomasseblock
+
+","Pforzheim
+","Baden-Württemberg Baden-Württemberg
+","Gaskesselanlage 1: 1965
+Gaskesselanlage 2: 1969
+Kombiblock/GuD: 1980
+Wirbelschichtblock: 1990
+Biomasseblock: 2004
+BHKW: 2017
+
+","2023!
+Gaskesselanlage 2: 2016
+(Kombiblock GuD: 2023)
+(Wirbelschichtblock: 2023)
+(Kohleverbrennung: 2021[182])
+
+","Gaskesselanlage 1: ca. 15 MW (Netto)
+Gaskesselanlage 2: 11 MW (Netto)
+Kombiblock GuD: 41 MW (Netto)
+Wirbelschichtblock: 27 MW (Netto)
+Biomasseblock: 12 MW (Netto)
+BHKW: 2 MW (Netto)
+(Gasmotorenkraftwerk mit 50 MWel und 47 MWth im Bau[183])
+
+","Heizkraftwerk Pforzheim GmbH
+","
+"
+212,"Kraftwerk Plattling[3]
+","125
+","150
+","Erdgas
+","Plattling
+","Bayern Bayern
+","2010
+","0!
+","119 MW (Netto)
+Eigenstrom- und Dampfversorgung der örtlichen Papierfabrik; 
+Stromversorgung des Daimler-Werkes Sindelfingen
+
+","Daimler AG
+","48° 47'  16.048"" N, 012° 52' 59.606"" O
+"
+213,"Heizkraftwerk Potsdam-Süd[184]
+","84
+","450 (davon 270 aus KWK; 1200 MWh Wärmespeicher)
+","Erdgas
+","Potsdam
+","Brandenburg Brandenburg
+","1995
+","0!
+","82 MW (Netto)
+","Stadtwerke Potsdam
+","!552.3652065513.113053552° 21′ 54,7″ N, 013° 06′ 47,0″ O52.36520555555613.113052777778
+"
+214,"Heizkraftwerk Raubling[185]
+","27
+","70
+","Erdgas
+","Raubling
+","Bayern Bayern
+","2001
+","
+","24 MW (Netto)
+Eigenstrom- und Dampfversorgung der örtlichen Papierfabrik
+
+","HBB Heizkraftwerk Bauernfeind Betriebsgesellschaft mbH
+","
+"
+215,"Industriekraftwerk Regensburg[3]
+","ca. 15
+","?
+","Erdgas
+","Regensburg
+","Bayern Bayern
+","Block 1: 2012
+Block 2: 2016
+
+","
+","Block 1: 11 MW (Netto)
+Block 2: 3 MW (Netto)
+Eigenstrom- und Dampfversorgung der örtlichen PKW-Fabrik
+
+","BMW AG
+","
+"
+216,"Blockheizkraftwerk Reutlingen Hauffstraße[186]
+","10
+","52 (davon 12 aus KWK)
+","Erdgas
+","Reutlingen
+","Baden-Württemberg Baden-Württemberg
+","1992/2007/2011
+","
+","10 MW (Netto)
+","FairEnergie GmbH
+","
+"
+217,"Industriekraftwerk Rheinberg[3]
+","133
+","?
+","Steinkohle
+Erdgas
+
+","Rheinberg
+","Nordrhein-Westfalen Nordrhein-Westfalen
+","1975
+","0!
+","79 MW (Netto)
+Eigenstrom- und Dampfversorgung für den örtlichen Chemiepark
+(Holzkraftwerk mit 15 MWel und ca. 70 MWth geplant[187])
+
+","Solvay Chemicals GmbH
+","
+"
+218,"Heizkraftwerk Rheinfelden[3]
+","ca. 20
+","?
+","Erdgas
+Wasserstoff
+
+","Rheinfelden
+","Baden-Württemberg Baden-Württemberg
+","1979
+","
+","16 MW (Netto)
+Eigenstrom- und Dampfversorgung für den örtlichen Chemiepark
+
+","Evonik Degussa GmbH
+","
+"
+219,"Kraftwerk Römerbrücke[188]
+","133 (davon 56 Kohle und 77 Erdgas)
+","235
+","SteinkohleErdgas
+","Saarbrücken
+","Saarland Saarland
+","Kohleblock: 1964/89
+GuD-Block: 1967/74/75/2005/11
+(GAMOR: 2022)
+
+","0!(Kohleblock: 2022[189])
+
+
+","Kohleblock: 50 MW (Netto)
+GuD-Block: 75 MW (Netto)
+(Gasmotorenkraftwerk mit 50 MWel und 50 MWth sowie Fernwärmespeicher im Bau[189])
+
+","Electrabel Saarland GmbH
+","!549.2236115507.015000549° 13′ 25,0″ N, 007° 00′ 54,0″ O49.2236111111117.015
+"
+220,"Kraftwerk Rosenheim-Färberstraße[3]
+","ca. 25 (davon ca. 10 Müll und ca. 15 Erdgas)
+","? (ca. 50 MWh Wärmespeicher)
+","Erdgas: GM 1-3, GM 4
+Müll, Erdgas, Heizöl: T1a/b, T2
+
+","Rosenheim
+","Bayern Bayern
+","GM 1-3: 2011
+GM 4: 2013
+T1a/b, T2: 1988
+
+","
+","GM 1-3: 10 MW (Netto)
+GM 4: 9 MW (Netto)
+T1a/b, T2: 9 MW (Netto)
+
+","Stadtwerke Rosenheim GmbH & Co. KG
+","
+"
+221,"Kraftwerk Rosenheim-Oberaustraße[3]
+","ca. 10
+","?
+","Erdgas
+","Rosenheim
+","Bayern Bayern
+","GM 5: 2012
+","
+","GM 5: 4 MW (Netto)
+","Stadtwerke Rosenheim GmbH & Co. KG
+","
+"
+222,"Kraftwerk Rostock[190]
+","553
+","150
+(300 möglich)
+
+","Steinkohle
+","Rostock
+","Mecklenburg-Vorpommern Mecklenburg-Vorpommern
+","Block 1: 1994
+","0!Block 1: 2038 spätestens
+","Block 1: 514 MW (Netto)
+","KNG Kraftwerks- und Netzgesellschaft mbH
+","!554.1428445512.132950554° 08′ 34,2″ N, 012° 07′ 58,6″ O54.14284444444412.13295
+"
+223,"Kraftwerk Rostock-Marienehe[191]
+","111
+","408 (davon 120 aus KWK)
+","Erdgas
+","Rostock
+","Mecklenburg-Vorpommern Mecklenburg-Vorpommern
+","Block I: 1996/2017
+Block II: 1996/2017
+Block III: 1996/2017
+
+","0!
+","Block I: 36 MW (Netto)
+Block II: 36 MW (Netto)
+Block III: 36 MW (Netto)
+Soll um eine Klärschlamm-Verbrennungsanlage ergänzt werden[192]
+
+","Stadtwerke Rostock AG
+","
+"
+224,"Kraftwerk Rüsselsheim[193]
+","114
+","88
+","Erdgas
+","Rüsselsheim am Main
+","Hessen Hessen
+","1999
+","0!
+","112 MW (Netto)
+Eigenstrom- und Dampfversorgung des örtlichen Opelwerkes
+
+","Opel Automobile GmbH
+","49° 59'  28.684"" N, 008° 23' 33.641"" O
+"
+225,"Heizkraftwerk Saarbrücken-Süd[194]
+","ca. 40
+","33
+(ca. 170 MWh Wärmespeicher)
+
+","Erdgas
+","Saarbrücken
+","Saarland Saarland
+","2012
+","
+","39 MW (Netto)
+Eigenstrom- und Dampfversorgung für Automobilzulieferer
+
+","ZF Friedrichshafen AG
+","
+"
+226,"Energiezentrale Saarlouis[195]
+","ca. 25
+","20
+","Erdgas
+","Saarlouis
+","Saarland Saarland
+","2016
+","
+","22 MW (Netto)
+Eigenstrom- und Wärmeerzeugung für Automobilhersteller
+
+","Ford-Werke GmbH
+","
+"
+227,"Kraftwerk Salzgitter-Hallendorf[196]
+","325
+","?
+","Kuppelgase aus der Stahlerzeugung
+","Salzgitter
+","Niedersachsen Niedersachsen
+","Block AB: 1939/2011
+Block 1: 2010
+Block 2: 2010
+
+","0!
+","Block AB: 95 MW (Netto)
+Block 1: 97 MW (Netto)
+Block 2: 97 MW (Netto)
+Eigenstrom- und Dampfversorgung des örtlichen Stahlwerkes
+
+","Salzgitter Flachstahl GmbH
+","
+"
+228,"Werkskraftwerk Sappi Alfeld[3]
+","ca. 30
+","?
+","Erdgas, Biogas, Heizöl
+","Alfeld
+","Niedersachsen Niedersachsen
+","Gaskraftwerk: 1947
+Dieselgenerator: 1994
+Turbine 5: 2003
+
+","Dieselgenerator: 2018
+","Gaskraftwerk: 11 MW (Netto)
+Dieselgenerator: 3 MW (Netto)
+Turbine 5: 13 MW (Netto)
+Eigenstrom- und Dampfversorgung der örtlichen Spezialpapier-Fabrik
+
+","Sappi Alfeld GmbH
+","
+"
+229,"Werkskraftwerk Sappi Ehingen[3]
+","ca. 30
+","?
+","Erdgas: Turbine 4
+Biomasse: Turbine 3, Turbine 5
+
+","Ehingen
+","Baden-Württemberg Baden-Württemberg
+","Turbine 3: 1961
+Turbine 4: 1977
+Turbine 5: 1990
+
+","
+","Turbine 3: 8 MW (Netto)
+Turbine 4: 4 MW (Netto)
+Turbine 5: 13 MW (Netto)
+Eigenstrom- und Dampfversorgung der örtlichen Spezialpapier-Fabrik
+
+","Sappi Ehingen GmbH
+","
+"
+230,"Werkskraftwerk Sappi Stockstadt[3]
+","ca. 45 (davon ca. 30 Steinkohle und ca. 15 Biomasse)
+","?
+","Steinkohle: Steinkohleblock
+Biomasse: Biomasseblock
+
+","Stockstadt
+","Bayern Bayern
+","Steinkohleblock: 1970
+Biomasseblock: 2003
+
+","
+","Steinkohleblock: 25 MW (Netto)
+Biomasseblock: 14 MM (Netto)
+Eigenstrom- und Dampfversorgung der örtlichen Spezialpapier-Fabrik
+
+","Sappi Stockstadt GmbH
+","
+"
+231,"Schönfelder Papierfabrik GmbH / Getec AG
+","1,0
+","
+","Braunkohle
+","Schönfeld (Landkreis Meißen)
+","Sachsen Sachsen
+","2007
+","0!
+","
+","Getec-Gruppe
+","
+"
+232,"Kraftwerk Schkopau[197]
+","1100
+","200
+","Braunkohle
+","Schkopau
+","Sachsen-Anhalt Sachsen-Anhalt
+","Block A: 1996
+Block B: 1996
+
+","2035!
+(Block A: 2035[198])
+(Block B: 2035[198])
+
+","Block A: 450 MW (Netto)
+Block B: 450 MW (Netto)
+davon insgesamt 110 MW (Netto) Bahnstrom
+
+","Uniper Kraftwerke GmbH
+","!551.3984565511.950325551° 23′ 54,4″ N, 011° 57′ 01,2″ O51.39845555555611.950325
+"
+233,"Kraftwerk Scholven[199]
+","828
+","250
+","Steinkohle: Blöcke B, C, D, E, F, FKW BuerÖl (Schweröl): Blöcke G, H
+Petrolkoks: Blöcke B, C, FKW Buer
+
+","Gelsenkirchen
+","Nordrhein-Westfalen Nordrhein-Westfalen
+","Block B: 1968
+Block C: 1969
+Block D: 1970
+Block E: 1971
+Block F: 1979
+Block FWK Buer: 1985
+Block G: 1974
+Block H: 1975
+(GuD: 2022)
+
+","(Block B: 2022)(Block C: 2022)Block D: 2014Block E: 2014Block F: 2014(Block FWK Buer: 2022)Block G: 2001Block H: 2003
+","Block B: 345 MW (Netto)
+Block C: 345 MW (Netto)
+Block D: 345 MW (Netto)
+Block E: 345 MW (Netto)
+Block F: 676 MW (Netto)
+Block FWK Buer: 70 MW (Netto)
+Block G: 640 MW (Netto)
+Block H: 640 MW (Netto)
+(GuD-Kraftwerk mit 130 MWel im Bau, Inbetriebnahme für 2022 vorgesehen)
+
+","Uniper Kraftwerke GmbH
+","!551.6035675507.002067551° 36′ 12,8″ N, 007° 00′ 07,4″ O51.6035666666677.0020666666667
+"
+234,"Kraftwerk Schongau[3]
+","ca. 150
+","?
+","Erdgas: DKW, HKW 3
+Reststoffe aus der Altpapieraufbereitung: HKW 2
+
+","Schongau
+","Bayern Bayern
+","DKW: 1954/2015
+HKW 2: 1989
+HKW 3: 2014
+
+","0!DKW: 2015? (Netzreserve)
+","DKW: 64 MW (Netto)
+HKW 2: 6 MW (Netto)
+HKW 3: 76 MW (Netto)
+Eigenstrom- und Dampfversorgung für die örtliche Papierfabrik
+
+","UPM GmbH
+","
+"
+235,"Heizkraftwerk Schwarza[3][200]
+","ca. 30
+","?
+","Erdgas
+","Rudolstadt
+","Thüringen Thüringen
+","1936
+","
+","27 MW (Netto)
+Eigenstrom- und Dampfversorgung des örtlichen Industriegebietes
+
+","Energie- und Medienversorgung Schwarza GmbH
+","
+"
+236,"Kraftwerk Schwarzheide[3]
+","124
+","209
+","Erdgas
+","Schwarzheide
+","Brandenburg Brandenburg
+","GuD: 1994
+(GT: 2022[201])
+
+","0!
+","122 MW (Netto)
+Eigenstrom- und Dampfversorgung des örtlichen Chemiestandortes; eine der beiden GuD-Turbinensätze wird durch eine GT ersetzt
+
+","BASF Schwarzheide GmbH
+","
+"
+237,"Kraftwerk Schwarze Pumpe[202]
+","1600
+","120
+","Braunkohle
+","Spremberg
+(Industriepark Schwarze Pumpe)
+
+","Brandenburg Brandenburg
+","Block A: 1997
+Block B: 1998
+
+","0!
+Block A: 2038 spätestens
+Block B: 2038 spätestens
+
+","Block A: 750 MW (Netto)
+Block B: 750 MW (Netto)
+
+Platz 10 – mit ~11,6 Mio. Jahrestonnen CO2 – auf der Liste der Kraftwerke mit dem höchsten CO2-Ausstoß in der EU.[2]
+
+","LEAG
+","!551.5358145514.354753551° 32′ 08,9″ N, 014° 21′ 17,1″ O51.53581388888914.354752777778
+"
+238,"Raffineriekraftwerk Schwedt/Oder[3]
+","375,5
+","132
+","EBS (Mineralölprodukte, Ölrückstand, Raffineriegas)
+","Schwedt
+","Brandenburg Brandenburg
+","Block 1: 1998
+Block 2: 1998
+Block 4: 2011
+Block 5: 1972
+Block 6: 1994
+
+","0!
+","Block 1: 106 MW (Netto)
+Block 2: 106 MW (Netto)
+Block 4: 59 MW (Netto)
+Block 5: 28 MW (Netto)
+Block 6: 35 MW (Netto)
+Eigenstrom- und Dampfversorung der PCK-Raffinerie
+
+","PCK Raffinerie GmbH
+","53° 5' 42.95"" N, 14° 13' 55.052"" O
+"
+239,"GKS Gemeinschaftskraftwerk Schweinfurt[203]
+","29
+","60
+","SteinkohleKlärschlamm
+EBS (Hausmüll)
+
+","Schweinfurt
+","Bayern Bayern
+","1990
+","0!
+","24 MW (Netto)
+","Gemeinschaftskraftwerk Schweinfurt GmbH
+","!550.0300865510.223606550° 01′ 48,3″ N, 010° 13′ 25,0″ O50.03008611111110.223605555556
+"
+240,"Heizkraftwerk Schwerin-Lankow[204]
+","24
+","32
+","Erdgas
+","Schwerin
+","Mecklenburg-Vorpommern Mecklenburg-Vorpommern
+","GuD: 1994
+","
+","GuD: 23 MW (Netto)
+","Energieversorgung Schwerin GmbH & Co.
+","
+"
+241,"Heizkraftwerk Schwerin-Süd[204]
+","54
+","60 (ca. 450 MWh Wärmespeicher)
+","Erdgas
+","Schwerin
+","Mecklenburg-Vorpommern Mecklenburg-Vorpommern
+","GuD: 1994
+","
+","GuD: 45 MW (Netto)
+","Energieversorgung Schwerin GmbH & Co.
+","
+"
+242,"Spitzenlastkraftwerk Sermuth[3]
+","ca. 17
+","0
+","Mineralölprodukte
+","Großbothen
+","Sachsen Sachsen
+","1995
+","
+","17 MW (Netto)
+","envia THERM GmbH
+","
+"
+243,"Heizkraftwerk Sigmundshall[3]
+","ca. 15
+","?
+","Erdgas
+","Wunstorf
+","Niedersachsen Niedersachsen
+","1974
+","
+","11 MW (Netto)
+Eigenstrom- und Dampfversorgung für dem örtlichen Kalibergbau;
+Bergbau 2018 eingestellt
+
+","K+S AG
+","
+"
+244,"Heizkraftwerk Sindelfingen[3]
+","102
+","102
+","Erdgas, Heizöl
+","Sindelfingen
+","Baden-Württemberg Baden-Württemberg
+","1986/2013
+","0!
+","95 MW (Netto)
+Eigenstrom- und Dampfversorung des örtlichen Daimler-Werkes
+
+","Daimler AG
+","48° 42' 2.444""  N, 008° 59' 29.18"" O
+"
+245,"Gasturbinen-Heizkraftwerk St. Wendel[3]
+","ca. 22
+","?
+","Erdgas
+","St. Wendel
+","Saarland Saarland
+","2014
+","
+","20 MW (Netto)
+Eigenstrom- und Dampfversorgung für Medizinprodukte-Produktion
+
+","Fresenius Medical Care Deutschland GmbH
+","
+"
+246,"Kraftwerk Stade[3]
+","173
+","?
+","Erdgas
+Wasserstoff
+
+","Stade
+","Niedersachsen Niedersachsen
+","KWK: 1972
+GuD: 2015
+
+","0!KWK: 2014
+
+
+","KWK: 190 MW (Netto)
+GuD: 157 MW (Netto)
+soll um umstrittenes Kohlekraftwerk mit 840 MWel und 230 MWth erweitert werden[205], Planung mittlerweile eingestellt[206]
+
+","Dow Deutschland Aktiengesellschaft mbH
+","
+"
+247,"Kraftwerk Stade-Bützfleth[3]
+","31
+","?
+","Erdgas
+","Stade
+","Niedersachsen Niedersachsen
+","GT 1 und 2: 2012
+","
+","GT 1 und 2: 31 MW (Netto)
+Eigenstrom- und Dampfversorgung des örtlichen Chemieparks
+
+","Aluminium Oxid Stade GmbH
+","
+"
+248,"Kraftwerk Staßfurt[3]
+","123
+","160
+","Erdgas
+","Staßfurt
+","Sachsen-Anhalt Sachsen-Anhalt
+","altes GuD: ?
+neues GuD: 2015
+
+","0!altes GuD: 2015
+","altes GuD: 9 MW (Netto)
+neues GuD: 100 MW (Netto)
+Eigenstrom- und Dampfversorgung des örtlichen Chemieparks
+
+","KWG-Kraftwerksgesellschaft Staßfurt mbH
+","
+"
+249,"Kraftwerk Steinitz[3]
+","ca. 12
+","?
+","Erdgas
+","Steinitz
+","Sachsen-Anhalt Sachsen-Anhalt
+","1999
+","
+","11 MW (Netto)
+Erdgas aus örtlicher Förderung
+
+","Neptune Energy Deutschland GmbH
+","
+"
+250,"Heizkraftwerk Stendal[207]
+","23
+","70 (davon 24 aus KWK; ca. 150 MWh Wärmespeicher)
+","Erdgas
+","Stendal
+","Sachsen-Anhalt Sachsen-Anhalt
+","Gasmotorenkraftwerk: 1994
+","
+","22 MW (Netto)
+wird durch mehrere dezentrale BHKWs mit insgesamt 15 MW el (Netto) und 61 MW th (davon 20 aus KWK) ersetzt[208]
+
+","Stadtwerke Stendal
+","
+"
+251,"Heizkraftwerk Stuttgart-Gaisburg[209]
+","30
+","205 (davon 30 aus KWK; 300 MWh Wärmespeicher)
+","Steinkohle: DT 14Erdgas: HKW 3, GT 13
+Heizöl: HKW 3
+
+","Stuttgart-Gaisburg
+","Baden-Württemberg Baden-Württemberg
+","GT 13: 1973
+DT 14: 2009
+HKW 3: 2018
+
+","0!GT 13: 2014DT 14: 2018
+HWK 3: ?
+
+","GT 13: 55 MW (Netto)
+DT 14: 23 MW (Netto)
+HKW 3: 29 MW (Netto)
+
+","EnBW Energie Baden-Württemberg AG
+","!548.7822475509.231336548° 46′ 56,1″ N, 009° 13′ 52,8″ O48.7822472222229.2313361111111
+"
+252,"Heizkraftwerk Stuttgart-Münster[210]
+","190
+","447
+","Steinkohle: DT 12, DT 15, DT 19EBS (Müll): DT 12, DT 15; DT 19
+Mineralölprodukte: GT 16, GT 17, GT 18
+
+","Stuttgart-Münster
+","Baden-Württemberg Baden-Württemberg
+","GT 16: 1974
+GT 17: 1974
+GT 18: 1974
+DT 12: 1982
+DT 15: 1984
+DT 19: 2009
+
+","0!
+","GT 16: 23 MW (Netto)
+GT 17: 23 MW (Netto)
+GT 18: 23 MW (Netto)
+DT 12: 45 MW (Netto)
+DT 15: 45 MW (Netto)
+DT 19: 20 MW (Netto)
+
+","EnBW Energie Baden-Württemberg AG
+","!548.8153645509.219742548° 48′ 55,3″ N, 009° 13′ 11,1″ O48.8153638888899.2197416666667
+"
+253,"Heizkraftwerk Stuttgart Pfaffenwald[211]
+","39
+","93 (zuzüglich 23 MW Fernkälte)
+","Erdgas, Heizöl
+","Stuttgart-Pfaffenwald
+","Baden-Württemberg Baden-Württemberg
+","GuD-Anlage 40: 1988
+Block 50: 1969
+Block 60: 1968
+
+","
+","GuD-Anlage 40: 12 MW (Netto)
+Block 50: 11 MW (Netto)
+Block 60: 12 MW (Netto)
+
+","Universität Stuttgart
+","
+"
+254,"Nürnberg-Teisnach[212]
+","2,1
+","20,4
+","Braunkohle-Staub
+","Teisnach
+","Bayern Bayern
+","2004
+","0!
+","? MW (Netto)
+Eigenstrom- und Dampfversorgung der örtlichen Spezialpapier-Fabrik
+
+","Pfleiderer Teisnach GmbH & Co. KG / Getec AG
+","
+"
+255,"Gasturbinenkraftwerk Thyrow[213]
+","190
+","0
+","Erdgas
+","Märkisch Wilmersdorf
+","Brandenburg Brandenburg
+","GT A: 1987
+GT B: 1987
+GT C: 1987
+GT D: 1987
+GT E: 1987
+GT F: 1987
+GT G: 1987
+GT H: 1987
+
+","0!GT A: 2016 (Netzreserve)
+GT B: 2016 (Netzreserve)
+GT C: 2016 (Netzreserve)
+GT D: 2016 (Netzreserve)
+GT E: 2016 (Netzreserve)
+GT F: 2016
+GT G: 2016
+GT H: 2016
+
+","GT A: 37 MW (Netto)
+GT B: 37 MW (Netto)
+GT C: 37 MW (Netto)
+GT D: 37 MW (Netto)
+GT E: 38 MW (Netto)
+GT F: 38 MW (Netto)
+GT G: 38 MW (Netto)
+GT H: 38 MW (Netto)
+
+","LEAG
+","!552.2301405513.302160552° 13′ 48,5″ N, 013° 18′ 07,8″ O52.2301413.30216
+"
+256,"Heizkraftwerk Tiefstack[214]
+","347
+(davon 205 Kohle und 142 Erdgas)
+
+","955
+","SteinkohleErdgas
+","Hamburg
+","Hamburg Hamburg
+","Kohleblock: 1993
+GuD-Block: 2009
+
+","0!Kohleblock: 2030[215]
+","Kohleblock: 194 MW (Netto)
+GuD-Block: 127 MW (Netto)
+
+","Vattenfall Hamburg Wärme GmbH
+","!553.5266395510.064194553° 31′ 35,9″ N, 010° 03′ 51,1″ O53.52663888888910.064194444444
+"
+257,"Gemeinschaftskraftwerk Tübingen[216]
+","9
+","30
+","Erdgas
+","Tübingen
+","Baden-Württemberg Baden-Württemberg
+","1996
+","
+","9 MW (Netto)
+","Stadtwerke Tübingen
+","
+"
+258,"Blockheizkraftwerk Tübingen Obere Viehweide[216]
+","13
+","12 (ca. 15 MWh Wärmespeicher)
+","Erdgas
+","Tübingen
+","Baden-Württemberg Baden-Württemberg
+","2000/13/17
+","
+","13 MW (Netto)
+","Stadtwerke Tübingen
+","
+"
+259,"Heizkraftwerk Ulm Magirusstraße[217]
+","36 (davon 21 Kohle und 15 Biomasse)
+","278
+","Steinkohle: HKWErdgas: HKW
+Heizöl: HKWBiomasse: Bio-HKWs
+
+","Ulm-Söflingen
+","Baden-Württemberg Baden-Württemberg
+","HKW: 1992
+Bio-HKW I: 2004
+Bio-HKW II: 2012
+
+","0!
+","HKW: 18 MW (Netto)
+Bio-HKW I: 9 MW (Netto)
+Bio-HKW II: 5 MW (Netto)
+
+","FUG Fernwärme Ulm GmbH
+","!548.3968335509.965917548° 23′ 48,6″ N, 009° 57′ 57,3″ O48.3968333333339.9659166666667
+"
+260,"Heizkraftwerk Uelzen[3]
+","47
+","?
+","Steinkohle, Erdgas, Biogas
+","Uelzen
+","Niedersachsen Niedersachsen
+","1965/1969
+","0!
+","40 MW (Netto)
+Eigenstrom- und Dampfversorgung der örtlichen Zuckerfabrik
+
+","Nordzucker AG, Werk Uelzen
+","52° 58' 40.5""  N, 010° 33' 25.2"" O
+"
+261,"Heizkraftwerk Unterbreizbach[3]
+","ca. 20
+","?
+","Erdgas
+","Unterbreizbach
+","Thüringen Thüringen
+","1995
+","
+","20 MW (Netto)
+Eigenstrom- und Dampfversorgung für den örtlichen Kalibergbau
+
+","K+S AG
+","
+"
+262,"PKV-Kraftwerk[218]
+","ca. 65
+","?
+","Erdgas, Biogas
+","Varel
+","Niedersachsen Niedersachsen
+","Kondensationsturbine: 1968
+KWK-Blöcke: 1989
+Biogasmotoren: 2006
+
+","
+","Kondensationsturbine: 1 MW (Netto)
+KWK-Blöcke: 58 MW (Netto)
+Biogasmotoren: 2 MW (Netto)
+Eigenstrom- und Dampfversorgung für die örtliche Papierfabrik
+
+","Papier- und Kartonfabrik Varel GmbH & Co. KG
+","
+"
+263,"Kraftwerk Völklingen/Fenne[219]
+","508 (davon 466 Kohle und 42 Grubengas)
+","437
+","Steinkohle
+Grubengas
+
+","Völklingen
+","Saarland Saarland
+","Fenne I: 1924
+Fenne II: 1962
+Fenne III: 1967
+MKV: 1982
+HKV: 1989
+Grubengaskraftwerk: 2003
+
+","Fenne I: 1971
+Fenne II: 1989
+Fenne III: 1996
+
+","Fenne I: ca. 50 MW (Netto)
+Fenne II: ca. 140 MW (Netto)
+Fenne III: ca. 155 MW (Netto)
+MKV: 179 MW (Netto)
+HKV: 211 MW (Netto)
+Grubengaskraftwerk: 42 MW (Netto)
+
+","Steag GmbH
+","!549.2495785506.881444549° 14′ 58,5″ N, 006° 52′ 53,2″ O49.2495777777786.8814444444444
+"
+264,"Kraftwerk Wählitz[220]
+","37
+","40
+","Braunkohle
+","Hohenmölsen
+","Sachsen-Anhalt Sachsen-Anhalt
+","1994
+","0!
+","31 MW (Netto)
+","Mitteldeutsche Braunkohlengesellschaft mbH
+","51° 10' 0.646 N, 012° 4' 34.068"" O
+"
+265,"Kraftwerk Walheim[111]
+","410
+(davon 143 Heizöl und 267 Steinkohle)
+
+","0
+","Steinkohle: Blöcke 1, 2Öl (Heizöl): GT D
+","Walheim
+","Baden-Württemberg Baden-Württemberg
+","Block 1: 1964/1989/2011
+Block 2: 1967/1989/2011
+GT D: 1981
+
+","2019!Block 1: von 2000 bis 2005 in Kaltreserve; untersagt bis 1 Jahr nach Beginn der Engpassbewirtschaftung Deutschland/Österreich (1. Oktober 2018)[6], längstens bis 31. März 2020[1]Block 2: analog
+","Block 1: 96 MW (Netto)
+Block 2 148 MW (Netto)
+GT D: 136 MW (Netto)
+
+","EnBW Energie Baden-Württemberg AG
+","!549.0184395509.157331549° 01′ 06,4″ N, 009° 09′ 26,4″ O49.0184388888899.1573305555556
+"
+266,"Kraftwerk Waltenhofen-Veits[3]
+","ca. 35
+","0
+","Mineralölprodukte
+","Waltenhofen-Veits
+","Bayern Bayern
+","SKW Diesel: 1978
+SKW GT: 1988
+
+","
+","SKW Diesel: 11 MW (Netto)
+SKW GT: 24 MW (Netto)
+
+","Allgäuer Überlandwerke GmbH
+","
+"
+267,"Heizkraftwerk Wedel[221]
+","392
+(davon 290 Steinkohle und 102 Heizöl)
+
+","423
+","Steinkohle: Blöcke 1, 2
+Öl (Heizöl): GT A, B
+
+","Wedel
+","Schleswig-Holstein Schleswig-Holstein
+","Block 1: 1961/1993
+Block 2: 1962/1993
+GT A: 1972
+GT B: 1972
+
+","2022!
+(2024[222])
+
+","Block 1: 137 MW (Netto)
+Block 2: 123 MW (Netto)
+GT A: 51 MW (Netto)
+GT B: 51 MW (Netto)
+
+","Steinkohleblöcke: Vattenfall Europe Wärme AG
+Gasturbinen: Vattenfall Hamburg Wärme GmbH
+
+","!553.5664585509.725594553° 33′ 59,2″ N, 009° 43′ 32,1″ O53.5664583333339.7255944444444
+"
+268,"Gemeinschaftskraftwerk Weig[3]
+","ca. 55
+","?
+","Erdgas: Blöcke 1, 3, 4
+Reststoffe aus der Papierherstellung: Block 3
+
+","Mayen
+","Rheinland-Pfalz Rheinland-Pfalz
+","Block 1: 1992
+Block 2: 2013
+Block 3: 1992
+Block 4: 1971
+
+","Block 3: vorläufig stillgelegt
+","Block 1: 11 MW (Netto)
+Block 2: 27 MW (Netto)
+Block 3: 10 MW (Netto)
+Block 4: 8 MW (Netto)
+
+","Moritz J. Weig GmbH & Co. KG
+","
+"
+269,"Kraftwerk Weiher[223]
+","724
+","30
+","Steinkohle
+","Quierschied
+","Saarland Saarland
+","Block I: 1943/44
+Block II: 1963/64
+Block III: 1976/2006
+
+","Block I: 1973
+Block II: 1999/2001
+(Block III: untersagt bis 30.04.2020[1])
+
+","Block I: ca. 100 MW (Netto)
+Block II: ca. 275 MW (Netto)
+Block III: 656 MW (Netto)
+
+
+","Steag GmbH
+","!549.3347865507.035514549° 20′ 05,2″ N, 007° 02′ 07,9″ O49.3347861111117.0355138888889
+"
+270,"Industriekraftwerk Weißenborn[3]
+","ca. 20
+","?
+","Erdgas
+","Weißenborn
+","Sachsen Sachsen
+","1997
+","
+","19 MW (Netto)
+Eigenstrom- und Dampfversorgung der örtlichen Spezialpapier-Fabrik
+
+","Schoeller Technocell GmbH & Co KG
+","
+"
+271,"Kraftwerk Weisweiler[224]
+","2698 (davon 2119 Braunkohle, 544 Gas und 35 Müll)
+","183
+","Braunkohle: Blöcke A, B, C, D, E, F, G, HKlärschlamm: Blöcke E, F
+Erdgas: Blöcke VGT G, VGT H
+
+","Eschweiler
+","Nordrhein-Westfalen Nordrhein-Westfalen
+","Block A: 1955
+Block B: 1955
+Block C: 1955
+Block D: 1959
+Block E: 1965
+Block F: 1967
+Block G: 1974
+Block H: 1975
+Block VGT G: 2006
+Block VGT H: 2006
+Müllverbrennungs-anlage auf dem Gelände: 1996
+
+","2030!
+Block A: vor 2010Block B: vor 2010Block C: 2012Block D: 2012(Block E: um 2030[225])Block F: 2025 spätestens[39]Block G: 2028 spätestens[39]Block H: 2029 spätestens[39](Block VGT G: um 2030)(Block VGT H: um 2030)
+
+","Block A: ca. 90 MW (Netto)
+Block B: ca. 90 MW (Netto)
+Block C: 123 MW (Netto)
+Block D: 135 MW (Netto)
+Block E: 321 MW (Netto)
+Block F: 321 MW (Netto)
+Block G: 590 MW (Netto), mit VGT 663 MW (Netto)
+Block H: 590 MW (Netto), mit VGT 656 MW (Netto)
+Block VGT G: 200 MW (Netto)
+Block VGT H: 200 MW (Netto)
+MVA: 27 MW (Netto)
+
+Platz 5 - mit ~16,9 Mio. Jahrestonnen CO2 - auf der Liste der Kraftwerke mit dem höchsten CO2-Ausstoß in der EU.[2]
+
+","RWE Power AG
+","!550.8392065506.323856550° 50′ 21,1″ N, 006° 19′ 25,9″ O50.8392055555566.3238555555556
+"
+272,"Kraftwerk Werdohl-Elverlingsen[3]
+","220
+","0
+","Steinkohle: Blöcke E3, E4
+
+Heizöl: Blöcke E1, E2
+
+","Werdohl
+","Nordrhein-Westfalen Nordrhein-Westfalen
+","Block E1: 1975
+Block E2: 1975
+Block E3: 1971
+Block E4: 1982
+
+","0!
+Block E1: 2017 (Kaltreserve)Block E2: 2017 (Kaltreserve)Block E3: 2014Block E4: 2018
+
+","Block E1: 103 MW (Netto)
+Block E2: 103 MW (Netto)
+Block E3: 186 MW (Netto)
+Block E4: 310 MW (Netto)
+
+","Mark-E AG
+","
+"
+273,"Gersteinwerk[226]
+","1393
+","0
+","Steinkohle: Block K2
+Erdgas: Blöcke F1, F2, G1, G2, H1, H2, I1, I2, K1
+
+","Werne
+","Nordrhein-Westfalen Nordrhein-Westfalen
+","VGT F1: 1973
+DT F2: 1973
+VGT G1: 1973
+DT G2: 1973
+VGT H1: 1973
+DT H2: 1973
+VGT I1: 1973
+DT I2: 1973
+VGT K1: 1984
+DT K2: 1984
+
+","2021!(VGT F1: 2021[227])
+(DT F2: 2021[227])(VGT G1: 2021[227])
+(DT G2: 2021[227])VGT H1: 2018DT H2: vor 2010VGT I1: ?DT I2: 2012 (Kaltreserve)VGT K1: ?DT K2: 2019
+
+","VGT F1: 55 MW (Netto)
+DT F2: 355 MW (Netto)
+VGT G1: 55 MW (Netto)
+DT G2: 355 MW (Netto)
+VGT H1: 55 MW (Netto)
+DT H2: 355 MW (Netto)
+VGT I1: 55 MW (Netto)
+DT I2: 355 MW (Netto)
+VGT K1: 112 MW (Netto)
+DT K2: 614 MW (Netto)
+Gas-Block L mit max. 1300 MW in Planung[228]
+
+","RWE Generation SE
+","!551.6735535507.720633551° 40′ 24,8″ N, 007° 43′ 14,3″ O51.6735527777787.7206333333333
+"
+274,"Industriekraftwerk Wesseling[3]
+","168
+","?
+","Mineralölprodukte: Block D210
+Erdgas: Block D290
+
+","Wesseling
+","Nordrhein-Westfalen Nordrhein-Westfalen
+","D 210: 1962
+D 290: 1996
+
+","0!
+","D 210: 66 MW (Netto)
+D 290: 52 MW (Netto)
+Eigenstrom- und Dampfversorgung für den örtlichen Chemiepark
+
+","Basell Polyolefine GmbH
+","
+"
+275,"Heizkraftwerk Wiesengrund[3]
+","ca. 25
+","?
+","Erdgas
+Heizöl
+
+","Eisenach
+","Thüringen Thüringen
+","1993
+","
+","22 MW (Netto)
+","Opel Automobile GmbH
+","
+"
+276,"Kraftwerk Wilhelmshaven (Uniper)[8]
+","844 (davon 788 Steinkohle und 56 Heizöl)
+","0
+","Steinkohle: Block 1
+Heizöl: GT
+
+","Wilhelmshaven
+","Niedersachsen Niedersachsen
+","Block 1: 1976/98
+GT: 1973
+
+","2021!(Block 1: 2021?[229])
+GT: ?
+
+","Block 1: 757 MW (Netto)
+GT: 56 MW (Netto)
+von hier wird das Luftspeicher-Gasturbinen-Kraftwerk Huntorf ferngesteuert.
+
+","Uniper Kraftwerke GmbH
+","!553.5645565508.146389553° 33′ 52,4″ N, 008° 08′ 47,0″ O53.5645555555568.1463888888889
+"
+277,"Kraftwerk Wilhelmshaven (Engie)[3]
+","830
+","0
+","Steinkohle
+","Wilhelmshaven
+","Niedersachsen Niedersachsen
+","Block 1: 2015
+","0!Block 1: ?
+","Block 1: 731 MW (Netto)
+","Onyx Power Assets GmbH
+","!553.5658145508.146239553° 33′ 56,9″ N, 008° 08′ 46,5″ O53.5658138888898.1462388888889
+"
+278,"Kraftwerk Wiesbaden-Biebrich (Industriepark Kalle Albert)[3]
+","ca. 35
+","?
+","Erdgas und Klärgas: Block 1
+Altholz: Block 2
+
+","Wiesbaden-Biebrich
+","Hessen Hessen
+","Block 1: 2006
+Block 2: 2003
+(GuD: 2021)
+
+","Block 1: ?
+(Block 2: 2021)
+
+
+","Block 1: 23 MW (Netto),
+Block 2: 7 MW (Netto)
+Eigenstrom- und Dampfversorgung für den örtlichen Chemiepark
+(Erweiterung um zwei GuD mit insgesamt ca. 50 MWel im Bau[230])
+
+","Infraserv GmbH & Co. Wiesbaden KG
+","
+"
+279,"Gaskraftwerk Witzenhausen[3]
+","ca. 45 (davon ca. 15 Erdgas und ca. 30 EBS)
+","?
+","Erdgas, Biogas: Erdgasblock
+EBS, Heizöl: EBS-Block
+
+","Witzenhausen
+","Hessen Hessen
+","Erdgasblock: 1990
+EBS-Block: 2009
+
+","
+","Erdgasblock: 13 MW (Netto)
+EBS-Block: 28 MW (Netto)
+Eigenstrom- und Dampfversorgung für die örtliche Papierfabrik 
+
+","Erdgasblock: DS Smith Paper Deutschland GmbH
+EBS-Block: B+T Energie GmbH
+
+","
+"
+280,"Spitzenlastkraftwerk Wolfen[3]
+","ca. 42
+","0
+","Erdgas
+","Wolfen
+","Sachsen-Anhalt Sachsen-Anhalt
+","1997
+","
+","40 MW (Netto)
+","envia THERM GmbH
+","
+"
+281,"Heizkraftwerk Wolfsburg Nord[12]
+","140
+","755
+","Steinkohle
+Öl/Erdgas
+
+EBS (Altöl, Lackgranulate)
+
+","Wolfsburg
+","Niedersachsen Niedersachsen
+","Block A: 1959/2000
+Block B: 1959/2000
+
+","2021!
+(Block A: 2021/2022)
+(Block B: 2021/2022)
+
+","Block A: 62 MW (Netto)
+Block B: 62 MW (Netto)
+Eigenstrom- und Prozesswärme/-kälte- sowie Druckluftversorgung für das VW-Werk und die Autostadt, Fernwärmeauskopplung für die Stadt Wolfsburg, 
+Steinkohleblöcke sollen durch ein GuD-Kraftwerk mit 136 MWel und 386 MWth ersetzt werden[231]
+
+","Volkswagen Kraftwerk GmbH
+","!552.4325005510.786944552° 25′ 57,0″ N, 010° 47′ 13,0″ O52.432510.786944444444
+"
+282,"Heizkraftwerk Wolfsburg West[12]
+","306
+","160
+","Steinkohle
+","Wolfsburg
+","Niedersachsen Niedersachsen
+","Block 1: 1985
+Block 2: 1985
+
+","2021!
+(Block 1: 2021/2022)
+(Block 2: 2021/2022)
+
+","Block 1: 139 MW (Netto)
+Block 2: 139 MW (Netto)
+Steinkohleblöcke sollen durch ein GuD-Kraftwerk mit 288 MWel und 265 MWth ersetzt werden[231]
+
+","Volkswagen Kraftwerk GmbH
+","!552.4419445510.764167552° 26′ 31,0″ N, 010° 45′ 51,0″ O52.44194444444410.764166666667
+"
+283,"Industriekraftwerk Worms[3]
+","ca. 12
+","?
+","Erdgas
+","Worms
+","Rheinland-Pfalz Rheinland-Pfalz
+","1991
+","
+","12 MW (Netto)
+Eigenstrom- und Dampfversorgung des örtlichen Chemieparks
+
+","Grace GmbH
+","
+"
+284,"Blockheizkraftwerk Wörth[3]
+","ca. 13
+","ca. 15
+","Erdgas
+","Wörth am Rhein
+","Rheinland-Pfalz Rheinland-Pfalz
+","2013
+","
+","13 MW (Netto)
+Eigenstrom- und Dampfversorgung der örtlichen LKW-Fabrik
+
+","Daimler AG
+","
+"
+285,"Heizkraftwerk Wörth[232]
+","62
+","?
+","Erdgas
+Reststoffe aus der Papierherstellung
+
+","Wörth am Rhein
+","Rheinland-Pfalz Rheinland-Pfalz
+","2007
+","0!
+","59 MW (Netto)
+Eigenstrom- und Dampfversorgung der örtlichen Papierfabrik;
+soll um einen weiteren Block erweitert werden[233]
+
+","Palm Power GmbH & Co. KG
+","49° 2' 43.127""  N, 008° 17' 4.121"" O
+"
+286,"Heizkraftwerk Wuppertal-Barmen[234]
+","145
+","112
+","Erdgas: Block 1
+Heizöl: Block 2
+
+","Wuppertal-Barmen
+","Nordrhein-Westfalen Nordrhein-Westfalen
+","Block 1: 2005
+Block 2: 2008
+
+","0!
+","Block 1: 82 MW (Netto)
+Block 2: 60 MW (Netto)
+
+","WSW Energie & Wasser AG
+","!551.2691285507.200475551° 16′ 08,9″ N, 007° 12′ 01,7″ O51.2691277777787.200475
+"
+287,"Heizkraftwerke Würzburg an der Friedensbrücke[3]
+","125
+","215
+","Erdgas
+","Würzburg
+","Bayern Bayern
+","GT I: 2005
+GT II: 2009
+TS II: 1993
+TS III: 1971
+
+","0!
+","GT I: 45 MW (Netto)
+GT II: 30 MW (Netto)
+TS II: 25 MW (Netto)
+TS III: 23 MW (Netto)
+
+","Heizkraftwerke Würzburg GmbH
+","!549.7999445509.923278549° 47′ 59,8″ N, 009° 55′ 23,8″ O49.7999444444449.9232777777778
+"
+288,"Kraftwerk Zeitz[3]
+","70 (davon 45 Braunkohle und 25 Erdgas)
+","?
+","Braunkohle: Blöcke 1 und 2
+Erdgas: Block 3
+
+","Zeitz
+","Sachsen-Anhalt Sachsen-Anhalt
+","Block 1: 1993
+Block 2: 1993
+Block 3: 2005
+
+","0!
+","Block 1: 23 MW (Netto)
+Block 2: 18 MW (Netto)
+Block 3: 23 MW (Netto)
+Eigenstrom- und Dampfversorgung der örtlichen Zucker- und Ethanolfabrik
+
+","Block 1 und 3: Südzucker AG
+Block 2: CropEnergies Bioethanol GmbH Zeitz
+
+","51° 03' 07.1""  N, 012° 06' 37.9"" O
+"
+289,"Industriekraftwerk Zielitz[3]
+","ca. 30
+","?
+","Erdgas
+","Zielitz
+","Sachsen-Anhalt Sachsen-Anhalt
+","1996/2010
+","
+","27 MW (Netto)
+Eigenstrom- und Dampfversorgung des Kaliwerkes Zielitz
+
+","K+S AG
+","
+"
+290,"Kraftwerk Zolling[235]
+","572 (davon 501 Steinkohle, 21 Biomasse und 50 Heizöl)
+","180
+(400 MWh Wärmespeicher)
+
+","Steinkohle: Blöcke 1, 2, 3, 4, 5Klärschlamm: Block 5 (geplant)
+Öl (Heizöl): GT 1, 2 
+Biomasse: Block 6 
+
+","Zolling
+","Bayern Bayern
+","Block 1: 1958
+Block 2: 1961
+Block 3: 1964
+Block 4: 1966
+Block 5: 1986/2011
+Block 6: 2003
+GT 1: 1976
+GT 2: 1976
+
+","0!Block 1: 1982
+Block 2: 1984
+Block 3: 1987
+Block 4: 1987
+
+
+
+","Block 1: 38 MW (Netto)
+Block 2: 47 MW (Netto)
+Block 3: 71 MW (Netto)
+Block 4: 97 MW (Netto)
+Block 5: 472 MW (Netto)
+Block 6: 18 MW (Netto)
+GT 1: 23 MW (Netto)
+GT 2: 23 MW (Netto)
+über Gasturbine schwarzstartfähig
+
+","Onyx Power Assets GmbH
+","!548.4552925511.799514548° 27′ 19,1″ N, 011° 47′ 58,3″ O48.45529166666711.799513888889
+"
+291,"Industriekraftwerk Zuckerfabrik Anklam[3]
+","17
+","?
+","Erdgas
+","Anklam
+","Mecklenburg-Vorpommern Mecklenburg-Vorpommern
+","1993
+","
+","15 MW (Netto)
+Eigenstrom- und Dampfversorgung der örtlichen Zuckerfabrik
+
+","Suiker Unie GmbH & Co. KG
+","
+"
+292,"Industriekraftwerk Zwickau[3]
+","ca. 15
+","?
+","Erdgas
+","Zwickau
+","Sachsen Sachsen
+","2014
+","
+","13 MW (Netto)
+Eigenstrom- und Dampfversorgung des örtlichen VW-Werks
+
+","Volkswagen Sachsen GmbH
+","
+"

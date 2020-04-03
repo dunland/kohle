@@ -40,7 +40,7 @@ Erzeugung:
 - 8,8 GW zum 31.12.2030
 - 0 GW zum 31.12.2038
 
-![Braunkohle Stilllegungspfad](img/braunkohle_stilllegungspfad)
+![Braunkohle Stilllegungspfad](img/braunkohle_stilllegungspfad.png)
 
 #### BMWi zur "Kohlekommission"
 https://www.bmwi.de/Redaktion/DE/FAQ/Kohlekommission/faq-kohlekommission.html
