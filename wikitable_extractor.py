@@ -93,9 +93,9 @@ df_sorted['KW-Name'].iloc[0]
 df_braunkohle_steinkohle = df['KW-Name'].iloc[0] # works
 df_braunkohle_steinkohle = df['Brutto­leistungin MWel'].iloc[0] # works
 df_braunkohle_steinkohle = df['Wärmeaus­kopplungin MWth'].iloc[1] # works
-df_braunkohle_steinkohle = df['Energieträger'].iloc[1] # NOPE
+df_braunkohle_steinkohle = df['Energie­träger'].iloc[1] # funktioniert nach copy&paste aus df.keys() !
 df_braunkohle_steinkohle = df['Standort'].iloc[:] # works
-df_braunkohle_steinkohle = df['Bundesland'].iloc[:] # NOPE
+df_braunkohle_steinkohle = df['Bun­des­land'].iloc[:] # funktioniert nach copy&paste aus df.keys() !
 df_braunkohle_steinkohle = df['Inbetrieb­nahme/Ertüchtigung'].iloc[0] # works
 df_braunkohle_steinkohle = df['(geplante)Still­legung'].iloc[0] # works
 df_braunkohle_steinkohle = df['Bemerkungen'].iloc[0] # works
